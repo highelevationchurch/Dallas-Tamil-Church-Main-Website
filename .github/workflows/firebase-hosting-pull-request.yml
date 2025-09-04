@@ -1,0 +1,22 @@
+# This workflow is triggered on pull requests.
+# It deplates to a new preview channel on Firebase Hosting.
+
+name: Deploy to Firebase Hosting Preview
+
+'on': pull_request
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          projectId: fir-sitetest
+          # The channelId here creates a new preview channel.
+          # Use the default branch for the channel name.
+          channelId: '${{ github.event.pull_request.head.ref }}'
+          only: hosting
