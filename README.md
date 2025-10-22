@@ -2,5 +2,7 @@ Firebase hosted production site:
 https://fir-sitetest.web.app/
 
 
-Songs PPT repo:
+PPTs All Songs repo:
 https://github.com/highelevationchurch/PPTs-dallas-tamil-church-website
+Newsletter repo:
+https://github.com/highelevationchurch/Newsletters-dallas-tamil-church
