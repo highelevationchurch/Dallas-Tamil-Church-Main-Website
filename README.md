@@ -1,4 +1,4 @@
-production site:
+Firebase hosted production site:
 https://fir-sitetest.web.app/
 
 
