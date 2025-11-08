@@ -1,0 +1,174 @@
+/* CSS Document */
+
+@font-face
+{
+font-family: 'tamilara';
+src: url('tamilara.eot');
+src: local('tamilara'),
+url('tamilara.ttf') format('truetype');
+}
+
+.tamilaraFontStyle
+{
+	font-family: 'tamilara';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'SAKUNT_I';
+src: url('SAKUNT_I.eot');
+src: local('SAKUNT_I'),
+url('SAKUNT_I.ttf') format('truetype');
+}
+
+.SakuntIFontStyle
+{
+	font-family: 'SAKUNT_I';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'Tamil Bible';
+src: url('Tamil Bible.eot');
+src: local('Tamil Bible'),
+url('Tamil Bible.ttf') format('truetype');
+}
+
+.TamilBibleFontStyle
+{
+	font-family: 'Tamil Bible';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'Bamini';
+src: url('Bamini.eot');
+src: local('Bamini'),
+url('Bamini.ttf') format('truetype');
+}
+
+.BaminiFontStyle
+{
+	font-family: 'Bamini';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'SaiIndira';
+src: url('SaiIndira.eot');
+src: local('SaiIndira'),
+url('SaiIndira.ttf') format('truetype');
+}
+
+.SaiIndiraFontStyle
+{
+	font-family: 'SaiIndira';
+	font-size:24px;
+	font-weight:bold;
+}
+
+.topText
+{
+	color:#ac9558; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+.contentText
+{
+	color:#000000; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.downloadPptSong
+{
+	font-family: 'Arial';
+	font-size:14px;
+	font-weight:bold;
+}
+
+.contentText1
+{
+	color:#000000; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+@font-face
+{
+font-family: 'Kruti Dev 010';
+src: url('k010.eot');
+src: local('k010'),
+url('k010.ttf') format('truetype');
+}
+
+.KrutiDevFontStyle
+{
+	font-family: 'Kruti Dev 010';
+	font-weight:bold;
+	font-size:22px;
+}
+
+.contentWrapper {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0px 12px 24px 12px;
+}
+.linkWrapper {
+	clear: both;
+	padding: 8px 0px;
+	height: 18px;
+	border-style: none;
+	width: 100%;
+}
+.viewSong {
+	float: left;
+	height: 25px;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:22px;
+}
+.downloadSong {
+	float: right;
+	height: 25px;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:22px;
+}
+.songTitle {
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+}
+.contentTamil {
+	font-size:18px;
+	font-weight:bold;
+}
+.contentEnglish {
+	font-size:18px;
+	font-family:Arial;
+	font-weight:bold;
+}
+.viewChords {
+	float: left;
+	height: 25px;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:22px;
+}

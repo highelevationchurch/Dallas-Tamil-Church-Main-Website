@@ -1,0 +1,5 @@
+.hide {display:none;}
+.display {display:block;}
+input[type=radio]:hover, label{
+	cursor: pointer;
+}
