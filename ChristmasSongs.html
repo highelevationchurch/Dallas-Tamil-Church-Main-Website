@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- portions of this code were taken from Bootstrap's example's subject to the license here: https://raw.githubusercontent.com/twbs/bootstrap/master/LICENSE -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="Dallas Tamil Church, Irving Tamil Church, DFW Tamil Church, Dallas Tamil Service, Irving Tamil Service, DFW Tamil Service,Tamil Church Dallas, Tamil Service Dallas, Tamil Church Texas, dallas tamil service" />
+    <title>Dallas Indian Church</title>
+    <link rel="stylesheet" href="css/bootstrap.3.3.5.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/justified-nav.css?v=5">
+    <link rel="stylesheet" href="css/dtc.css?v=18">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.3.7.3.min.js"></script>
+    <script src="js/respond.1.4.2.min.js"></script>
+    <![endif]-->
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.3.3.5.min.js"></script>
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/Menu.js"></script>
+    <script>
+        if (navigator.userAgent.indexOf("Safari") > -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+            document.documentElement.className += document.documentElement.className ? ' safari' : 'safari';
+        }
+    </script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=225073567603261";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript" src="jsTab/jquery-1.3.1.min.js"></script>
+<script src="js/Menu.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {	
+
+
+  //Get all the LI from the #tabMenu UL
+  $('#tabMenu li').click(function(){
+    
+    //perform the actions when it's not selected
+    if (!$(this).hasClass('selected')) {    
+           
+	    //remove the selected class from all LI    
+	    $('#tabMenu li').removeClass('selected');
+	    
+	    //Reassign the LI
+	    $(this).addClass('selected');
+	    
+	    //Hide all the DIV in .boxBody
+	    $('.boxBody div.parent').slideUp('1500');
+	    
+	    //Look for the right DIV in boxBody according to the Navigation UL index, therefore, the arrangement is very important.
+	    $('.boxBody div.parent:eq(' + $('#tabMenu > li').index(this) + ')').slideDown('1500');
+	    
+	 }
+    
+  }).mouseover(function() {
+
+    //Add and remove class, Personally I dont think this is the right way to do it, anyone please suggest    
+    $(this).addClass('mouseover');
+    $(this).removeClass('mouseout');   
+    
+  }).mouseout(function() {
+    
+    //Add and remove class
+    $(this).addClass('mouseout');
+    $(this).removeClass('mouseover');    
+    
+  });
+
+	//Mouseover with animate Effect for Category menu list
+  $('.boxBody #category li').click(function(){
+
+    //Get the Anchor tag href under the LI
+    //window.location = $(this).children().attr('href');
+  }).mouseover(function() {
+
+    //Change background color and animate the padding
+    $(this).css('backgroundColor','#888');
+    $(this).children().animate({paddingLeft:"20px"}, {queue:false, duration:300});
+  }).mouseout(function() {
+    
+    //Change background color and animate the padding
+    $(this).css('backgroundColor','');
+    $(this).children().animate({paddingLeft:"0"}, {queue:false, duration:300});
+  });  
+	
+	//Mouseover effect for Posts, Comments, Famous Posts and Random Posts menu list.
+  $('#.boxBody li').click(function(){
+    //window.location = $(this).children().attr('href');
+  }).mouseover(function() {
+    $(this).css('backgroundColor','#888');
+  }).mouseout(function() {
+    $(this).css('backgroundColor','');
+  });  	
+	
+});
+
+</script>
+<style>
+
+a {color:#ccc;text-decoration:none;}
+a:hover {color:#ccc;text-decoration:none}
+
+#tabMenu {margin:0;padding:0 0 0 15px;list-style:none;}
+#tabMenu li {float:left;height:32px;width:200px;cursor:pointer;cursor:hand}
+
+li.comments {
+background:url(imagesTab/tabComment.png) no-repeat 0 -32px;
+}
+
+li.comments1 {
+background:url(imagesTab/tabComment1.png) no-repeat 0 -32px;
+}
+
+li.comments2 {
+/* background:url(imagesTab/tabComment2.png) no-repeat 0 -32px; */
+}
+
+li.posts {
+background:url(imagesTab/tabStar.png) no-repeat 0 -32px;
+}
+li.category {background:url(imagesTab/tabFolder.png) no-repeat 0 -32px;}
+li.famous {background:url(imagesTab/tabHeart.png) no-repeat 0 -32px;}
+li.random {background:url(imagesTab/tabRandom.png) no-repeat 0 -32px;}
+
+li.mouseover {background-position:0 0;}
+li.mouseout {background-position:0 -32px;}
+li.selected {background-position:0 0;}
+
+.box {width:900px}
+.boxTop {background:url(imagesTab/boxTop.png) no-repeat;height:11px;clear:both}
+.boxBody {background-color:#282828;}
+.boxBottom {background:url(imagesTab/boxBottom.png) no-repeat;height:11px;}
+
+.boxBody div.parent {display:none;}
+.boxBody div.show {display:block;}
+
+.boxBody div ul {margin:0 10px 0 25px;padding:0;width:400px;list-style-image:url(imagesTab/arrow.gif)}
+.boxBody div li {border-bottom:1px dotted #8e8e8e; padding:4px 0;cursor:hand;cursor:pointer}
+.boxBody div ul li.last {border-bottom:none}
+.boxBody div li span {font-size:8px;font-style:italic; color:#888;}
+</style>
+
+<!-- Songs Display Ends Here -->
+
+
+<div class="container-fluid">
+    <div class="masthead">
+        <a href="/"><img class="header-img-top img-responsive" src="images/DallasChurch_header_1.png" /></a>
+
+        <table align="center" width="100%">
+<tr>
+<td bgcolor="black">
+<!-- <marquee><a href="#"  style="color:white; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;">New Year Service 2016 - Dec 31<sup>st</sup>, Thursday @ 11.00 PM - Plano, Texas only</a></marquee> -->
+</td>
+</tr>
+</table>
+       <div id='menu' />
+        <a href="/"><img class="header-img-bottom img-responsive" src="images/DallasChurch_header_1.png" /></a>
+    </div>
+
+    <div class="container-fluid main">
+        
+        
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="center-block">
+                   <!-- Songs List Display Start Here -->
+				   
+				   
+				   				   <table border="0">
+	<tr>
+		<td>
+			|<a href="#alist" style="padding-right: 5px;">A</a>|
+		</td>
+		<td>
+			<a href="#blist" style="padding-right: 5px;">B</a>|
+		</td>
+		<td>
+			<a href="#clist" style="padding-right: 5px;">C</a>|
+		</td>
+		<td>
+			<a href="#dlist" style="padding-right: 5px;">D</a>|
+		</td>
+		<td>
+			<a href="#elist" style="padding-right: 5px;">E</a>|
+		</td>
+		<td>
+			<a href="#flist" style="padding-right: 5px;">F</a>|
+		</td>
+		<td>
+			<a href="#glist" style="padding-right: 5px;">G</a>|
+		</td>
+		<td>
+			<a href="#hlist" style="padding-right: 5px;">H</a>|
+		</td>
+		<td>
+			<a href="#ilist" style="padding-right: 5px;">I</a>|
+		</td>
+		<td>
+			<a href="#jlist" style="padding-right: 5px;">J</a>|
+		</td>
+		<td>
+			<a href="#klist" style="padding-right: 5px;">K</a>|
+		</td>
+		<td>
+			<a href="#llist" style="padding-right: 5px;">L</a>|
+		</td>
+		<td>
+			<a href="#mlist" style="padding-right: 5px;">M</a>|
+		</td>
+		<td>
+			<a href="#nlist" style="padding-right: 5px;">N</a>|
+		</td>
+		<td>
+			<a href="#olist" style="padding-right: 5px;">O</a>|
+		</td>
+		<td>
+			<a href="#plist" style="padding-right: 5px;">P</a>|
+		</td>
+		<td>
+			<a href="#qlist" style="padding-right: 5px;">Q</a>|
+		</td>
+		<td>
+			<a href="#rlist" style="padding-right: 5px;">R</a>|
+		</td>
+		<td>
+			<a href="#slist" style="padding-right: 5px;">S</a>|
+		</td>
+		<td>
+			<a href="#tlist" style="padding-right: 5px;">T</a>|
+		</td>
+		<td>
+			<a href="#ulist" style="padding-right: 5px;">U</a>|
+		</td>
+		<td>
+			<a href="#vlist" style="padding-right: 5px;">V</a>|
+		</td>
+		<td>
+			<a href="#wlist" style="padding-right: 5px;">W</a>|
+		</td>
+		<td>
+			<a href="#xlist" style="padding-right: 5px;">X</a>|
+		</td>
+		<td>
+			<a href="#ylist" style="padding-right: 5px;">Y</a>|
+		</td>
+		<td>
+			<a href="#zlist" style="padding-right: 5px;">Z</a>|
+		</td>
+
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+
+
+			<p>					   
+<a name="alist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">A</span>				   
+   			 <ul>
+    	<li><a href="Songss/AathiThiruvaarthaiThiviya.html" style="font-weight:bold; text-decoration:none;" target="_blank">Aathi Thiruvaarthai Thiviya</a></li>
+		 <li><a href="Songss/AnbinaalAnaithida.html" style="font-weight:bold; text-decoration:none;" target="_blank">Anbinaal Anaithida</a></li>
+			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>		 
+		 
+		 
+		 			<p>					   
+<a name="blist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">B</span>	
+<ul>
+		<li> <a href="Songss/BaktharaeVaarum.html" style="font-weight:bold; text-decoration:none;" target="_blank">Baktharae Vaarum</a></li>
+					</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="clist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">C</span>	
+<ul>
+		<li> <a href="Songss/ChristmasNaalidhe.html" style="font-weight:bold; text-decoration:none;" target="_blank">Christmas Naalidhe</a></li>
+		
+							</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="dlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">D</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="elist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">E</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+			<p>					   
+<a name="flist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">F</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="glist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">G</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="hlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">H</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="ilist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">I</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="jlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">J</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="klist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">K</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="llist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">L</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="mlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">M</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+			<p>					   
+<a name="nlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">N</span>	
+<ul>
+	  <li> <a href="Songss/NathchramVanilley.html" style="font-weight:bold; text-decoration:none;" target="_blank">Nathchram Vanilley</a></li>
+	  <li><a href="Songss/NamakoruPalaganPirandhar.html" style="font-weight:bold; text-decoration:none;" target="_blank">Namakoru Palagan Pirandhar</a></li>
+	  
+	  			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="olist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">O</span>	
+<ul>
+      <li> <a href="Songss/OruRojaMalarnthathuPole.html" style="font-weight:bold; text-decoration:none;" target="_blank">Oru Roja Malarnthathu Pole</a></li>
+	  			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>	  
+	  
+	  
+			<p>					   
+<a name="plist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">P</span>	
+<ul>	  
+	  <li><a href="Songss/PirantharPiranthar.html" style="font-weight:bold; text-decoration:none;" target="_blank">Piranthar Piranthar</a></li>
+	  			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+	  
+	  			<p>					   
+<a name="qlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">Q</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+			<p>					   
+<a name="rlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">R</span>	
+<ul>
+	  <li><a href="Songss/RajaRajaDevaraja.html" style="font-weight:bold; text-decoration:none;" target="_blank">Raja Raja Devaraja</a></li>
+	  <li><a href="Songss/RajathiRaja.html" style="font-weight:bold; text-decoration:none;" target="_blank">Rajathi Raja</a></li>	
+		  			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+  	  			<p>					   
+<a name="slist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">S</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+	  			<p>					   
+<a name="tlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">T</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+			<p>					   
+<a name="clist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">C</span>	
+<ul>	  
+      <li><a href="Songss/UllamellamUrugudhaya.html" style="font-weight:bold; text-decoration:none;" target="_blank">Ullamellam Urugudhaya</a></li>
+      <li class="last"><a href="Songss/UmNamamVazhgaRaja.html" style="font-weight:bold; text-decoration:none;" target="_blank">Um Namam Vazhga Raja</a></li>
+			</ul>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+	
+	
+	
+		  			<p>					   
+<a name="vlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">V</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+	  			<p>					   
+<a name="wlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">W</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+	  			<p>					   
+<a name="xlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">X</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+	  			<p>					   
+<a name="ylist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">Y</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+
+	  			<p>					   
+<a name="zlist">
+<span style="font-weight: bold; font-size: 25px; padding-left: 25px;">Z</span>	
+Coming Soon . . .<br>
+</a>
+<a href="#top" style="font-weight: bold; float: right;">Top of Page</a>
+</p>
+
+		  
+		  
+		  <!-- Songs List Display Ends Here -->
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-7 col-sm-6">
+                <a class="btn btn-primary" style="margin-top: 20px" href="http://dallastamilchurch.org/highelevation.carrollton/online-giving.html" role="button"><b>Donate</b></a>
+            </div>
+            <div class="col-md-5 col-sm-6 contact-us">
+                <h3><span class="glyphicon glyphicon-earphone"></span>Contact Us</h3>
+                <p>
+                    Phone: <a href="tel:19728278370">(972) 827-8370</a><br />
+                   
+                    Email: <a href="mailto:contactus@highelevation.org">contactus@highelevation.org</a><br />
+                    Facebook: <a href="https://www.facebook.com/DallasTamilChurch">www.facebook.com/DallasTamilChurch</a>
+                </p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-5 col-sm-6 contact-us">
+                <ul class="nav navbar-nav">
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="aboutus.html">About Us</a></li>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="mission.html">Mission</a></li>
+								<!-- <li><a href="TamilSongsIndex.html">Tamil Songs Index</a></li> -->
+                                <li><a href="connect.html">Connect</a></li>
+                                <li><a href="contactus.html">Contact Us</a></li>
+                </ul>
+			</div>
+			<div class="copy">&copy; Copyright Dallas Tamil Church. All Rights Reserved</div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+</body>
+
+</html>
