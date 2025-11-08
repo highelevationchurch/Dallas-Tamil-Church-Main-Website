@@ -1,0 +1,105 @@
+/* This code were taken from one of Bootstrap's example's subject to the license here: https://raw.githubusercontent.com/twbs/bootstrap/master/LICENSE */
+
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+/* Customize the nav-justified links to be fill the entire space of the .navbar */
+
+.masthead .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background-image: none;
+    background-color: #415315;
+}
+
+
+.masthead .nav > li > a, .masthead div.navbar-collapse, .masthead div.navbar-header {
+  margin-bottom: 0;
+  font-weight: normal;
+  color: #ddd !important;
+  text-align: center;
+  background-color: #415315; /* Old browsers */
+  background-image:        -ms-linear-gradient(top, #9da787 0%, #415315 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9da787), to(#415315));
+  background-image: -webkit-linear-gradient(top, #9da787 0%, #415315 100%);
+  background-image:      -o-linear-gradient(top, #9da787 0%, #415315 100%);
+  background-image:      -moz-linear-gradient(top, #9da787 0%, #415315 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(top), color-stop(0%, #9da787), to(#415315));
+  background-image:         linear-gradient(to top, #9da787 0%, #415315 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9da787', endColorstr='#415315',GradientType=0 ); /* IE6-9 */
+  background-repeat: repeat-x; /* Repeat the gradient */
+/*  border-bottom: 1px solid #3f5113; */
+}
+
+.masthead #navbar {
+    border-bottom: 1px solid #3f5113;
+    border-left: 1px solid #3f5113;
+    border-right: 1px solid #3f5113;
+}
+
+.masthead div.navbar-header a {
+    color: #ddd !important;
+}
+
+.nav > li > a, div.navbar-collapse {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.masthead .nav > .active > a,
+.masthead .nav > .active > a:hover,
+.masthead .nav > .active > a:focus {
+  background-color: #3f5113;
+  background-image: none;
+  -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
+          box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
+}
+.masthead .nav-justified > li:first-child > a {
+      border-radius: 0;
+}
+.masthead .nav > li:last-child > a {
+    /*   border-bottom: 0; */
+     border-radius: 0;
+}
+
+@media (min-width: 768px) {
+  .masthead .nav {
+    max-height: 52px;
+  }
+  .masthead .nav > li > a {
+    border-right: 1px solid #3f5113;
+    border-left: 1px solid #9da787;
+  }
+  .masthead .nav > li:first-child > a {
+    border-left: 0;
+    border-radius: 0;
+  }
+  .masthead .nav > li:last-child > a {
+    border-right: 0;
+    border-radius: 0;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

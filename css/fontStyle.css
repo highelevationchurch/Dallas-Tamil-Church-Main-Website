@@ -1,0 +1,223 @@
+/* CSS Document */
+
+@font-face
+{
+font-family: 'tamilara';
+src: url('tamilara.eot');
+src: local('tamilara'),
+url('tamilara.ttf') format('truetype');
+}
+
+.tamilaraFontStyle
+{
+	font-family: 'tamilara';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'SAKUNT_I';
+src: url('SAKUNT_I.eot');
+src: local('SAKUNT_I'),
+url('SAKUNT_I.ttf') format('truetype');
+}
+
+.SakuntIFontStyle
+{
+	font-family: 'SAKUNT_I';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'Tamil Bible';
+src: url('Tamil Bible.eot');
+src: local('Tamil Bible'),
+url('Tamil Bible.ttf') format('truetype');
+}
+
+.TamilBibleFontStyle
+{
+	font-family: 'Tamil Bible';
+	font-size:24px;
+	font-weight:bold;
+}
+
+@font-face
+{
+font-family: 'Bamini';
+src: url('Bamini.eot');
+src: local('Bamini'),
+url('Bamini.ttf') format('truetype');
+}
+
+.BaminiFontStyle16px
+{
+	font-family: 'Bamini';
+	font-weight:bold;
+	font-size:16px;
+}
+
+.BaminiFontStyle
+{
+	font-family: 'Bamini';
+	font-weight:bold;
+	font-size:18px;	
+}
+
+.BaminiFontStyle18px
+{
+	font-family: 'Bamini';
+	font-weight:bold;
+	font-size:18px;
+}
+
+@font-face
+{
+font-family: 'SaiIndira';
+src: url('SaiIndira.eot');
+src: local('SaiIndira'),
+url('SaiIndira.ttf') format('truetype');
+}
+
+.SaiIndiraFontStyle
+{
+	font-family: 'SaiIndira';
+	font-size:24px;
+	font-weight:bold;
+}
+
+.topText
+{
+	color:#ac9558; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+@font-face
+{
+font-family: 'Latha';
+src: url('Latha.eot');
+src: local('Latha'),
+url('Latha.ttf') format('truetype');
+}
+
+.LathaFontStyle
+{
+	font-family: 'Latha';
+	font-size:24px;
+	font-weight:bold;
+}
+
+.introConclusionStyle
+{
+	color:#ac9558;
+	font-weight:bold;
+	font-size: 18px;
+}
+
+.englishGreenText
+{
+	 font-weight:bold;
+	 color:#696C1D;
+}
+
+.redVersesText
+{
+	 color:red;
+}
+
+.boldText
+{
+	font-weight:bold;
+	color: #000000;
+	padding-left:2px;
+}
+
+.introConclusionStyleBlack
+{
+	color:#000000;
+	font-weight:bold;
+	font-size: 20px;
+	padding-left:2px;
+}
+
+.headTxt16px
+{
+	color:#ac9558;
+	font-weight:bold;
+	font-size: 16px;
+	color:#000000;
+	padding-left:2px;
+}
+
+
+.headingOne
+{
+	color:#000000;
+	font-weight:bold;
+	font-size: 18px;
+	padding-left:2px;
+}
+
+.bgOrange
+{
+	background-color:#FEBA57;
+	border-radius: 0px 10px 10px 0px;
+}
+
+.bgGreen
+{
+	background-color:#ADB981;
+	border-radius: 0px 10px 10px 0px;
+}
+
+.bgBlue
+{
+	background-color:#CFE1F5;
+	border-radius: 0px 10px 10px 0px;
+}
+
+.blackText
+{
+	font-weight:bold;
+    color:#000000;
+}
+
+.bgStudyGuidelines
+{
+	background-color:#EFBD73;
+	border-radius: 20px 20px 20px 20px;
+}
+
+.TFtable
+{
+		width:100%; 
+		border-collapse:collapse; 
+}
+
+.TFtable td
+{ 
+	padding:7px; border:#4e95f4 1px solid;
+}
+
+/* provide some minimal visual accomodation for IE8 and below */
+.TFtable tr
+{
+	background: #b8d1f3;
+}
+
+/*  Define the background color for all the ODD background rows  */
+.TFtable tr:nth-child(odd)
+{ 
+	background: #b8d1f3;
+}
+
+/*  Define the background color for all the EVEN background rows  */
+.TFtable tr:nth-child(even){
+	background: #dae5f4;
+}
