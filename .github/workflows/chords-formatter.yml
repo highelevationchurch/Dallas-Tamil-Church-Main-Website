@@ -5,7 +5,7 @@ on:
     branches:
       - main # Or your default branch
     paths:
-      - 'Songs/Chords/**.txt'
+      - 'Songs/**.txt'
 
 jobs:
   build:
@@ -23,14 +23,14 @@ jobs:
           node-version: 18
 
       - name: Run Chords Formatter
-        working-directory: ./Songs/Chords
+        working-directory: ./Songs
         run: node chords_formatter.js
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'docs: Auto-generate chord HTML files'
-          file_pattern: 'Songs/Chords/**.html'
+          file_pattern: 'Songs/**.html'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
