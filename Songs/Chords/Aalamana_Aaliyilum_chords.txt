@@ -22,7 +22,7 @@ F#m          Bm              E             A
 இது ஒப்பில்லாத அன்பு, பூரண அன்பு
 
 Stanza Var A
- A               A/C
+A               A/C
 குழியில் விழுந்தோரை
 D
 குனிந்து தூக்கும் அன்பு
@@ -68,3 +68,4 @@ F#m                   Bm
 Odukapathorai vuyarthidum anbu
 E                             D    E        A
 Entha kaalathilum maratha anbu
+
