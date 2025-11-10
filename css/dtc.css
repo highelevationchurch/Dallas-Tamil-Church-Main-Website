@@ -293,9 +293,9 @@ footer a:hover, footer a:visited {
     footer .contact-us {
         text-align: right;
     }
-    .navbar-brand {
-        display: none !important;
-    }
+    /* `.navbar-brand` visibility was previously hidden for larger screens.
+       That rule was removed so the header brand can be shown; layout
+       toggling is handled by responsive rules elsewhere. */
 
     .header-img-bottom {
         display: none !important;

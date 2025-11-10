@@ -1,0 +1,50 @@
+/* Custom styles for Dallas Tamil Church website */
+@media (min-width: 992px) {
+    .navbar-nav li:hover > ul.dropdown-menu {
+        display: block;
+    }
+    .dropdown-menu > li:hover > .dropdown-submenu {
+        display: block;
+    }
+}
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+}
+
+/* rotate caret on hover */
+.dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+} 
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .dropdown-menu {
+    position: absolute;
+  }
+  .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+  }
+  .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+  }
+}
+
+@media (max-width: 991.98px) {
+    .navbar-toggler {
+        width: 100%;
+    }
+}
