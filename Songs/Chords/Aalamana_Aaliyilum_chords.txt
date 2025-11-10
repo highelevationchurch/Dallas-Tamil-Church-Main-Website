@@ -52,7 +52,7 @@ A             Bm         E         A
 Yesuvin anbu ithu opilatha anbu
 F#m           Bm             E        A
 Purambae thalatha poorana anbu - 2         
-     A         Bm         E           A
+     A        Bm    E       A
 Ithu opilatha anbu, poorana anbu
 
 Stanza Var A
@@ -68,5 +68,6 @@ F#m                   Bm
 Odukapathorai vuyarthidum anbu
 E                             D    E        A
 Entha kaalathilum maratha anbu
+
 
 
