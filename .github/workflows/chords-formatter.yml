@@ -1,0 +1,34 @@
+name: Format Chord Files
+
+on:
+  push:
+    branches:
+      - main # Or your default branch
+    paths:
+      - 'Songs/Chords/**.txt'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run Chords Formatter
+        working-directory: ./Songs/Chords
+        run: node chords_formatter.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: Auto-generate chord HTML files'
+          file_pattern: 'Songs/Chords/**.html'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
