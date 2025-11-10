@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Build artifacts
+dist/
+*.log
+
+# OS-specific
+Thumbs.db
