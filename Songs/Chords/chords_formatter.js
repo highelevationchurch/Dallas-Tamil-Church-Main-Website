@@ -117,28 +117,9 @@ try {
         }
 
         files.forEach(file => {
-            const txtFilePath = path.join(directoryPath, file);
-            if (path.extname(txtFilePath) === '.txt') {
-                const htmlFilePath = txtFilePath.replace('.txt', '.html');
-
-                let shouldProcess = false;
-                if (!fs.existsSync(htmlFilePath)) {
-                    shouldProcess = true; // HTML file doesn't exist, so we should create it.
-                    console.log(`Processing ${file} because its HTML counterpart does not exist.`);
-                } else {
-                    const txtStats = fs.statSync(txtFilePath);
-                    const htmlStats = fs.statSync(htmlFilePath);
-                    if (txtStats.mtime > htmlStats.mtime) {
-                        shouldProcess = true; // TXT file is newer, so we should update the HTML.
-                        console.log(`Processing ${file} because it has been modified more recently than its HTML counterpart.`);
-                    }
-                }
-
-                if (shouldProcess) {
-                    processFile(txtFilePath); // This function already exists and does the conversion
-                } else {
-                    console.log(`Skipping ${file}; HTML is up-to-date.`);
-                }
+            if (path.extname(file) === '.txt') {
+                const filePath = path.join(directoryPath, file);
+                processFile(filePath);
             }
         });
     });
