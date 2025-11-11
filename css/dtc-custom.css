@@ -67,3 +67,22 @@ header img {
     max-width: 100%;
     height: auto;
 }
+
+.col-md-8 {
+    background-color: #f0f8ff; /* AliceBlue */
+    border: 1px solid blue;
+}
+
+.col-md-4 {
+    background-color: #fff0f5; /* LavenderBlush */
+    border: 1px solid red;
+}
+
+@media (min-width: 768px) { /* md breakpoint and up */
+    .row > .col-md-8,
+    .row > .col-md-4 {
+        float: left; /* Ensure floating behavior */
+        display: block; /* Ensure block display */
+        width: auto; /* Let Bootstrap calculate width */
+    }
+}
