@@ -23,8 +23,7 @@ jobs:
           node-version: 18
 
       - name: Run Chords Formatter
-        working-directory: ./Songs
-        run: node chords_formatter.js
+        run: node script.js
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
