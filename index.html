@@ -68,16 +68,20 @@
                     e.stopPropagation();
                     let submenu = this.nextElementSibling;
                     submenu.classList.toggle('show');
-                    this.parentNode.classList.toggle('show'); // Also toggle 'show' on the parent li for proper styling
                 });
             });
 
             // Close submenus when clicking outside
             document.addEventListener('click', function(e) {
-                document.querySelectorAll('.dropdown-submenu .dropdown-menu.show').forEach(function(submenu) {
-                    submenu.classList.remove('show');
-                    submenu.parentNode.classList.remove('show');
-                });
+                // Check if the clicked element is inside a dropdown or dropdown-menu
+                let isClickInsideDropdown = e.target.closest('.dropdown') || e.target.closest('.dropdown-menu') || e.target.closest('.dropdown-submenu');
+
+                if (!isClickInsideDropdown) {
+                    document.querySelectorAll('.dropdown-submenu .dropdown-menu.show').forEach(function(submenu) {
+                        submenu.classList.remove('show');
+                        submenu.parentNode.classList.remove('show');
+                    });
+                }
             });
         </script>
 

@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (nextEl && nextEl.classList.contains('submenu')) {
                     // prevent opening link if link needs to open dropdown
                     e.preventDefault();
+                    e.stopPropagation();
                     if (nextEl.style.display == 'block') {
                         nextEl.style.display = 'none';
                     } else {

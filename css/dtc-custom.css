@@ -23,6 +23,7 @@
     top: 0;
     left: 100%;
     margin-top:-6px;
+    min-width: 200px; /* Added to ensure enough width for submenu items */
 }
 
 .dropdown-submenu .dropdown-menu {
@@ -31,6 +32,10 @@
 
 .dropdown-submenu.show .dropdown-menu {
     display: block;
+}
+
+.dropdown-item {
+    padding: .5rem 1rem; /* Added to ensure consistent padding for dropdown items */
 }
 
 @media (min-width: 768px) {
@@ -46,7 +51,7 @@
     top: -7px;
   }
 
-  .dropdown-menu .dropdown-submenu-left {
+  .dropdown-submenu.dropdown-submenu-left > .dropdown-menu {
     right: 100%;
     left: auto;
   }
