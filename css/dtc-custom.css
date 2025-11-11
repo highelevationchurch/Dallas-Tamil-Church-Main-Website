@@ -43,10 +43,18 @@
     position: absolute;
   }
   .dropdown-menu .dropdown-submenu {
-    display: none;
     position: absolute;
     left: 100%;
     top: -7px;
+  }
+  .dropdown-menu .dropdown-submenu:not(.show) {
+    display: none;
+  }
+  .dropdown-menu .dropdown-submenu.show {
+    display: block;
+  }
+  .dropdown-menu .dropdown-submenu.show > .dropdown-menu {
+    display: block;
   }
   .dropdown-menu .dropdown-submenu-left {
     right: 100%;
