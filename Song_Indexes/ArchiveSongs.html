@@ -31,119 +31,6 @@
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<script src="js/Menu.js"></script>
-<script type="text/javascript">
-
-$(document).ready(function() {	
-
-
-  //Get all the LI from the #tabMenu UL
-  $('#tabMenu li').click(function(){
-    
-    //perform the actions when it's not selected
-    if (!$(this).hasClass('selected')) {    
-           
-	    //remove the selected class from all LI    
-	    $('#tabMenu li').removeClass('selected');
-	    
-	    //Reassign the LI
-	    $(this).addClass('selected');
-	    
-	    //Hide all the DIV in .boxBody
-	    $('.boxBody div.parent').slideUp('1500');
-	    
-	    //Look for the right DIV in boxBody according to the Navigation UL index, therefore, the arrangement is very important.
-	    $('.boxBody div.parent:eq(' + $('#tabMenu > li').index(this) + ')').slideDown('1500');
-	    
-	 }
-    
-  }).mouseover(function() {
-
-    //Add and remove class, Personally I dont think this is the right way to do it, anyone please suggest    
-    $(this).addClass('mouseover');
-    $(this).removeClass('mouseout');   
-    
-  }).mouseout(function() {
-    
-    //Add and remove class
-    $(this).addClass('mouseout');
-    $(this).removeClass('mouseover');    
-    
-  });
-
-	//Mouseover with animate Effect for Category menu list
-  $('.boxBody #category li').click(function(){
-
-    //Get the Anchor tag href under the LI
-    //window.location = $(this).children().attr('href');
-  }).mouseover(function() {
-
-    //Change background color and animate the padding
-    $(this).css('backgroundColor','#888');
-    $(this).children().animate({paddingLeft:"20px"}, {queue:false, duration:300});
-  }).mouseout(function() {
-    
-    //Change background color and animate the padding
-    $(this).css('backgroundColor','');
-    $(this).children().animate({paddingLeft:"0"}, {queue:false, duration:300});
-  });  
-	
-	//Mouseover effect for Posts, Comments, Famous Posts and Random Posts menu list.
-  $('#.boxBody li').click(function(){
-    //window.location = $(this).children().attr('href');
-  }).mouseover(function() {
-    $(this).css('backgroundColor','#888');
-  }).mouseout(function() {
-    $(this).css('backgroundColor','');
-  });  	
-	
-});
-
-</script>
-<style>
-
-
-
-#tabMenu {margin:0;padding:0 0 0 15px;list-style:none;}
-#tabMenu li {float:left;height:32px;width:200px;cursor:pointer;cursor:hand}
-
-li.comments {
-background:url(imagesTab/tabComment.png) no-repeat 0 -32px;
-}
-
-li.comments1 {
-background:url(imagesTab/tabComment1.png) no-repeat 0 -32px;
-}
-
-li.comments2 {
-/* background:url(imagesTab/tabComment2.png) no-repeat 0 -32px; */
-}
-
-li.posts {
-background:url(imagesTab/tabStar.png) no-repeat 0 -32px;
-}
-li.category {background:url(imagesTab/tabFolder.png) no-repeat 0 -32px;}
-li.famous {background:url(imagesTab/tabHeart.png) no-repeat 0 -32px;}
-li.random {background:url(imagesTab/tabRandom.png) no-repeat 0 -32px;}
-
-li.mouseover {background-position:0 0;}
-li.mouseout {background-position:0 -32px;}
-li.selected {background-position:0 0;}
-
-.box {width:900px}
-.boxTop {background:url(imagesTab/boxTop.png) no-repeat;height:11px;clear:both}
-.boxBody {background-color:#282828;}
-.boxBottom {background:url(imagesTab/boxBottom.png) no-repeat;height:11px;}
-
-.boxBody div.parent {display:none;}
-.boxBody div.show {display:block;}
-
-.boxBody div ul {margin:0 10px 0 25px;padding:0;width:400px;list-style-image:url(imagesTab/arrow.gif)}
-.boxBody div li {border-bottom:1px dotted #8e8e8e; padding:4px 0;cursor:hand;cursor:pointer}
-.boxBody div ul li.last {border-bottom:none}
-.boxBody div li span {font-size:8px;font-style:italic; color:#888;}
-</style>
-
 <!-- Songs Display Ends Here -->
 
 
@@ -158,7 +45,6 @@ li.selected {background-position:0 0;}
 </td>
 </tr>
 </table>
-       <div id='menu' />
         <a href="/"><img class="header-img-bottom img-responsive" src="images/DallasChurch_header_1.png" /></a>
     </div>
 
