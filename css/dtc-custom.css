@@ -1,4 +1,15 @@
 /* Custom styles for Dallas Tamil Church website */
+.btn-info {
+    background-color: #800080; /* Purple */
+    border-color: #800080; /* Matching border color */
+}
+
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active {
+    background-color: #6a006a; /* Darker purple on hover/focus/active */
+    border-color: #6a006a;
+}
 @media (min-width: 992px) {
     .navbar-nav li:hover > ul.dropdown-menu {
         display: block;
