@@ -8,7 +8,7 @@ A   A/C#   D
 ஆழமான ஆழியிலும் ஆழமான அன்பு
 Bm   E   A
 உயர்ந்த மனிதனிலும் உயரமான அன்பு
-A   A/C#.   D
+A   A/C#   D
 அளந்து பார்க்க முடியாத அளவில்லாத அன்பு
 Bm   E   A
 விவரிக்க முடியாத அற்புத அன்பு
@@ -42,7 +42,7 @@ A   A/C#   D
 Aalamana  aaliyilum aalamana anbu
 Bm   E   A
 Vuyarntha manithanilum vuyaramana anbu
-A   A/C#.   D
+A   A/C#   D
 Alanthu parka mudiyatha alavilatha anbu
 Bm   E   A
 Vivarika mudiyatha arputha anbu
