@@ -1,0 +1,70 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: G
+Style: Poprock/p4/16beatBallad  
+Tempo: 70 Time Signature:4/4 
+*****************************************
+Begin Var X
+  Cm  
+நீர் சொன்னால் போதும் செய்வேன்
+  Bb
+நீர் காட்டும் வழியில் நடப்பேன்
+  G#b
+உம் பாதம் ஒன்றே பிடிப்பேன்
+  Fm  G7 
+என் அன்பு இயேசுவே
+
+Chorus Var X
+Cm  Fm
+ஆராதனை இயேசுவுக்கே! 
+Bb  EB  GsusG
+ஆராதனை இயேசுவுக்கே
+Cm  Fm
+ஆராதனை இயேசுவுக்கே! 
+Bb  EB  G7
+ஆராதனை இயேசுவுக்கே
+
+Stanza Var X
+Cm  Fm  
+கடலின் மீது நடந்திட்ட உம் அற்புத பாதங்கள்
+Bb  EB  G7  
+எனக்கு முன்னே செல்வதால் எனக்கில்ல கவலை
+Cm  Fm
+காற்றையும் கடலையும் அதட்டிய உம் அற்புத வார்த்தைகள்
+Bb  EB  G7 
+என்தன் துணையாய் நிற்பதால் எனக்கு ஏது கவலை
+
+
+
+Begin Var X
+  Cm  
+Neer sonaal pothum seivaen
+  Bb
+Neer kaathum valiyil nadapaen
+  G#b
+Um paatham ondrae pidipaen
+  Fm  G7 
+En anbu yesuvae
+
+Chorus Var X
+Cm  Fm
+Aarathanai yesuvukkae!
+Bb  EB  GsusG
+Aarathanai yesuvukkae
+Cm  Fm
+Aarathanai yesuvukkae!
+Bb  EB  G7
+Aarathanai yesuvukkae
+
+Stanza Var X
+Cm  Fm
+Kadalin meethu nadanthitha um arputha paathangal
+Bb  EB  G7  
+Enaku munnae selvathaal enakilaa kavalai
+Cm  Fm
+Kaathraiyum kadalaiyum athaithiya um arputha vaarthaigal
+Bb  EB  G7 
+Enthan thunaiyaai nirpathaal enaku yethu kavalai
+

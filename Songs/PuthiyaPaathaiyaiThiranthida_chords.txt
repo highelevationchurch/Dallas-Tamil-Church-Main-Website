@@ -1,0 +1,79 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: reallooppack1/p1/1Dholak  
+Tempo: 130 Time Signature:4/4. 
+*****************************************
+Begin Var A
+Gm  D7
+புதிய பாதையை திறந்திட இறங்கி வந்தவரே
+Gm							  D7
+கிரகிக்ககூடாத அற்புதங்கள் வாழ்நாளில் செய்தவரே (2)
+Cm  Gm
+ஆச்சர்யமான உம் செய்கைகளை
+  Cm  Gm
+என் காலத்தின் விசேஷமாக்கினீரே (2)
+
+Chorus Var B
+ Gm  Eb
+மக்னாயீமே மக்னாயீமே
+Cm  D7  Gm
+கர்த்தரின் சேனைகள் எழுந்திடு
+ Gm  Eb
+மக்னாயீமே மக்னாயீமே
+Cm  D7  Gm
+சேனையின் கர்த்தரை உயர்திடு
+
+Stanza Var A
+  Gm  
+எதிரியின் பாளையத்தை
+D7  Gm
+கொள்ளையிட கையில் கொடுத்தீரே
+Gm  
+சாத்துருவின் திட்டங்களை 
+D7  Gm
+முறித்திட பெலன் அளித்தீரே (2)
+
+Var B
+G  Cm  D7  Gm
+இரச்சிக்க கூடாத(இயலாத) எல்லைகளை
+G  Cm  D7  Gm
+விடுவிக்கும் அதிகாரம் தந்தவரே (2)
+
+
+Begin Var A
+Gm  D7
+Puthiya paathaiyai thiranthida irangi vanthavarae
+Gm						  D7
+Gragika koodatha arputhangal vaalnalil seithavarae (2)
+Cm  Gm
+Aacharyamaana um seigaigalai
+  Cm  Gm
+En kaalathin visesamaakineer (2)
+
+Chorus Var B
+ Gm  Eb
+Magnaayeemae magnaayeemae
+Cm  D7  Gm
+Kartharin senegal elunthidu
+ Gm  Eb
+Magnaayeemae magnaayeemae
+Cm  D7  Gm
+Senaiyin kartharai uyarthidu
+
+
+Stanza Var A
+  Gm  
+Ethiriyin paalaiyathai
+D7  Gm
+Kollaiyida kaiyil kodutheerae
+Gm  
+Sathuruvin thithangalai
+D7  Gm
+Muruthida belan alitheerae (2)
+G  Cm  D7  Gm
+Ratchika koodatha (iyalaatha) ellaigalai
+G  Cm  D7  Gm
+Viduvikkum athigaram thanthavarae (2)

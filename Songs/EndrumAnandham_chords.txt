@@ -1,0 +1,62 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:  VarX
+R1: 
+Intro: link
+Key: Em
+Style: Reallooppack1/p1/1dholak
+Tempo: 120 Time Signature:X. 
+*****************************************
+Begin Var A
+Em  D  Em  Em  D  Em
+என்றும் ஆனந்தம் என் இயேசு தருகிறார்
+Em  	  D
+துதிப்பேன் துதிப்பேன்
+C  D  Em
+துதித்துக் கொண்டேயிருப்பேன்
+
+Chorus Var B
+Em  D
+அல்லேலூயா ஆனந்தமே
+Bm  Em
+அல்லேலூயா ஆனந்தமே
+
+Stanza Var A
+ Em  	  G
+உன்னதர் மறைவில் வல்லவர் நிழலில்
+Am  D  G  B7
+என்றும் தங்குவேன்
+Var C
+E7  Am  E7  Am 
+தேவனை நோக்கி அடைக்கலப் பாறை
+C  B  Em 
+என்றே சொல்லுவேன்
+
+
+
+
+
+Begin Var A
+Em  D  Em  Em  D  Em
+Endrum aanantham en yesu tharugiraar
+Em  D
+Thuthipaen thuthipaen
+C  D  Em
+Thuthithuk kondaeyirupaen
+
+Chorus Var B
+Em  D
+Halleluiah aananthamae
+Bm  Em
+Halleluiah aananthamae
+
+Stanza Var A
+Em  G
+Unnathar maraivil vallavar nilalil
+Am  D  G  B7
+Endrum thanguvaen
+Var C
+E7  Am  E7  Am
+Devanai nokki adaikalai paarai
+C  B  Em
+Endrae solluvaen
+

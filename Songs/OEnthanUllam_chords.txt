@@ -1,0 +1,46 @@
+**************************************
+Key: G
+Style: PopRock/p1/Reggaeton  
+Tempo: 113 Time Signature: 4/4. 
+*****************************************
+Begin  Var C
+G  Am  
+ஓ எந்தன் உள்ளம் நீர் வந்ததால்
+  D  C  G
+என் வாழ்க்கையில்  எல்லாம் நிறைந்திருப்பதால்
+Chorus  Var D
+G
+உம்மைத் துதிப்பேன் 
+  E7  Am 
+நான் உம்மைத் துதிப்பேன்
+G  D  C
+இன்றும் என்றும் உம்மை
+D  C/E  D/F#  G 
+போற்றி பாடித் துதிப்பேன்
+ Stanza Var C
+G  Am  
+கண்மணி போல காத்துக் கொள்வதால்
+  D  C  G 
+உம் கரங்களில் என்னை சுமந்து செல்வதால்
+
+
+
+Begin  Var C
+G  Am  
+O enthan ullam neer vanthathaal
+  D  C  G
+En vaalkaiyil ellam niranthirupathaal
+Chorus  Var D
+G
+Ummai thuthipaen
+  E7  Am 
+Naan ummai thuthipaen
+G  D  C
+Indrum endrum ummai
+D  C/E  D/F#  G
+Potri paadi thuthipaen
+ Stanza Var C
+G  Am
+Kanmani poela kaathu kolvathaal
+  D  C  G 
+Um karangalil ennai sumanthu selvathaal

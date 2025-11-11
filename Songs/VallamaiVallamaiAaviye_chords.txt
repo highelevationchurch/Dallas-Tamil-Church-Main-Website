@@ -1,0 +1,52 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank 3 Var C
+R1: Synth/p4/transartist
+Intro link: link
+Key: Dm
+Style: DJ Dholak
+Tempo: 128 Time Signature:4/4
+*****************************************
+Begin. Var C
+Dm
+வல்லமை வல்லமை ஆவியே
+  A7
+என்னை அனலாக்கிடும்
+A7
+வல்லமை வல்லமை ஆவியே
+Gm7  A7  Dm
+என்னை அபிஷேகியும்
+
+Stanza Var C
+Dm  
+சாத்தானின் கோட்டையை முறியடிக்க
+C  Dm
+வல்லமை தாருமே
+
+Var D
+C  G
+தேவனின் ராஜ்யம் எழும்பிக் கட்ட
+Bb  A7
+வல்லமை தாருமே
+
+Begin Var C
+Dm
+Vallamai vallamai aaviyae
+  A7
+Ennai analakkidum
+A7
+Vallamai vallamai aaviyae
+Gm7  A7  Dm
+Ennai abhishegiyum
+
+Stanza Var C
+Dm
+Saathanin kootaiyai muriyadikka
+C  Dm
+Vallamai thaarumae
+
+Var D
+C  G
+Devanin raajyam elumbhi katta
+Bb  A7
+Vallamai thaarumae
+

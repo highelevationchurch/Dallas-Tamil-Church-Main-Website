@@ -1,0 +1,32 @@
+***Unfreeze + Bank1 + Freeze***
+Key: G
+Style: poprock/p6/ easy ballad
+Tempo: 75 Time Signature:4/4. 
+*****************************************
+Begin Var B
+G  	G/B 	C  G
+தேவனே	ஆராதிக்கின்றேன்
+D  	C  G
+தெய்வமே ஆராதிக்கின்றேன்
+
+Stanza Var C
+  G  D/F#
+அதிகாலையில் ஆராதிக்கின்றேன்
+C  D  	G
+ஆனந்த சத்தத்தோடு ஆராதிக்கின்றேன்
+
+
+
+Begin Var B
+G  G/B C  G
+Devane aarathikindren
+D  C  G
+Deivamae aarathikindren
+
+Stanza Var C
+  G  D/F#
+Athikalaiyil aarathikindren
+C  D  G
+Aanantha sathathodu aarathikindren
+ 
+

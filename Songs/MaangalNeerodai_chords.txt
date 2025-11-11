@@ -1,0 +1,56 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: D
+Style: poprock/p4/pianobalad
+Tempo: 68 Time Signature:4/4
+*****************************************
+Begin Var C
+D  F#m  Bm  A  
+மான்கள் நீரோடை வாஞ்சிப்பது போல் 
+  G  A  D 
+என் ஆன்மா வாஞ்சிக்குதே 
+D  F#m  Bm  Am 
+நீர் மாத்ரம் எந்தன் ஆத்ம நேசர் 
+  G  A  D 
+உம்மை ஆராதிக்கிறேன் (2)
+
+Stanza Var D
+ Bm  G  D/F#
+நீர் என் பெலனும் என் கேடகமுமாம் 
+  G  Em 
+என் ஆவி என்றும் உம்மில் அடி 
+  F#
+பணியும் (2)
+D  F#m  Bm  Am  
+நீர் மாத்ரம் எந்தன் ஆத்ம நேசர் 
+  G  A  D 
+உம்மை ஆராதிக்கிறேன் (2)
+
+
+Begin Var C
+D  F#m  Bm  A  
+Maangal neerodai vaanjipathu poel
+  G  A  D 
+En aanma vaanjikuthae
+D  F#m  Bm  Am 
+Neer maathram enthan aathma nesar
+  G  A  D 
+Ummai aarathikindren (2)
+
+
+
+
+Stanza Var D
+ Bm  G  D/F#
+Neer en belanum en kedagamum
+  G  Em 
+En aavi endrum ummil adi
+  F#
+Panipuriyum (2)
+D  F#m  Bm  Am  
+Neer maathram enthan aathma nesar
+  G  A  D 
+Ummai aarathikindren (2)
+

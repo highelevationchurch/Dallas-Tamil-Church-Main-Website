@@ -1,0 +1,22 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: D
+Style: poprock/p7/6-8rock
+Tempo: 70 Time Signature:6-8 
+*****************************************
+Begin Var B
+D  D  A/D 
+என் தேவனே என் இயேசுவே
+ A/D  G/D  D 
+உம்மையே நேசிக்கிறேன்
+
+Stanza Var C
+  D  D  G
+அதிகாலமே தேடுகிறேன்
+  A  G  D  
+ஆர்வமுடன் நாடுகிறேன் 
+A  D
+நாடுகிறேன்
+

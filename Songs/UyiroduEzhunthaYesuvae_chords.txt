@@ -1,0 +1,61 @@
+*****************************************
+Key: Cm
+Style: Reallooppack1/p1/1Dholak
+Tempo: 127 Time Signature : 4/4
+*****************************************
+
+Begin/Stanza Var A
+Cm  Eb 
+உயிரோடு எழுந்த இயேசுவே
+  Fm  G 
+நான் வாழுவேன் உமக்காகவே -2
+  Fm  Bb 
+நீர் ஒருவரே ஆண்டவர்
+  G  Cm 
+நீர் ஒருவரே ரட்சகர் -2
+
+Bank 3 Var B
+Cm /Ab/ Bb/ Cm 
+அல்லேலுயா 4X -2
+
+
+Chorus Bank2 Var D
+  Cm  Bb
+என்னை தூக்கி தூக்கி எடுத்தீரே
+  Ab  Gm  Cm 
+நீர் சர்வ வல்லவரே
+  Cm  Bb 
+என்னை தூக்கி தூக்கி எடுத்தீரே
+  Ab  Gm  Cm 
+நீர் சமாதான காரனரே - 2
+
+
+
+
+
+Begin/Stanza Var A
+Cm  Eb
+Uyirōdu ezhuntha yēsuvē
+Fm  G
+Nān vāzhavēn umakkāgavē - 2
+Fm  Bb
+Nīr oruvarē āndavar
+G  Cm
+Nīr oruvarē rakshakar - 2
+
+Bank 3 Var B
+Cm /Ab/ Bb/ Cm
+Allēlūyā 4X - 2
+
+Chorus Bank 2 Var D
+Cm  Bb
+Ennai thookki thookki eduththīrē
+Ab  Gm  Cm
+Nīr sarva vallavarē
+Cm  Bb
+Ennai thookki thookki eduththīrē
+Ab  Gm  Cm
+Nīr samādhāna kāranarē - 2 
+
+
+

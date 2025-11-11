@@ -1,0 +1,23 @@
+***************************************
+Key: D
+Style: Ex0ansion/p1 /1Dholak
+Tempo: 110 Time Signature: 4/4
+*****************************************
+Begin Var A
+D  D/F#  G  D
+யூத ராஜசிங்கம் உயிர்த்தெழுந்தார் -2
+Bm  F#m  G A
+உயிர்த்தெழுந்தார், நரகை ஜெயித்தெழுந்தார்
+
+Stanza Var B
+
+
+
+Begin Var A
+D  D/F#  G  D
+Yutha rajasingam uyirthelunthaar
+Bm  F#m  G A
+Uyirthelunthaar, naragai jeyithelunthaar
+
+Stanza Var B
+

@@ -1,0 +1,77 @@
+*****************************************
+Key: Em
+Style: poprock/p1/skypop
+Tempo: 110 Variation: C Signature: 2/4
+*****************************************
+Begin. (Var C)
+  Em  Bm
+முன்னோர்கள் உம் மீது நம்பிக்கை வைத்தார்கள்
+  D  A
+ நம்பியதால் விடுவித்தீர்  
+  CM7  Bm
+முன்னோர்கள் உம் மீது நம்பிக்கை வைத்தார்கள்
+  Bm  A
+ நம்பியதால் விடுவித்தீர் 
+
+Chorus. (Var D)
+CM7  G  Em  Bm  
+வேண்டினார்கள் கூப்பிட்டார்கள் விடுவிக்கப் பட்டார்கள் - 2
+  D  A
+(முகம்) வெட்கப்பட்டுப் போகவில்லை
+  D  A
+ ஏமாற்றம் அடையவில்லை - 2 (முன்னோர்கள்) 
+
+Stanza. (VAR C)
+CM7  G  
+கர்த்தர் கொடுத்த வாக்குறுதியை 
+D  Em 
+நிறைவேற்ற வல்லவர் என்று - 2 
+D  Bm  C  Em
+தயங்காமல் நம்பினதால் ஆபிரகாம் தகப்பனானான் - 2
+  A  C  
+அறிக்கை செய்வோம் ஜெயம் எடுப்போம் 
+Bm  Em 
+வாக்குறுதி  பிடித்துக்கொண்டு
+  A  C  
+அறிக்கை செய்வோம் ஜெயம் எடுப்போம் 
+Bsus4  Em
+வாக்குறுதி  பிடித்துக்கொண்டு 
+
+
+
+
+Begin. (Var C)
+  Em  Bm
+Munnorgal um meethu nambikkai vaithaargal
+  D  A
+Nambiyathaal viduvitheer
+  CM7  Bm
+Munnorgal um meethu nambikkai vaithaargal
+  Bm  A
+Nambiyathaal viduvitheer
+
+Chorus. (Var D)
+CM7  G  Em  Bm  
+Vaendinaargal koopithaargal viduvikkap pathaargal - 2
+  D  A
+(Mugam) vetkapathu pogavillai
+  D  A
+Yaemaatram adaiyavillai - 2 (munnorgal)
+
+Stanza. (VAR C)
+CM7  G  
+Karthar koduka vaakuruthiyai
+D  Em 
+Niraivetra vallavar endru - 2
+D  Bm  C  Em
+Thayangaamal nambinathaal abraham thagapanaanan - 2
+  A  C  
+Arikkai seivom jeyam edupom
+Bm  Em
+Vaakuruthi pidithukondu
+  A  C  
+Arikkai seivom jeyam edupom
+Bsus4  Em
+Vaakuruthi pidithukondu
+
+

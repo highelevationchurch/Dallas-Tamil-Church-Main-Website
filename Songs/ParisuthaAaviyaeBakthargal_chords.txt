@@ -1,0 +1,43 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: Fm
+Style: expansion/tabla6-8/p1/F#6-8  
+Tempo: 115 Time Signature:6/8. 
+*****************************************
+Begin Var A
+Fm  Cm Eb  Cm  Fm
+பரிசுத்த ஆவியே பக்தர்கள் துணையாளரே -2
+  Fm  Eb Bbm  Cm  Fm
+கூட இருப்பவரே குறைகள் தீர்ப்பவரே -2
+
+Stanza Var D
+Fm  Ab
+தேற்றிடும் தெய்வமே
+Bbm  C7
+திடம் தருபவரே -2
+Var C
+Eb  C7
+ஊற்றுத் தண்ணீரே -2
+Bbm  C7  Fm
+உள்ளத்தின் ஆறுதலே – எங்கள் -2
+
+
+Begin Var A
+Fm  Cm Eb  Cm  Fm
+Parisutha aaviyae bakthargal thunaiyalarae -2
+  Fm  Eb Bbm  Cm  Fm
+Kooda iruppavarae kuraigal theerpavarae -2
+
+Stanza Var D
+Fm  Ab
+Thethridum deivamae
+Bbm  C7
+Thidam tharupavarae -2
+Var C
+Eb  C7
+Ootru thaneerae -2
+Bbm  C7  Fm
+Ullathin aaruthalae - engal -2
+

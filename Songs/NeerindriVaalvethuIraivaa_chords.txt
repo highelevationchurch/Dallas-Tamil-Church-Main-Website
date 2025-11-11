@@ -1,0 +1,48 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3  VarB
+R1: Accordian
+Intro: link
+Key: Em
+Style: reallooppack3/p3/westerndholak
+Tempo: 96 Time Signature:4/4. 
+*****************************************
+Begin Var B
+Em  C  D
+நீரின்றி வாழ்வேது இறைவா
+  Bm  C  Em 
+உம் நினைவின்றி மகிழ்வேது தேவா
+Em  G  Am  Bm
+உலகத்தில் நூறாண்டு நான் வாழ்ந்த போதும்
+Am  D  Bm  Em
+உம் இல்லத்தில் வாழும் ஒரு நாளே போதும்
+
+Stanza. C
+Em  G
+பல கோடி வார்த்தைகள் நான் கேட்ட போதும்
+D  Bm  Em  
+இயேசுவே நீர் பேசும் ஒரு வார்த்தை போதும்
+Em  G  Am  Bm  
+ஓராயிரம் ஜீவன் உயிர் வாழுமே
+  C  D  Bm  Em
+உம் வார்த்தையிலே உண்டு அற்புதமே — நீரின்றி
+
+Begin Var B
+Em  C  D
+Neerindri valvaethu iraivaa
+  Bm  C  Em
+Um ninaivindri magilvaethu deva
+Em  G  Am  Bm
+Ulagathil noorandu naan valnthu pothum
+Am  D  Bm  Em
+Um illathil vaalum oru naalae pothum
+
+Stanza
+Em  G
+Pala kodi varthaigal naan ketha pothum
+D  Bm  Em
+Yesuvae neer paesum oru vaarthai pothum
+Em  G  Am  Bm
+Orayiram jeevan uyir vaalumae 
+  C  D  Bm  Em
+Um vaarthaiyilae undu arputhamae - Neerindri
+

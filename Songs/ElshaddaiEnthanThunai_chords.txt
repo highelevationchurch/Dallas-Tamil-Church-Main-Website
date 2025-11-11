@@ -1,0 +1,57 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: D
+Style: poprock/p1/16bratrock  
+Tempo: 100 Time Signature:4/4. 
+*****************************************
+Begin Var B
+  D  G  
+எல்ஷடாய் எந்தன் துணை நீரே
+  A  D
+என் வாழ்வின் கேடகம் -2
+
+Var D
+  D  D7  G
+எண்ணில்லா நன்மைகள்
+  A  D
+என் வாழ்வில் செய்தீரே -2
+  Em  A  D
+எந்தன் வாழ்வின் பெலன் நீரே -2
+
+Stanza Var B
+  D  G
+காலைதோறும் கிருபை பொழியும்
+  A  D
+கிருபையே ஸ்தோத்திரம் -2
+  G  F#m  
+உந்தன் நாமம் எந்தன் இன்பம்
+Em  A  D
+உமது செட்டை அடைக்கலம் -2
+
+=========================================
+
+Begin Var B
+  D  G  
+Elshadaay enthan thunnai neerae
+  A  D
+En vaalvin kaedakam - 2
+Var D
+  D D7  G
+Ennnnillaa nanmaikal
+  A  D
+En vaalvil seytheerae - 2
+  Em  A  D
+Enthan vaalvin pelan neerae - 2
+
+Stanza Var B
+  D  G
+Kaalaithorum kirupai poliyum
+  A  D
+Kirupaiyae sthoththiram - 2
+  G  F#m  
+Unthan naamam enthan inbam
+Em  A  D
+Umathu settai adaikkalam -2
+

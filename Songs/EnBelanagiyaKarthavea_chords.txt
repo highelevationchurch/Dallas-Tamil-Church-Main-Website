@@ -1,0 +1,40 @@
+**************************************
+Key: E
+Style: Expansion/tabla 6 8/p1/F# 68 tabla
+Tempo: 118 Time Signature: 6 8. 
+*****************************************
+Begin 
+  E 
+என் பெலனாகிய கர்த்தாவே
+  D
+நான் உம்மையே நம்பியுள்ளேன்
+  A  E  
+நான் கைவிடப்படுவதில்லை
+Stanza  
+  E  A
+என் கால்கள் சறுக்கும் போதெல்லாம்
+B.  E
+தாங்குதையா உம் கிருபை – நான்
+  A  E/G# 
+அழுது புலம்பும் நேரமெல்லாம்
+F#m  B  E
+அணைக்குதையா உம் கிருபை 
+
+
+Begin 
+  E 
+En belanaagiya karthavae
+  D
+Naan ummaiyae nambhiyullaen
+  A  E  
+Naan kaividapaduvathillai
+Stanza  
+  E  A
+En kaalgal sarukkum pothellam
+B.  E
+Thaankuthaiyaa um kirubai - naan
+  A  E/G# 
+Aluthu pulambhum neramellam
+F#m  B  E
+Anaikuthaiyaa um kirubai
+

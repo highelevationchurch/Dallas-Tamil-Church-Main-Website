@@ -1,0 +1,74 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: Dm
+Style: Expansion/tabla 68/68 2
+Tempo: 90 Time Signature:6/8. 
+*****************************************
+Begin Var A  
+  Dm  
+நான் நடந்து வந்த பாதைகள் 
+  A
+கரடு  மேடுகள்
+  F  C
+நான் கடந்து வந்த பாதைகள் 
+ A  Dm
+முட்கள்  வேலிகள்
+
+Chorus Var C
+Dm  Bb  Dm  Bb  A  
+நடக்க முடியல டாடி நடக்க முடியல
+F  C 
+தாங்கிக் கொள்ளுங்க – கரத்தில்
+ A  Dm 
+ஏந்திக்கொள்ளுங்க
+
+Stanza Var A
+  Dm 
+என் சுய பெலத்தால் ஓடிப் பார்த்தேன்
+  Dm  Bb  C 
+ஓட முடியல – என் மன பெலத்தால்
+  C  A 
+நடந்து பார்த்தேன் நடக்க முடியல
+  Gm  F
+என் தோள் பெலத்தால் சுமந்து பார்த்தேன்
+Dm  A  F  
+சுமக்க முடியல – என் கால் பெலத்தால்
+C  Bb  A  Dm 
+கடந்து பார்த்தேன் கடக்க முடியல
+
+
+
+Begin Var A  
+  Dm  
+Naan nadanthu vantha paathaigal
+  A
+Karadu medugal
+  F  C
+Naan kadanthu vantha paathaigal
+ A  Dm
+Mutkal veligal
+
+Chorus Var C
+Dm  Bb  Dm  Bb  A  
+Nadaka mudiyala daadi nadaka mudiyala
+F  C 
+Thaangi kollunga - karathil
+  A  Dm 
+Yendikollunga
+
+Stanza Var A
+  Dm 
+En suya belathaal oodi parthaen
+  Dm  Bb  C 
+Ooda mudiyala - en mana belathaal
+  C  A 
+Nadanthu parthaen nadaka mudiyala
+  Gm  F
+En thoel belathaal sumanthu parthaen
+Dm  A  F  
+Sumaka mudiyala - en kaal belathaal
+C  Bb  A  Dm 
+Kadanthu parthaen kadaka mudiyala
+

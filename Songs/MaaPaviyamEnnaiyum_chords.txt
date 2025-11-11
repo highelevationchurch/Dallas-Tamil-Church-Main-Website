@@ -1,0 +1,69 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: X
+Style: poprock/p8/powerballad  
+Tempo: 70 Time Signature:4/4 
+*****************************************
+Begin Var B
+  Gm 
+மா பாவியாம் என்னையும்-உம்
+  Eb 
+அன்பால் அணைத்தீரே
+  F  Bb  D7  
+என் இயேசு ராஜா நன்றி-தம் 
+  Gm  Eb
+சித்தம் நிறைவேற உம் இரத்தம் தந்தீரே
+  D7  Gm 
+என் இயேசு ராஜா நன்றி
+
+Stanza Var D. Bank 8 (choir sustain)
+  Bb 
+குயவன் கையில் களிமண் போல
+  Cm 
+என்னைக் கொடுத்தேன்
+  Eb  D7
+பரிசுத்தமாய் என்னை வனையும்
+  Bb  Cm 
+ஆத்மபாரம் தந்து என்னை இன்றே  நிரப்பும்
+  Eb  D7
+உம் ஊழியம் செய்ய என்னை அனுப்பும் 
+
+Chorus Var B
+  Gm  Eb  F  Bb  D7
+அனுப்பும் அனுப்பும் உம் சேவை  செய்திடவே
+  Gm  Eb  D7  Gm  Bb  
+அனுப்பும் அனுப்பும் தேசம்  சந்திக்கவே
+
+
+  
+Begin Var B
+  Gm 
+Maa paaviyaal ennaiyum-um
+  Eb 
+Anbaal anaitheerae
+  F  Bb  D7  
+En yesu raja nandri-tham
+  Gm  Eb
+Sitham niraivera um iratham thantheerae
+  D7  Gm 
+En yesu raja nandri
+
+Stanza Var D. Bank 8 (choir sustain)
+  Bb 
+Kuayavan kaiyil kaliman poela
+  Cm 
+Ennai koduthaen
+  Eb  D7
+Parisuthamaai ennai vanaiyum
+  Bb  Cm 
+Athmapaaram thanthu ennai indrae nirapum
+  Eb  D7
+Um ooliyam seiya ennai anupum
+
+Chorus Var B
+  Gm  Eb  F  Bb  D7
+Anupum anupum um sevai seithuvae
+  Gm  Eb  D7  Gm  Bb  
+Anupum anupum desham santhikavae

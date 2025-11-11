@@ -1,0 +1,73 @@
+***************************************** 
+Key: G
+Style: poprock/p4/16beatballad  
+Tempo: 75 Time Signature:4/4. 
+*****************************************
+Begin Var B 
+  G  
+புது கிருபைகள் தினம் தினம் தந்து 
+  G/B  C
+என்னை நடத்தி செல்பவரே
+ D 
+ அனுதினமும் உம் கரம் நீட்டி 
+  D/F#  G
+என்னை ஆசீர்வதிப்பவரே 
+
+Chorus Var C
+  G  (second time E7)  
+என் இயேசுவே உம்மை சொந்தமாக 
+  Am
+கொண்டதென் பாக்கியமே 
+  D
+இதை விடவும் பெரியதான
+  G
+மேன்மை வேறொன்றும் இல்லையே  (link C/E  D/F#)
+
+Stanza Var B
+ G
+நேர் வழியாய் என்னை நடத்தினீர் 
+Em
+நீதியின் பாதையில் நடத்தினீர் -2
+G  Am
+காரியம் வாய்க்க செய்தீர் 
+  D  G
+என்னை கண்மணிப்போல காத்திட்டீர் 
+
+
+
+Begin Var B 
+G
+Puthu kirubaigal dhinam dhinam vanthu
+  G/B  C
+Ennai nadathi selpavarae
+D
+ Anudhinamum um karam neethi
+  D/F#  G
+Ennai aasirvathipavarae
+
+Chorus Var C
+ G  
+En yesuvae ummai sonthamaga (second time E7)
+  Am
+Kondathaen baakiyamae
+  D
+Ithai vidavum periyathaana
+  G
+Maenmai vaerondrum ilaiyae  (link C/E  D/F#)
+
+Stanza Var B
+ G
+Naer valiyaai ennai nadathineerae
+Em
+Neethiyin paathaiyil nadathineerae -2
+G  Am
+Kaariyam vaaika seitheer
+  D  G
+Ennai kanmanipoel kaathitheer
+
+
+
+ 
+
+
+

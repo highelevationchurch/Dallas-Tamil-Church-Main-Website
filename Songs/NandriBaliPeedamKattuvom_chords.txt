@@ -1,0 +1,62 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3  VarC
+R1: Brass
+Intro link: link
+Key: Em
+Style: Reggaeton
+Tempo: 126 Time Signature:2/4. 
+*****************************************
+Begin Var C
+Em  B7  Em
+நன்றிபலிபீடம் கட்டுவோம்
+B7.  Em
+நல்லதெய்வம் நன்மை செய்தார்
+Em  Am
+செய்த நன்மைகள் ஆயிரங்கள்
+B7  Em
+சொல்லி சொல்லி பாடுவேன்
+
+Chorus Var D
+Em  D
+நன்றி தகப்பனே 
+Am  B7  Em
+நன்மை செய்தீரே
+
+Stanza Var C
+  Em  D
+ஜீவன் தந்து நீர் அன்புகூர்ந்தீர்
+Am  B7  Em
+பாவம் நீங்கிட கழுவி விட்டீர்
+C  C#dim
+உமக்கென்று வாழ பிரித்தெடுத்து
+D  Ebdim  Em 
+உமது ஊழியம் செய்ய வைத்தீர்
+
+
+Begin Var C
+Em  B7  Em
+Nandribalibeedam kathuvom
+B7.  Em
+Nalladeivam nanmai seithaar
+Em  Am
+Seitha nanmaigal aayirangal
+B7  Em
+Solli solli paaduvaen
+
+Chorus Var D
+Em  D
+Nandri thagapanae
+Am  B7  Em
+Nanmai seitheerae
+
+Stanza Var C
+  Em  D
+Jeevan thanthu neer anbukoorntheer
+Am  B7  Em
+Paavam neengida kaluvi vitheer
+C  C#dim
+Umakendru vaala piritheduthu
+D  Ebdim Em 
+Umathu ooliyam seiya vaitheer
+
+

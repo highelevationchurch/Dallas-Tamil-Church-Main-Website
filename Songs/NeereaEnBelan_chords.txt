@@ -1,0 +1,42 @@
+**************************************
+Key: G
+Style: poprock/p8/CountryShuffle 
+Tempo: 100 Time Signature: 6/8. 
+*****************************************
+Begin (Var C)
+G  G/B
+நீரே என் பெலன் நீர் என் அடைக்கலம்
+C  Am 
+ஆபத்துக் காலத்தில் என் துணை
+G/B  G 
+சுற்றி நின்று என்னைக் காக்கும் கன்மலை
+
+ Stanza (Var D) 
+  G  Bm  D  
+யாக்கோபின் தேவன் என் அடைக்கலம்
+Am  D  G 
+யோகோவா தேவனே என் பலம்
+G  Em  C 
+கலக்கமில்லை பயங்கள் இல்லை வாழ்விலே
+  Am  D  G 
+நான் இருப்பதோ கர்த்தரின் கரத்திலே
+
+
+Begin  (Var C)
+G  G/B
+Neerae en belan neer en adaikalam
+C  Am 
+Aabathu kaalathil en thunai
+G/B  G
+Suthri nindru ennai kaakum kanmalai
+
+ Stanza  (Var D) 
+  G  Bm  D
+Yaakobin devan en adaikalam
+Am  D  G
+Yehovaa devanae en balam
+G  Em  C  
+Kalakamillai bayangal illai vaalvillae
+  Am  D  G 
+Naan irupatho kartharin karathilae
+

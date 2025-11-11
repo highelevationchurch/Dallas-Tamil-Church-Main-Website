@@ -1,0 +1,71 @@
+***************************************
+Key: G
+Style: poprock/p1/Reggaeton + Multipad on (1)
+Tempo: 90 Time Signature:4/4 
+*****************************************
+Begin (Var C Multipad on (1))
+G  Am 
+முடிந்தது எல்லாம் முடிந்தது
+  D  
+என் இயேசு சிலுவையில்
+  G 
+சொன்னார் எல்லாம் முடிந்தது -2
+
+G  Am 
+முடிந்தது எல்லாம் முடிந்தது என்
+ D  G
+ பாவம் சாபம் தரித்திரம் எல்லாம் முடிந்தது -2
+
+ 
+Chorus: (Var D)
+G  E7  Am  D 
+முடிந்தது (எல்லாம்) முடிந்தது
+  Am 
+இயேசு எல்லாம் எனக்காய்
+D  G 
+செய்து முடித்ததால் -2
+
+Stanza: (Var C)
+  G 
+அவர் சிலுவையை எடுத்தார் நம்
+ C 
+ எதிரியை அடித்தார்
+  Am 
+நம் கரத்தை பிடித்தார்
+  D  G 
+தன் (நித்திய) ஜீவனைக் கொடுத்தார் -2
+
+
+
+
+Begin (Var C Multipad on (1))
+G  Am
+Mudindhadhu ellaam mudindhadhu
+D
+En Yesu siluvaiyil
+G
+Sonnaar ellaam mudindhadhu -2
+
+G  Am
+Mudindhadhu ellaam mudindhadhu en
+D  G
+Paavam saabam dharidhthiram ellaam mudindhadhu -2
+
+Chorus: (Var D)
+G  E7  Am  D
+Mudindhadhu (ellaam) mudindhadhu
+Am
+Yesu ellaam enakkaai
+D  G
+Seidhu mudiththadhaal -2
+
+Stanza: (Var C)
+G
+Avar siluvaiyai eduththaar nam
+C
+Edhiriyai adiththaar
+Am
+Nam karaththai pidiththaar
+D  G
+Than (niththiya) jeevanaik koduththaar -2
+

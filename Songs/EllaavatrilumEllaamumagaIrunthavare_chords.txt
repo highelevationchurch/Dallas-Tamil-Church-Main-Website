@@ -1,0 +1,65 @@
+**************************************
+Key: E
+Style: r&b/p2/6-8SoulBallad  
+Tempo: 45 Time Signature: 6/8. 
+*****************************************
+
+
+Begin (Var A)
+E  F#m 
+எல்லாவற்றிலும் எல்லாமுமாக
+ B.  A.  E
+ இருந்தவரே இருப்பவரே
+E.  F#m 
+எல்லாவற்றையும் எல்லாவற்றாலும் 
+  B  B.  E
+ நிறைத்தவரே நிறைபவரே
+E.  A
+ஸ்தோத்திரமே ஸ்தோத்திரமே
+ F#m  B.  E
+மறவாமல் செலுத்துகிறேன்
+Chorus (Var C) 
+E.  A  F#.  B 
+உயிர் பிழைத்தேன், உதவி பெற்றேன்
+A  B.  E 
+உயிர் உள்ளவரை துதிப்பேன்
+Stanza ( Var B) 
+  E.  A 
+1. தகப்பனாக இதுவரையும்
+F#m  B.  E
+தோளின் மீதே சுமந்து வந்தீர்
+E  A
+தந்தையே உம் தயவால்
+B  E
+தாண்டினேன் வனாந்திரத்தை
+
+
+
+
+Begin (Var A)
+E  F#m 
+Ellavatrilum ellamumaaga
+ B.  A.  E
+Irunthavarae irupavarae
+E.  F#m 
+Ellavatraiyum ellavatralum
+  B  B.  E
+Niraithavarae niraipavarae
+E.  A
+Sthothiramae sthothiramae
+ F#m  B.  E
+Maravaamal seluthukindraen
+Chorus (Var C) 
+E.  A  F#.  B
+Uyir pilaithaen, uthavi petraen
+A  B.  E
+Uyir ullavarai thuthipaen
+Stanza ( Var B) 
+  E.  A 
+1. Thagapanaaga ithuvaraiyum
+F#m  B.  E
+Tholin meethae sumanthu vantheer
+E  A
+Thanthaiyae um thayavaal
+B  E
+Thaanthinaen vananthirathai

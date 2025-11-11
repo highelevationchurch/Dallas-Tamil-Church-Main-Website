@@ -1,0 +1,63 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin
+Fm  C 
+உம்மைத்தான் நான் பார்க்கின்றேன்
+ G#  C  Fm  
+பிரகாசமடைகின்றேன்
+
+Chorus
+Fm  G#
+அவமானம் அடைவதில்லை
+ Bbm  Eb  G# C 
+அப்பா நான் உமது பிள்ளை
+Fm  C  Fm 
+அப்பா நான் உமது பிள்ளை 
+Bbm  C  Fm 
+ அவமானம் அடைவதில்லை
+
+Stanza
+Fm  G#  Eb 
+கண்கள் நீதிமானை பார்க்கின்றன
+Bbm  C  Fm 
+செவிகள் மன்றாட்டை கேட்கின்றன
+  Fm  C#  C 
+இடுக்கண் நீக்கி விடுவுக்கின்றீர்
+Bbm  C  Fm 
+இறுதிவரை நீர் நடத்திச் செல்வீர் -அவமானம்
+
+
+
+
+Begin
+Fm  C 
+Ummaithaan naan paarkindren
+ G#  C  Fm  
+Prakasamadaikindren
+
+Chorus
+Fm  G#
+Avamanam adaivathilai
+ Bbm  Eb  G# C 
+Appa naan umathu pillai
+Fm  C  Fm 
+Appa naan umathu pillai
+Bbm  C  Fm 
+Avamaanam adaivathillai
+
+Stanza
+Fm  G#  Eb 
+Kangal neethimaanai paarkindren
+Bbm  C  Fm 
+Sevigal mandrathai ketkindren
+  Fm  C#  C 
+Idukan neeki viduvikindreer
+Bbm  C  Fm 
+Iruthivarai neer nadathi selveer - avamanam
+

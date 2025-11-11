@@ -1,0 +1,48 @@
+*****************************************
+Key: D
+Style: poprock/p2/6-8soulballad  
+Tempo: 46 Time Signature:6/8
+*****************************************
+Begin/Stanza  Var A
+D  D/F#
+பலிபீடத்தில் என்னை பரனே
+Bm  A
+படைக்கிறேனே இந்த வேளை
+Em  D/F#  G
+அடியேனை திருச்சித்தம் போல
+Bm  A  D
+ஆண்டு நடத்திடுவீர். - 2
+
+Chorus  Var B
+Bm  F#m
+கல்வாரியின் அன்பினையே
+G  A.  D
+கண்டு விரைந்தோடி வந்தேன் -2
+D  A
+கழுவும் உம் திரு இரத்தத்தாலே
+Em  A  D
+கறை நீங்க இருதயத்தை -2
+
+
+
+
+Begin/Stanza  Var A
+D  D/F#
+Balipeedathil ennai paranae
+Bm  A
+Padaikirenae intha velai
+Em  D/F#  G
+Adiyennai thiruchitham poela
+Bm  A  D
+Aandu nadathiduveer - 2
+
+Chorus  Var B
+Bm  F#m
+Kalvariyin anbinaiyae
+G  A.  D
+Kandu virainthodi vanthaen - 2
+D  A
+Kaluvum um thiru rathathalae
+Em  A  D
+Karai neenga irunthayathai
+

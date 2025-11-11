@@ -1,0 +1,65 @@
+**************************************
+Key: Ebm
+Style: expansion/tabla scales/C tab 1/ 
+Tempo: 100 Time Signature: 4/4. 
+*****************************************
+Begin ( Var A) 
+Ebm  Db
+காட்டு புறாவின் சத்தம் கேட்கிறதே
+Bbm  Ebm
+என் நேசர் (இயேசு) என்னைத் தேடி வருவாரென்று
+Ebm.  Db
+கானக்குயிலின் கானம் இசைக்கின்றதே
+Bbm.  Ebm
+மன்னவர் சிங்காரமாய் வருவாரென்று
+
+  Ebm.  Bbm.  Ebm 
+உம் வருகைவரை நான் காத்திருப்பேன்
+  B  Cdim  Db.  Ebm
+என் விழி இரண்டால் என்றும் விழித்திருப்பேன்-2
+
+ Stanza (Var A)
+ Ebm 
+தாயினும் மேலாய் உந்தன் அன்பு உள்ளதே
+ Ebm  Db/F  Gb.  Bbsus 
+தந்தையாக நீர் என்னில் வாழ்கின்றிரே
+Ab
+நீர் எந்தன் நேசர் தானே
+Ab
+நீர் எந்தன் நண்பர்தானே
+Ebm.  Db  
+என்றென்றும் உந்தன் அன்பை 
+Gb.  B  Db
+என்னவென்று நான் சொல்லுவேன்
+
+
+**Begin (Var A)**
+Ebm  Db  
+Kaattu puraavin satham kedkiraathe  
+Bbm  Ebm  
+En Nesare (Yesu) ennai thedi varuvaarendru  
+Ebm.  Db  
+Kaanak kuyilin kaanam isaignirathe  
+Bbm.  Ebm  
+Mannavar singaaramaai varuvaarendru  
+
+  Ebm.  Bbm.  Ebm  
+Um varugaivarai naan kaathiruppen  
+  B  Cdim  Db.  Ebm  
+En vizhi irandaal endrum vizhithiruppen -2  
+
+**Stanza (Var A)**  
+Ebm  
+Thaayinum melaai undhan anbu ullathe  
+Ebm  Db/F  Gb.  Bbsus  
+Thandhaiyaaga neere ennil vaazhkindrare  
+Ab  
+Neer endhan Nesare thaane  
+Ab  
+Neer endhan nanbar thaane  
+Ebm.  Db  
+Endrendum undhan anbae  
+Gb.  B  Db  
+Ennavendru naan solluven  
+
+

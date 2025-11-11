@@ -1,0 +1,71 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 Var C
+R1: Synth/Gemini
+Intro link: link
+Key: G
+Style: poprock/p1/skypop
+Tempo: 120  Time Signature:4/4
+*****************************************
+Begin Var C
+  	  G  	  C
+எந்தன் கன்மலையானவரே
+  	  D  	  G
+என்னை காக்கும் தெய்வம் நீரே
+G  Am  	  G/B  	  D
+வல்லமை மாட்சிமை நிறைந்தவரே
+D  	  G
+மகிமைக்கு பாத்திரரே
+
+Chorus Var D
+G  	  Am
+ஆராதனை உமக்கே
+D  	  G
+ஆராதனை உமக்கே
+Em  	  A
+ஆராதனை உமக்கே
+D.  	  G
+ஆராதனை உமக்கே
+
+
+Begin Var C
+  	  G  	  C
+Enthan kanmalaiyanavarae
+  	D  	G
+Ennai kaakum deivam neerae
+G  Am  G/B  	  D
+Vallamai maatchimai nirainthavarae
+D  	  G
+Magimaiku paathirarae
+
+Chorus Var D
+G  	Am
+Aarathanai umakae
+D  	 G
+Aarathanai umakae
+Em  	 A
+Aarathanai umakae
+D.  	  G
+Aarathanai umakae
+
+
+Begin
+  G  C
+Enthan kanmalaianavarae
+  D  G
+Ennai kaakum deivam neerae
+G  Am  G/B  D
+Vallamai matchimai nirainthavarae
+D  G
+Magimaiku pathirarae
+
+Chorus
+G  Am
+Aarathanai umakkae
+D  G
+Aarathanai umakkae
+Em  A
+Aarathanai umakkae
+D  G
+Aarathanai umakkae
+
+

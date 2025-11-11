@@ -1,0 +1,54 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: D
+Style: R/B/p2/6-8soulballad  
+Tempo: 48 Time Signature:3/4
+*****************************************
+Begin Var B
+  D  A
+என் இயேசு ராஜாவுக்கே
+G  A  D
+எந்நாளும் ஸ்தோத்திரம்
+D  A
+என்னோடு வாழ்பவர்க்கே
+Em  	A  D
+எந்நாளும் ஸ்தோத்தரிப்போம்
+
+Stanza Var C
+  D  	F#m  	Bm  G 
+கர்த்தாவே நீர் செய்த நன்மைகளை
+Em  A  D 
+நித்தமும் நினைக்கிறேன் -2 
+Bm  G  	  Em  D/F#
+முழு உள்ளத்தோடு உம் நாமம் -2 
+Em  	  A  	  D
+பாடிப் புகழுவேன் – நான் -2
+
+
+
+
+
+Begin Var B
+  D  A
+En yesu raajavukkae
+G  A  D
+Ennalum sthothiram
+D  A
+Ennodu vaalpavarkae
+Em  A  D
+Ennalum sthotharipom
+
+Stanza Var C
+  D  F#m  Bm  G 
+Karthavae neer seitha nanmaigalai
+Em  A  D 
+Nithamum ninaikindren - 2
+Bm  G  Em  D/F#
+Mulu ullathodu um namam - 2
+Em  A  D
+Paadi pugaluven - Naan - 2
+
+
+

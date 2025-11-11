@@ -1,0 +1,28 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: E
+Style: usb1/p1/acoustic3.4 Amos  
+Tempo: 125 Time Signature:3/4
+*****************************************
+Begin Var B
+  E  F#m 
+ஒவ்வொரு நாட்களிலும்
+  B  A  E
+பிரியாமல் கடைசி வரை
+  E  F#m 
+ஒவ்வொரு நிமிடமும்
+B  A  E 
+கிருபையால் நடத்திடுமே - 2
+
+Chorus Var C
+E  E7  A
+நான் உம்மை நேசிக்கிறேன்
+F#m  B  E 
+எந்தன் உயிரைப் பார்க்கிலும்  -2
+C#m  F#m
+ஆராதிப்பேன் உம்மை நான்
+E/G#  B  E 
+உண்மை மனதுடன் -2
+

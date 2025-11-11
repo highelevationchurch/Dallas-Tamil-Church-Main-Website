@@ -1,0 +1,76 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank7  VarB
+R1: Strings
+Intro link: link
+Main Voice: 
+Main Groove link: 
+Interlude link: 
+Key: E
+Style: poprock/p1/reggaetonpop
+Tempo: 120 Variation:B. 
+*****************************************
+Begin Ep  VarC
+Em  Am
+ஊற்றிடுமே உம் வல்லமையை
+  D  G  B7
+இந்த நாளில் எங்கள் மேலே
+Em  Am
+ஊற்றிடுமே உம் அக்கினியை
+D  Bm  Em
+இந்த நாளில் எங்கள்மீது வல்லமையோடு
+
+Chorus VarD Bank3 Soka Groove
+Em  Am
+வல்லமை வல்லமை தாருமே
+  D  Bm  Em
+தேசத்தை உமக்காய் கலக்கிட
+  Em  Am
+அபிஷேகம் அபிஷேகம் ஊற்றுமே
+  D  Bm  Em
+அனல்கொண்டு உமக்காய் எழும்பிட
+
+Stanza  VarC
+  Em  Am
+1. பெந்தகோஸ்தே நாளில் செய்ததுப்போல
+D  G  B7
+அக்கினியின் நாவுகள் பொழிந்திடுமே – 2
+Multipad 3 on (Congo)
+E7  Am
+அப்போஸ்தலர் நாட்களில் செய்ததுப்போல
+C7  B  Em
+இன்றும் செய்ய வேண்டுமே – 2
+
+Multipad 3 Off
+
+Begin Ep  VarC
+Em  Am
+Ootridumae um vallamaiyai
+  D  G  B7
+Intha naalil engal maelae
+Em  Am
+Ootridumae um akkiniyai
+D  Bm  Em
+Intha naalil engal meethu vallamaiyodu
+
+Chorus VarD Bank3 Soka Groove
+Em  Am
+Vallamai vallamai thaarumae
+  D  Bm  Em
+Desathai umakaai kalakida
+  Em  Am
+Abhishegam abhishegam ootrumae
+  D  Bm  Em
+Analkondu umakaai elumbida
+
+Stanza  VarC
+  Em  Am
+1. Benthakosthae naalil seithathupoela
+D  G  B7
+Akkiniyin naavugal polinthidumae - 2
+Multipad 3 on (Congo)
+E7  Am
+Aposthalar naatkalil seithathupoela
+C7  B  Em
+Indrum seiya vaendumae - 2
+
+Multipad 3 Off

@@ -1,0 +1,70 @@
+***Unfreeze + Bank1 + Freeze***
+Key: Cm
+Style: poprock/p6/modernpopballad
+Tempo: 75 Variation:B. 
+*****************************************
+Begin Piano Bass Off R2 R3 ON
+  Cm  Ddim  Bdim
+ஒரு மகிமையின் மேகம் இந்த இடத்தை மூடுதே
+  Cm  Ddim  Bdim
+ஒரு மகிமையின் மேகம் என் ஜனத்தை மூடுதே -2
+Rhythm On Bass On 
+  Ab  Bb  Eb
+விலகாத மேகம் நீர் முன்செல்லும் மேகம் நீர் -2
+
+Chorus Var C
+ Ab  Bb
+ஆவியானவரே அன்பின் ஆவியானவரே – வல்ல
+Ab  Bb
+ஆவியானவரே தெளிவின் ஆவியானவரே – மகிமையின்
+Ab  Bb
+ஆவியானவரே அன்பின் ஆவியானவரே – வல்ல
+Ab  Bb  G7
+ஆவியானவரே தெளிவின் ஆவியானவரே
+
+Stanza Var B
+Cm  Baug
+என் பேச்சில என் மூச்சில
+  Eb  Ebb5  Fm  G7
+என் சொல்லில என் செயலில கலந்திருக்கீங்க
+  Cm  Baug
+என் நினைவில என் நடத்தையில
+  Eb  Ebb5  Fm  G7  
+என் உணர்வில என் உயிரில கலந்திருக்கீங்க -2
+Cm  G7
+அன்பின் ஆவியானவரே விலையேற பெற்றவரே
+ Fm  Gm  Cm 
+எனை ஆளும் பரிசுத்தரே நன்றி ஐயா -2
+ 
+
+Begin Piano Bass Off R2 R3 ON
+  Cm  Ddim  Bdim
+Oru magimaiyin megam intha idathai mooduthe -2
+Rhythm On Bass On 
+  Ab  Bb  Eb
+Vilagaatha megam neer munsellum megam neer -2
+
+Chorus Var C
+ Ab  Bb
+Aaviyanavare anbin aaviyanavare - valla
+Ab  Bb
+Aaviyanavare thelivin aaviyanavare - magimaiyin
+Ab  Bb
+Aaviyanavare anbin aaviyanavare - valla
+Ab  Bb  G7
+Aaviyanavare thelivin aaviyanavare
+
+Stanza Var B
+Cm  Baug
+En pechila en moochila
+  Eb  Ebb5  Fm  G7
+En sollila en seyalila kalanthirukeenga
+  Cm  Baug
+En ninaivila en nadanthaiyila
+  Eb  Ebb5  Fm  G7  
+En vunarvila en uyirila kalanthirukeenga -2
+Cm  G7
+Anbin aaviyanavare vilaiyera pertravarae
+ Fm  Gm  Cm 
+Enai alum parisuthare nandri ayya -2
+

@@ -1,0 +1,66 @@
+***Unfreeze + Bank1 + Freeze***
+Key: A
+Style: Poprock/p3/80sPowerRock
+Tempo: 127 Time Signature:4/4. 
+*****************************************
+Begin Var A
+A   	  F#m       E       A      
+உம்மை ஆராதிப்பேன் உம்மை ஆராதிப்பேன்
+A       F#m       E     A
+உம்மை ஆராதிப்பேன் உம்மை ஆராதிப்பேன்
+
+Chorus Var B 
+F#m         E
+என் நாட்கள் முடியும் வரை
+Bm     C#,  F#m
+என் ஜீவன் பிரியும் வரை
+E       D
+என் சுவாசம் ஒழியும் வரை
+Bm     E    A
+உம்மையே ஆராதிப்பேன்
+Bm     E   A
+உம்மையே ஆராதிப்பேன் -2 
+
+Stanza Var A
+ A        F#m
+தாயின் கருவில் உருவாகும் முன்னே
+D        E
+பேர் சொல்லி அழைத்தவர் நீரே
+F#m     C#m
+தாயினும் மேலாக அன்பு வைத்து
+D       E
+நீர் எனக்காக ஜீவன் தந்தீரே -2
+
+============================================================
+
+
+Begin Var A
+A   	  F#m    E       A   
+Ummai aarathipen ummai aarathipen
+A       F#m    E     A
+Ummai aarathipen ummai aarathipen
+
+Chorus Var B 
+F#m         E
+En naatkal mudiyum varai
+Bm     C#,  F#m
+En jeevan piriyum varai
+Em       D
+En suvasam oliyum varai
+Bm     E    A
+Ummaiyae aarathipen
+Bm     E  A
+Ummaiye aarathipen -2
+
+Stanza Var A
+A        F#m
+Thaayin karuvil uruvagum munnae
+D        E
+Per solli alaithavar neere
+F#m     C#m
+Thaayinum melaga anbu vaithu
+D       E
+Neer enakaaga jeevan thantheere -2
+
+
+ 

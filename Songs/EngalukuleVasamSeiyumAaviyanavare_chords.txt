@@ -1,0 +1,55 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: F
+Style: Pop/p8/CountryShuffle
+Tempo: 92 Time Signature:6/8
+*****************************************
+Begin Var B
+ F  F/A  Bb  C
+எங்களுக்குள்ளே வாசம் செய்யும் ஆவியானவரே
+Gm  C  F  	  C  F
+இந்நாளில் உம் சித்தம் போல் நடத்திச் செல்லுமையா
+  
+Chorus Var D
+F  	Am  	Bb  	F
+ஆவியானவரே  ஆவியானவரே….
+Gm  C  F
+பரிசுத்த ஆவியானவரே
+
+Stanza Var C
+F  Dm
+எப்படி நான் ஜெபிக்க வேண்டும் எதற்காக ஜெபிக்க வேண்டும்
+Bb  C  F
+கற்றுத் தாரும் ஆவியானவரே
+ Bb  Am  Dm
+வேத வசனம் புரிந்து கொண்டு விளக்கங்களை அறிந்திட
+Gm  	 C  F
+வெளிச்சம் தாரும் ஆவியானவரே
+
+
+
+
+Begin Var B
+ F  F/A  Bb  C
+Engalukkulae vaasam seium aaviyanavarae
+Gm  C  F  C  F
+Ennalil um chitham poel nadathi sellumaiyaa
+  
+Chorus Var D
+F  Am  Bb  F
+Aaviyanavare aaviyanavare…..
+Gm  C  F
+Parisutha aaviyanavare
+
+Stanza Var C
+F  Dm
+Eppadi naan jebika vendum etharkaaga jebika vendum
+Bb  C  F
+Katru thaarum aaviyanavare
+
+ Bb  Am  Dm
+Deva vasanam purinthu kondu vilakangalai arinthida
+Gm  C  F
+Velicham thaarum aaviyanavare

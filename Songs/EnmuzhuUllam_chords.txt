@@ -1,0 +1,67 @@
+ *****************************************
+Key: E
+Style: expansion/Usb1/6.8 Biola indiao
+Modern Ballad
+Tempo: 118 Time Signature: 6/8. 
+*****************************************
+Begin (Var A)
+ E  G#m 
+என் முழு உள்ளம் இயேசுவை பாடும்
+C#m  A
+என்றென்றும் ஸ்தோத்தரிக்கும் -2
+ B  F#m 
+அவர் செய்த நன்மைகள் யாவையும் சொல்லியே
+ A  B  E
+என் உள்ளம் என்றென்றும் போற்றும் -2
+
+ Chorus (Var D) 
+ E  F#m 
+ஆத்துமா பாடிடுதே
+ B  A  E
+ஆத்தும நேசர் இயேசுவையே -2
+  F#m  B  E
+ துதித்திடும் என் உள்ளம் என்றும்
+  F#m  B  E
+ போற்றிடும் என் உள்ளம் என்றும் -2
+
+ Stanza (Var B) 
+ E  G#m 
+சிறகுகளாலே என்னை மூடிக்கொண்டார்
+ C#m  A
+செட்டைகளால் அணைத்துக்கொண்டார் -2
+ F#m  B 
+வேடனின் கண்ணியில் சிக்கிடாது காத்திட
+  A  B  E
+ என்னை சுற்றி வேலி அடைத்தார் -2
+
+
+Begin (Var A)
+ E  G#m 
+En mulu ullam yesuvai paadum
+C#m  A
+Endrendum sthotharikum -2
+ B  F#m 
+Avar seitha nanmaigal yaavaiyum solliyae
+ A  B  E
+En ullam endrendrum pothrum -2
+
+ Chorus (Var D) 
+ E  F#m 
+Aathuma paadiduthae
+ B  A  E
+Aathuma nesar yesuvaiyae -2
+  F#m  B  E
+Thuthithidum en ullam endrum
+  F#m  B  E
+Potridum en ullam endrum -2
+
+ Stanza (Var B) 
+ E  G#m 
+Siragugalalae ennai moodikondar
+ C#m  A
+Setaigalal anaithukondar -2
+ F#m  B 
+Vedanin kanniyil sikidaathu kaathida
+  A  B  E
+Ennai sutri veli adaithaar -2
+

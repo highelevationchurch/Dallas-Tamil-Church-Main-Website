@@ -1,0 +1,43 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: G
+Style: poprock/p6/ModernPopBallad  
+Tempo: 65 Time Signature:4/4. 
+*****************************************
+Begin Var B
+  G  Em 
+Rock of ages, cleft for me 
+C 		D 
+Let me hide myself in Thee
+  G  Em 
+Rock of ages, cleft for me 
+C  D 
+Let me hide myself in Thee 
+  G 
+You are my shield
+  Em 
+You are my covering 
+  C 
+You are my stability 
+  D 
+My foundation. 
+  G 
+You are my shield
+  Em 
+You are my covering 
+  C 
+You are my stability 
+  D 
+My foundation. 
+
+Var C
+  G 
+Take me to the place 
+  Em 
+The place You are 
+  C 
+The secret place 
+  D 
+That's where I wanna be.

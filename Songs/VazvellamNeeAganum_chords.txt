@@ -1,0 +1,51 @@
+*****************************************
+Key: F#m
+Style: R&B/p2/6-8SoulBallad  
+Tempo: 48 Time Signature: Slow 6/8. 
+*****************************************
+Begin Var B 
+F#m 
+வாழ்வெல்லாம் நீயாகனும்
+ D  F#m
+நினைவெல்லாம் நீ ஆகனும் -2
+
+Stanza 
+F#m  C#m
+இருளில் அமர்ந்தேன் ஒளியாய் வந்தீர்
+ E  F#m 
+இருள் போக்கும் விடிவெள்ளியே
+F#m  C#m 
+காணாமல் போனேன் தேடி வந்தீர்
+ E  F#m
+என் நல்ல மேய்ப்பன் நீரே -2
+
+F#m  Bm  E  A
+அப்பா அப்பா நீர் இல்லா வாழ்வில்
+D  G#dim
+நிரந்தரம் என்று
+C#m  F#m 
+எதுவுமே இல்லை -2 (வாழ்)
+
+
+Begin Var B 
+F#m
+Vazvellam neeyaganum
+ D  F#m
+Ninaivellam nee aganum -2
+
+Stanza 
+F#m  C#m
+Irulil amarnthaen oliyaai vanteer
+ E  F#m 
+Irul pokkum vidivelliyae
+F#m  C#m
+Kaanamal ponaen thedi vantheer
+ E  F#m
+En nalla meipan neerae -2
+
+F#m  Bm  E  A
+Appa appa neer illa vaalvil
+D  G#dim
+Nirantharam endru
+C#m  F#m
+Ethuvumae illai -2 (Vaz)

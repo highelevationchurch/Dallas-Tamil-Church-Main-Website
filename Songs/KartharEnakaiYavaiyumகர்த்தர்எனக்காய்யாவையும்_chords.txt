@@ -1,0 +1,52 @@
+***************************************
+Key: G
+Style: poprock/p6/lovesong
+Tempo: 70 Time Signature : 4/4
+*****************************************
+Begin. Var  B 	 	
+G  Em  
+கர்த்தர் எனக்காய் 
+C  D
+யாவையும் செய்து முடிப்பார் -2
+
+Stanza 
+  G  Bm  
+சொன்னதை செய்யும்வரை 
+C  D
+அவர் என்னைக் கைவிடுவதில்லை -2
+
+Var  C
+G  Em
+கர்த்தர் எனக்காய் கர்த்தர் எனக்காய்
+C  D
+யாவையும் செய்து முடிப்பார்
+G  Em
+கர்த்தர் எனக்காய் கர்த்தர் எனக்காய்
+C  D
+மலைகளை பெயர்ப்பாரே - 2
+
+
+*************************************************
+
+Begin  Var B
+G  Em  
+Karthar enakkai 
+C  D
+yavaiyumSeithu mudipaar - 2
+
+Stanza 
+ G  Bm
+Sonathai seiyumvarai
+C  D
+Avar ennai kaividuvathilai -2
+
+Var C
+G  Em
+Karthar enakkai karthar enakkai
+C  D
+Yavaiyum seithu mudipaar
+G  Em
+Karthar enakkai karthar enakkai
+C  D
+Malaikalai peyarpaarae -2
+

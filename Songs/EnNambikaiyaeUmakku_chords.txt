@@ -1,0 +1,56 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3  Var A
+R1: Brass
+Intro link: link
+Key: A
+Style: usb1/jerushah,,/6.8 biola 
+Tempo: 115  Time Signature: 6/8
+*****************************************
+Begin  Var A
+  A  D
+என் நம்பிக்கையே உமக்கு ஸ்தோத்திரம்
+  E  A
+என் புகலிடமே உமக்கு ஸ்தோத்திரம்
+
+Chorus Var A
+A  F#7  Bm
+உம்மைத்தான் நான் நம்பியிருக்கிறேன்
+E  A
+அற்புதங்கள் எனக்கு செய்யுங்கப்பா - 2
+
+
+Stanza Var A
+A  D
+நூற்றுக்கு நூறு உம்மை நம்புவேன்
+Bm  E  
+அற்புதம் செய்திடுங்க அதிசயம் நடத்திடுங்க
+A  F#7  Bm  
+மனிதர்கள் முன்பாக தலைகுனிந்து போகாமல்
+E  D/E.  A
+உதவி செய்திடுங்க உயர்த்தி வெச்சிடுங்க
+
+
+
+Begin Var A [Var C]
+A  D
+En nambikkai umakku sthOthiram
+E  A
+En pugalidamE umakku sthOthiram
+
+Chorus Var D [Var D]
+A  F#7  Bm
+Ummai thaAn nAn nambi irukkiREn
+E  A
+ArputhangaL enakku seyyungappA - 2
+
+Stanza Var A [Var C]
+A  D
+NootRukku nooru ummai nambuvEn
+Bm  E  
+Arputham seidhidunga adhichayam nadaththidunga
+A  F#7  Bm  
+ManidhargaL munpAga thalaikuniNdhu pOgAmal
+E  D/E.  A
+Udavi seidhidunga uyarthi vechchiduNga
+
+

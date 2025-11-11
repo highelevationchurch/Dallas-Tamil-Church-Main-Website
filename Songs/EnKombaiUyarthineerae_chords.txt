@@ -1,0 +1,65 @@
+*******************************************
+Key: Em
+Style: dance/p2/classicalpop 
+Tempo: 120 Time Signature:4/4
+********************************************
+Begin Var C
+  Em  Am 
+என் கொம்பை உயர்த்தினிரே 
+  D  GM7 
+என் தலையை உயர்த்தினிரே -2
+  C  Bm
+வெட்கப்பட்டுப்போவதில்லை ஒரு நாளும்
+ B7  Em 
+வெட்கப்பட்டுப்போவதில்லை - 2
+
+Chorus Var D
+Em  Am  D  GM7 
+நன்றி தகப்பனே நன்றி இயேசைய்யா - 2
+  C  Bm
+வெட்கப்பட்டுப்போவதில்லை ஒரு நாளும்
+ B7  Em 
+வெட்கப்பட்டுப்போவதில்லை - 2
+
+Stanza Var C
+Em  Am  
+உனக்கு விரோதமாய் எழும்புவார்கள்
+  D  GM7  B7
+ஆனாலும் உன்னை மேற்க்கொள்ள முடியாது-2
+C  Bm 
+உன்னை காத்திட உன்னோடு இருக்கின்றார்
+  B7  Em 
+உன் தலையை உயர்த்திடுவார் - 2
+
+
+
+
+Begin Var C
+  Em  Am 
+En kombai uyarthineere
+  D  GM7 
+En thalaiyai uyarthineere
+
+  C  Bm
+Vetkapathupovathilai oru naalum
+  B7  Em 
+Vetkapathupovathilai - 2
+
+Chorus Var D
+Em  Am  D  GM7 
+Nandri thagappanae nandri yesaiyaa - 2
+  C  Bm
+Vetkapathupovathilai oru naalum
+ B7  Em 
+Vetkapathupovathilai - 2
+
+Stanza Var C
+Em  Am  
+Unaku virothamaai elumpuvaargal
+  D  GM7  B7
+Aanalum unnai maerkolla mudiyathu - 2
+C  Bm 
+Unnai kaathida unnodu irukindraar
+  B7  Em 
+Un thalaiyai uyarthiduvaar - 2
+

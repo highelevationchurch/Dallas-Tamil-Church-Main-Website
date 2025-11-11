@@ -1,0 +1,38 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: D
+Style:  R&B/p2/6_8soulballad
+Tempo: 44 Time Signature:6/8. 
+*****************************************
+Begin. Var B
+  D  Em 
+நான் வாழ்ந்தாலும் உம்மோடு தான் (இயேசுவே)  
+  A  G 
+நான் மரித்தாலும் உம்மோடு தான்
+
+Stanza. Var D
+ Bm  
+உமக்காகத் தானே
+  G  
+ உயிர்வாழ்கிறேன்
+ A  G.  D
+உம்மை தானே நேசிக்கிறேன்
+
+
+
+Begin. Var B
+  D  Em 
+Naan vaalnthalum ummodu thaan (yesuvae)
+  A  D 
+Naan marithalum ummodu thaan
+
+Stanza. Var D
+  Bm  
+Umakaaga thanae
+  G  
+Uyirvaalgiren
+ A  G.  D
+Ummai thane nesikindren
+

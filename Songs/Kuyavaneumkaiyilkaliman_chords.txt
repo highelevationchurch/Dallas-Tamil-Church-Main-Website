@@ -1,0 +1,70 @@
+*****************************************
+Key:  E
+Style: Poprock/p4/16beatballad
+Tempo: 75 Variation:B. 
+*****************************************
+Begin Ep Var B
+  E  G#m  A
+1. குயவனே உம் கையில் களிமண் நான்
+  B  E
+உடைத்து உருவாக்கும் (2)
+E  A  F#  B
+என் சித்தமல்ல உம் சித்தம் நாதா
+F#m  B  E
+தருகிறேன் உம் கையிலே (2)
+
+Var C
+  E  G#m  A
+என்னைத் தருகிறேன் தருகிறேன் உம் கரத்தில்
+  F#m  F#m  B  E
+என்னைப் படைக்கிறேன் படைக்கிறேன் உம் பாதத்தில் (2)
+Var D
+C#m  F#m  B  E
+உருவாக்குமே என்னை உருவாக்குமே (2)
+
+Stanza Var B
+ E  	A  	 
+உம் சேவைக்காய் எனை தருகிறேன்
+B  	E
+வனைந்திடும் உம் சித்தம்போல் (2)
+C#m  	F#m
+உம் சித்தம் செய்திடவே
+B  	E
+உம் சத்தம் கேட்டிடவே (2)
+C#m  	  F#m  	  B  	  E
+உருவாக்குமே என்னை உருவாக்குமே (2)
+
+
+
+Begin Ep Var B
+  E  G#m  A
+1. Kuyavanae um kaiyil kaliman naan
+ B  E
+Udaithu uruvaakum (2)
+E  A  F#  B
+En sithamalla um sitham naatha
+F#m  B  E
+Tharugiraen um kaiyilae (2)
+
+Chorus Bank5 Strings Var C
+  E  G#m  A
+Ennai tharugiraen tharugiraen um karathil
+  F#m  B  E
+Ennai padakiraen padaikiraen um paathathil (2)
+Var D
+C#m  F#m  B  E
+Uruvakkumae ennai uruvaakkumae (2)
+
+Stanza Var B
+E  A
+Um sevaikaai enai tharugiraen
+B  E
+Vanainthidum um sithampoael (2)
+C#m  F#m
+Um sitham seithidavae
+B  E
+Um sitham kaethidavae (2)
+C#m  F#m  B  E
+Uruvakkumae ennai uruvaakkumae (2)
+
+

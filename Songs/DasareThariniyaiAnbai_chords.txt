@@ -1,0 +1,38 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: F
+Style: Reallooppack1/p1/1dholak  
+Tempo: 116 Time Signature:4/4
+*****************************************
+Begin Var A
+F  Bb  F  
+தாசரே இத்தரணியை அன்பாய்
+C  F
+இயேசுவுக்கு சொந்தமாக்குவோம்
+F  Am.  D7  Gm  
+நேசமாய் இயேசுவைக் கூறுவோம்
+  Eb7  A7  
+அவரைக் காண்பிப்போம்
+  Dm  G7
+மாவிருள் நீக்குவோம்,
+C  F
+வெளிச்சம் வீசுவோம்
+
+Stanza Var B
+
+
+Begin Var A
+F  Bb  F  
+Dasarae itharaniyai anbaai
+C  F
+Yesuvukku sonthamakkuvom
+F  Am.  D7  Gm  
+Nesamaai yesuvai kooruvom
+  Eb7  A7  
+Avarai kaanbibom
+  Dm  G7
+Maavirul neekuvom,
+C  F
+Velicham veesuvom

@@ -1,0 +1,79 @@
+*****************************************
+Key: Em
+Style: Expansion/p2/f# tabla 1 
+Tempo: 90 Time Signature:4/4. 
+*****************************************
+Begin (Var A) 
+Em 
+வாழ்வே நீர் தானையா
+Am  Bm  Em 
+வாழ்வே நீர் தானையா
+Pre Chorus (Var B) 
+  Em  D 
+என் இயேசுவே என் ஜீவனே
+  C  Bm 
+என் ஜீவனின் பெலனும் ஆனவர்
+  Em  D 
+என் வாழ்க்கையின் ஒளி விளக்கே
+  C  Em 
+நீர் போதுமே என் வாழ்விலே
+ D  Bm  Em 
+வாழ்வே நீர்தானையா
+
+Chorus (Var C) 
+Em  D
+வாழ்வே நீர் தானையா
+Am  Em 
+வாழ்வே நீர் தானையா-2
+Am  Bm  Em 
+வாழ்வே நீர் தானையா
+
+Stanza (Var A) 
+  Em  D 
+நீர் மாத்ரம் இல்லையென்றால்
+Am  G  B  Em 
+மனிதர்கள் உயிரோடு விழுங்கிருப்பார்கள்
+Am  G 
+நிற்பதுமே நிலைப்பதுமே
+D  Bm  Em 
+கிருபையினால் தான் வாழ்கின்றேனே
+
+
+
+Begin (Var A) 
+Em 
+Vazhve neer thaanaiyaa
+Am  Bm  Em
+Vazhve neer thaanaiyaa
+
+Pre Chorus (Var B) 
+  Em  D
+En yesuvae en jeevanae
+  C  Bm 
+En jeevanin belanum aanavar
+  Em  D 
+En vazkaiyin oli vizakae
+  C  Em 
+Neer pothumae en vazvilae
+ D  Bm  Em 
+Vazhvae neerthanaiyaa
+
+Chorus (Var C) 
+Em  D
+Vazhvae neer thanaiyaa
+Am  Em
+Vazhvae neer thanaiyaa -2
+Am  Bm  Em 
+Vazhvae neer thanaiyaa
+
+
+Stanza (Var A) 
+  Em  D 
+Neer matram illaiyendraal
+Am  G  B  Em 
+Manithargal uyirodu vilungi irupaargal
+Am  G 
+Nirpathumae nilaipathumae
+D  Bm  Em 
+Kirubaiyinaal thaan vazkindraenae
+

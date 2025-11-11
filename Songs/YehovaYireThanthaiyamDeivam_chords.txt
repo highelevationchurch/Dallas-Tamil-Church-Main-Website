@@ -1,0 +1,53 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: D
+Style: pop/p6/modernpopballad  
+Tempo: 60 Time Signature:4/4. 
+*****************************************
+Begin Var B
+  D  F#m  
+யெகோவா யீரே தந்தையாம் தெய்வம்
+  G  A 
+நீர் மாத்ரம் போதும் எனக்கு
+  D  F#m  
+யெகோவா ராஃபா சுகம் தரும் தெய்வம்
+  G  A
+உம் தழும்புகளால் சுகமானோம்
+  Bm  F#m 
+யெகோவா ஷம்மா என் கூட இருப்பீர்
+  G  A  D 
+என் தேவையெல்லாம் சந்திப்பீர்
+
+Chorus Var D
+  G  A 
+நீர் மாத்ரம் போதும் 
+  F#m  B7  
+நீர் மாத்ரம் போதும் 
+  Em  A  D 
+நீர் மாத்ரம் போதும் எனக்கு
+
+
+
+Begin Var B
+  D  F#m  
+Yehova yeerae thanthaiyaam deivam
+  G  A 
+Neer mathram pothum enaku
+  D  F#m  
+Yehova rafha sugam tharum deivam
+  G  A
+Um thalumpugalal sugamanom
+  Bm  F#m 
+Yehova shamma en kooda irupeer
+  G  A  D 
+En thevaiyellam santhipeer
+
+Chorus Var D
+  G  A 
+Neer mathram pothum
+  F#m  B7 
+Neer mathram pothum
+  Em  A  D 
+Neer mathram pothum enaku

@@ -1,0 +1,43 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 
+R1: Brass/p2/Pophorn R2:Piano/SuitcaseJazz
+Intro link: link
+Key: Em
+Style: poprock/p1/Reggaetonpop
+Tempo: 120 Variation:C. 
+*****************************************
+Begin Var C
+Em  D  C  B7 
+உங்கள் துக்கம் சந்தோஷமாய் மாறும்
+  Am  G 
+உங்கள் கவலைகள் கண்ணீர்
+B7  Em 
+எல்லாம் மறைந்து விடும்
+
+Chorus Var D
+ Em  C  G  
+கலங்காதே மகனே, 
+Em  Bm  Em 
+கலங்காதே மகளே 
+  C  D  Em 
+என் இயேசு கைவிட மாட்டார்
+
+Stanza Var C
+ Em  D 
+கடந்ததை நினைத்து கலங்காதே
+D  Am  Em7 
+நடந்ததை மறந்துவிடு
+Em  E7  Am 
+கர்த்தர் புதியன செய்திடுவார்
+D  G 
+இன்றே நீ காண்பாய்… 
+
+Chorus 2 Var D
+Em  Am 
+கலங்கிடவே வேண்டாம்
+D  G 
+கலங்கிடவே வேண்டாம்
+  C  D  Em 
+என் இயேசு கைவிட மாட்டார்
+
+

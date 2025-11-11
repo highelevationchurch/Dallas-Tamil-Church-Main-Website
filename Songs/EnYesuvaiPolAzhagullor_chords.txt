@@ -1,0 +1,53 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:  VarA
+R1: 
+Intro link: link
+Key: G
+Style: Reallooppack3/Bngra2
+Tempo: 120 Time Signature:4/4. 
+*****************************************
+Begin Var A
+G 
+இயேசுவைப் போல் அழகுள்ளோர்
+C 
+யாரையும் இப்பூவினில்
+G 
+இதுவரை கண்டதில்லை
+D  G 
+காண்பதுமில்லை
+
+Stanza Var C
+Em  Bm 
+பூரண அழகுள்ளவரே பூவில் எந்தன் வாழ்க்கையதில்
+G 
+நீரே போதும் வேறே வேண்டாம்
+Em 
+எந்தன் அன்பர் இயேசுவே
+G 
+மண்ணுக்காக மாணிக்கத்தை
+D  G  
+விட்டிடமாட்டேன்
+
+Begin VarA
+G
+Yesuvai poel alagullor
+C
+Yaaraiyum ippoovinil
+G
+Ithuvarai kandathillai
+D  G
+Kaanpathumillai
+
+Stanza Var C
+Em  Bm
+Poorana alagullavarae poovil enthan vaalkaiyathil
+G
+Neerae pothum vaerae vendam
+Em
+Enthan anbar yesuvae
+G
+Manukaaga maanikathai
+D  G
+Vithidamaathaen
+
+

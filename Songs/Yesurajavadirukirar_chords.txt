@@ -1,0 +1,59 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var C
+R1: xx
+Intro: link
+Key: G
+Style: poprock/p10/2-4 
+Tempo: 126 Time Signature:2/4 
+*****************************************
+Begin Var C
+G  C  G
+இயேசு ராஜா வந்திருக்கிறார்
+ A7  D
+எல்லோரும கொண்டாடுவோம்
+Am  D  G
+கைதட்டி நாம் பாடுவோம்
+
+Chorus Var D
+G  C  D  G
+கொண்டாடுவோம் கொண்டாடுவோம்
+Em  Am  D  G
+கவலைகள் மறந்து நாம் பாடுவோம்
+
+Stanza Var C
+  G  Bm
+கூப்பிடு நீ பதில் கொடுப்பார்
+Am  D  G
+குறைகளெல்லாம் நிறைவாக்குவார்
+Am  G/B
+உண்மையாக தேடுவோரின்
+C  D  G
+உள்ளத்தில் வந்திடுவார்
+
+
+
+
+
+Begin Var C
+G  C  G
+Yesu raja vanthirukiraar
+ A7  D
+Ellorum kodaduvom
+Am  D  G
+Kaithathi naam paaduvom
+
+Chorus Var D
+G  C  D  G
+Kondaduvom kondaduvom
+Em  Am  D  G
+Kavalaigal maranthu naam paaduvom
+
+Stanza Var C
+  G  Bm
+Koopidu nee bathil kodupaar
+Am  D  G
+Kuraigallelam niraivaakuvaar
+Am  G/B
+Unmaiyaaga theduvorin
+C  D  G
+Ullathil vanthiduvaar

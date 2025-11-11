@@ -1,0 +1,47 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: Bb
+Style: r&b/p8/Funk pop 
+Tempo: 92 Time Signature:4/4 
+*****************************************
+Begin Var A
+C  G
+என்னை மறவா இயேசு நாதா
+ F  G  C 
+உந்தன் தயவால் என்னை நடத்தும்
+
+Stanza Var B
+C  G/B  Am  G 
+வல்ல ஜீவ வாக்குத்தத்தங்கள்
+G  Dm  G  C 
+வரைந்தெனக்காய் ஈந்ததாலே ஸ்தோத்திரம் 
+
+Var C
+ Am  Em7
+ஆபத்திலே அரும் துணையே
+Dm  G  F  C 
+பாதைக்கு நல்ல தீபமிதே
+
+
+Begin Var A
+C  G 
+Ennai marava yesu natha
+ F  G  C 
+Unthan thayavaal ennai nadathum
+
+Stanza Var B
+C  G/B  Am  G 
+Valla jeeva vakkuthathangal
+G  Dm  G  C 
+Varainthenakaai yeenthathalae sthothiram
+
+
+Chorus Var C
+Am  Em7
+Aapathilae arum thunaiyae
+Dm  G  F  C 
+Paathaiku nalla theepamithae
+
+

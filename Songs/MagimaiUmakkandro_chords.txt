@@ -1,0 +1,62 @@
+******************************
+Key: E
+Style: Userexpansion/Imdian/p3/3-4Tabla
+Tempo: 140 Time Signature: 3-4
+*****************************************
+Begin Var B
+E  A  E
+மகிமை உமக்கன்றோ
+B  E
+மாட்சிமை உமக்கன்றோ
+E  A  C#m  B
+துதியும் புகழும் ஸ்தோத்திரமும்
+E  B  E
+தூயவர் உமக்கன்றோ
+
+Chorus Var A
+E  G#m  F#m  B  E  
+ஆராதனை  ஆ  ராதனை  -2 என்
+C#m  B  E
+அன்பர் இயேசுவுக்கே -2
+
+Stanza Var B
+E  G#m
+விலையேற்ப் பெற்ற உம் இரத்ததால்
+E  F#m
+விடுதலை கொடுத்தீர்
+Var A
+F#m  D  
+இராஜாக்களாக லேவியராக
+B  E
+உமக்கென தெரிந்து கொண்டீர்
+
+
+Begin Var B
+E  A  E
+magimai umakandro
+B  E
+Matchimai umakandro
+E  A  C#m  B
+Thuthiyum pugalum sthothiramum
+E  B  E
+Thooyavar umakandro
+
+Chorus  Var A
+E  G#m F#m  B  E
+Aarathanai Aah rathanai - 2 En
+C#m  B  E
+Anbar yesuvukae - 2
+
+Stanza Var B
+E  G#m
+Vilaiyerapetra um irathathaal
+E  F#m
+Viduthalai kodutheer
+Var A
+F#m  D
+Rajakagalaaka laeviyaraaga
+B  E
+Umakena therinthu kondeer
+
+
+

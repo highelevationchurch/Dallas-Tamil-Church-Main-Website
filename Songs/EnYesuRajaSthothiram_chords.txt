@@ -1,0 +1,52 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: E 
+Style: Reallooppack/p1/1Fateh  
+Tempo: 110 Time Signature:4/4
+*****************************************
+Begin Var A
+E  G#m.  A  B
+என் இயேசு ராஜா  ஸ்தோத்திரம்
+Var B
+F#m  
+ஸ்தோத்திரமே (2)
+C#m  B  A
+உயிருள்ள நாளெல்லாமே
+
+Stanza Var B
+  E  Asus
+இரக்கம் உள்ளவரே
+  E  Asus
+மனதுருக்கம் உடையவரே -2
+
+Var C
+B  F#m  
+நீடிய சாந்தம், பொறுமை அன்பு
+C#m  B  E
+நிறைந்து வாழ்பவரே
+
+
+
+
+Begin Var A
+E  G#m.  A  B
+En yesu raja  sthothiram
+Var B
+F#m
+Sthothiramae (2)
+C#m  B  A
+Uyirulla nallelamae
+
+Stanza Var B
+  E  Asus
+Irakkam ullavarae
+  E  Asus
+Manathurukam udaiyavarae
+
+Var C
+B  F#m
+Neediya santham, porumai anbu
+C#m  B  E
+Nirainthu valpavarae

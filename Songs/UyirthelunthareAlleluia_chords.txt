@@ -1,0 +1,54 @@
+*****************************************
+Key: A
+Style: Poprock/p10/country2-4
+Tempo:112 Time Signature: 2/4
+*****************************************
+Begin Var C
+A  D  E  A  F#m 
+உயிர்த்தெழுந்தாரே அல்லேலூயா!
+D  E  A
+ஜெயித்தெழுந்தாரே - 2
+A  A/C#  D
+உயிருடன் எழுந்த மீட்பர் இயேசென்
+E  A
+சொந்தமானாரே -2
+A  D  E  A
+ உயிர்த்தெழுந்தாரே
+
+
+Stanza Var D
+ A  D  A
+கல்லறைத் திறந்திடவே
+  F#m  E
+கடும் சேவகர் பயந்திடவே -2
+F#m  E  D  B7
+வல்லவர் இயேசு உயிர்த்தெழுந்தாரே 
+E  D  A
+வல்லப் பிதாவின் செயலிதுவே -2
+ A  D  E  A
+ உயிர்த்தெழுந்தாரே
+
+
+Begin Var C
+A  D  E  A  F#m
+Uyirthelunthaarae halleluiah!
+D  E  A
+Jeyithelunthaarae
+A  A/C#  D
+Uyirudan eluntha meetpar yesuen
+E  A
+Sonthamanaarae
+A  D  E  A  
+Uyirthelunthaarae
+Stanza Var D
+ A  D  A  
+Kallarai thiranthidavae
+  F#m  E
+Kadum sevagar bayanthidavae
+F#m  E  D  B7
+Vallavar yesu uyirthelunthaarae
+E  D  A
+Valla pithavin seyalithuvae
+A  D  E  A  
+Uyirthelunthaarae
+

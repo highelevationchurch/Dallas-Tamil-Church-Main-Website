@@ -1,0 +1,65 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: Dm
+Style: ExpnReallooppack1/p1/3Duff
+Tempo: 80 Time Signature:X. 
+*****************************************
+Begin Var A
+Dm  
+உம்மை அல்லாமல் எனக்கு
+Dm  	C
+யார் உண்டு
+  Gm
+உம்மை அல்லாமல் எனக்கு
+Am  	Dm
+யார் உண்டு 
+
+Chorus Var C
+Dm  Bb
+என் இயேசையா அல்லேலூயா
+C  Am  Dm
+என் இயேசையா அல்லேலூயா
+
+Stanza Var A
+Dm  Gm
+இன்பத்திலும் நீரே,
+C  Dm
+துன்பத்திலும் நீரே -2
+
+Var C
+Dm  Gm  C
+எவ்வேளையும் ஐயா நீர்தானே
+Gm  Am  Dm
+எவ்வேளையும் ஐயா நீர்தானே
+
+
+
+Begin Var A
+Dm
+Ummai allamal enaku
+Dm  C
+Yaar undu
+  Gm
+Ummai allamal enaku
+Am  Dm
+Yaar undu
+
+Chorus Var C
+Dm  Bb
+En yesaiyaa alleluiah
+C  Am  Dm
+En yesaiyaa halleluiah
+
+Stanza Var A
+Dm  Gm
+Inbathilum neerae,
+C  Dm
+Thunpathilum neerae -2
+
+Var C
+Dm  Gm  C
+Evelaiyum ayya neerthanae
+Gm  Am  Dm
+Evelaiyum ayya neerthanae

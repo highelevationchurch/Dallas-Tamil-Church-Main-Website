@@ -1,0 +1,68 @@
+****************************************
+Key: G
+Style: expn/ Parai/p1/68 3
+Tempo: 92 Time Signature:6/8. 
+*****************************************
+Begin Var A
+  G 
+என்னை கொன்று போட்டாலும்
+  Dm  
+உம்மை நம்பியிருப்பேன்
+  Am  
+நான் சாகும் வரையில்
+  F7  G 
+உம்மை நம்பியிருப்பேன்-2
+
+Chorus Var A
+  G  Am 
+என்னை அழைத்தவரே உம்மை ஆராதிப்பேன்  
+  D  Cm/A  G 
+உண்மையுள்ளவரே உம்மை ஆராதிப்பேன்-2  
+  G  C  D  G  
+நான் ஆராதிக்கும் தேவன் என்னை தப்புவிப்பாரே
+  Em  C  D  G 
+என்னை விடுவியாமல் போனாலும் (நான்) ஆராதிப்பேன்-2
+  
+Stanza Var A
+  G  
+தாவீதைப் போல் என்னை விரட்டி
+Dm 
+கொல்ல நினைத்தாலும்
+Am 
+ஆமான் தூக்கு மரங்களை
+ C 
+எனக்காய் செய்தாலும்-2
+
+
+
+
+Begin Var A
+  G 
+Ennai kondru potalum
+  Dm  
+Ummai nambiyirupen
+  Am  
+Naan saagum varaiyil
+  F7  G 
+Ummai nambiyirupen - 2
+
+Chorus Var A
+  G  Am 
+Ennai alaithavarae ummai aarathipen
+  D  Cm/A  G 
+Unmaiyullavarae ummai aarathipen-2
+  G  C  D  G  
+Naan aarathikum devan ennai thappuvipaarae
+  Em  C  D  G 
+Ennai viduviyaamal ponalum (Naan) aarathipen-2
+  
+Stanza Var A
+  G  
+Thaaveethai poel ennai virathi
+Dm 
+Kolla ninaithalum
+Am 
+Aaman thooku marangalai
+ C 
+Enakaai seithalum - 2
+

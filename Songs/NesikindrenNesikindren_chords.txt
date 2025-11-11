@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: G
+Style: poprock/p4/pianobalad 
+Tempo: 70 Time Signature:4/4. 
+*****************************************
+Begin Var B
+ G  Csus2 
+நேசிக்கின்றேன் நேசிக்கின்றேன் 
+Em  Am  D
+ நேசிக்கின்றேன் இயேசுவே உம்மை (2)
+
+Stanza Var C
+  Bm  E7  Am  F7
+மனதின் குழப்பமிகுதியால் வெட்கம் 
+  G/B  A7  
+சூழ்ந்ததால் ஒதுங்கி நின்றேன் 
+C/D  D  Bm  E7  Am 
+இயேசுவே ஆனாலும் உதறி விடாமல் 
+ C6  G  Em  
+மதித்து என்னையும் நீர் தேடி வந்தீர் 
+ Am  D 
+இயேசுவே 
+
+
+Begin Var B
+ G  Csus2 
+Nesikindren nesikindren
+Em  Am  D
+Nesikindren yesuvae ummai (2)
+
+Stanza Var C
+  Bm  E7  Am  F7
+Manathin kulapamiguthiyaal vetkam
+  G/B  A7  
+Soolnthathaal othungi nindren
+C/D  D  Bm  E7  Am 
+Yesuvae aanalum uthari vidamal
+ C6  G  Em  
+Mathithu ennaiyum neer thedi vantheer
+ Am  D 
+Yesuvae
+

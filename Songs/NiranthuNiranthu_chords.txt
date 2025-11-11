@@ -1,0 +1,55 @@
+*****************************************
+Key: Em
+Style: poprock/p1/16beatrock
+Tempo: 110  Time Signature:4/4. 
+*****************************************
+Begin Var B
+Em  D
+நிறைந்து நிறைந்து நிரப்பிடுவேன் 
+Bm  C  
+பெற்ற ஊழியம் நிறைவேற்றுவேன்-2
+
+Chorus Var C
+
+Em  B7  Am  Am
+ஆவியினால் வார்த்தையினால் 
+ D  Bm  Em
+அனுதினமும் நிரம்பிடுவேன்-2
+
+Stanza Var B
+  Em  D  
+எங்கும் வசனம் பரவியது 
+ Am  B  
+ஏழு பேர் ஆவியால் நிரம்பியதால்-2
+  Am  D  G
+ சீடர்கள் தொகையும் பெருகியது -2
+ C  D  Em
+ கீழ்படிந்தார்கள் மதக்குருக்கள்
+ Am  Bm  Em 
+கீழ்படிந்தார்கள் மதக்குருக்கள்
+
+
+Begin Var B
+Em  D
+Nirainthu nirainthu nirapiduvaen
+Bm  C
+Pethra ooliyam niraivetruvaen - 2
+
+Chorus Var C
+Em  B7  Am  Am
+Aaviyinaal vaarthaiyinaal
+ D  Bm  Em
+Anuthinamum nirambiduvaen - 2
+
+Stanza Var B
+  Em  D  
+Engum vasanam paraviyathu
+ Am  B  
+Yelu paer aaviyaal nirambiyathaal - 2
+  Am  D  G
+Seedargal thogaiyum perugiyathu - 2
+ C  D  Em
+Keelpadinthaargal mathagurukal 
+
+ Am  Bm  Em
+Keelpadinthaargal mathagurukal

@@ -1,0 +1,70 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: G
+Style: poprock/p6/countryballad
+Tempo: 70 Time Signature:4/4. 
+*****************************************
+Begin Var A
+ G  D/F#  
+குயவனின் கையில் 
+  C  D
+களிமண் நான் 
+C  G/B  
+காணும் போது ஒரு அழகும்
+Am  D 
+காணவில்லையே (2)
+
+Var B
+  Bm  Em 
+அழகாக மாறும்
+  C  D
+உம் பல வேதனை பாதை
+  Bm  Em  
+கடந்து வர நேரிடும்
+  C  D  
+அது  இன்பமில்லையே
+
+Var A
+C  G/B 
+அக்கினியின் சுவாலையை 
+Am  G/B 
+ஊடாக கடந்து நீ
+C  D 
+வர வேண்டுமே என்
+  G 
+பிள்ளையே (2)
+
+
+
+Begin Var A
+ G  D/F#  
+Kuyavanin kaiyil
+  C  D
+Kaliman naan
+C  G/B  
+Kaanum pothu oru alagum
+Am  D 
+Kaanavillaiyae (2)
+
+Var B
+  Bm  Em 
+Alahaga maarum
+  C  D
+Um pala vethanai paathai
+  Bm  Em  
+Kadanthu vara neridum
+  C  D  
+Athu inbamillaiyae
+
+Var A
+C  G/B 
+Akkiniyin suvalaiyai
+Am  G/B 
+Oodaga kadanthu nee
+C  D 
+Vara vendumae en
+  G 
+Pillaiyae (2)
+

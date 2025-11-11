@@ -1,0 +1,73 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: A
+Style: poprock/p4/16BeatBallad  
+Tempo: 75  Time Signature:4/4 
+*****************************************
+Begin Var B
+D  A/C#
+எழும்பி வா நீ
+  E
+என் பிரியமே என் ரூபவதியே - 4
+
+Var C
+F#m7  D
+சாம்பலை சிங்காரமாக்கி
+A/C#	  E
+புலம்பலை ஆனந்தமாக்குவேன் -2
+
+Stanza Var B
+  A  
+உடைந்து போன கனவால் உந்தன்
+D
+வாழ்க்கையே கசக்குதோ? (கசந்ததோ?)
+A/C#
+விழுந்துபோன தருணங்கள் நினைத்து
+E
+நம்பிக்கை இழந்தாயோ? -2
+
+Var C
+Bm  
+பருவங்கள் மாற்றுவேன்
+  A/C#
+உன்னை நேர்த்தியாய் காட்டுவேன்
+D 
+கனி தரும் விருட்சமாய்
+  Esus4
+உன்னை விருத்தியாக்குவேன் -2
+
+=================================================
+
+Begin Var B
+D  A/C#
+Ezhumbhi vaa nee…
+  E
+En piriyamae en roobavathiyae - 4
+Var C
+F#m7  D
+Saambalai singaramaaki
+A/C#	  E
+Pulambalai aananthamaakuven - 2 - Ezhumbhi
+
+Stanza Var B
+  A  
+Udainthu pona kanavaal
+D
+Unthan vaalkaiye kasakutho? (kasanthatho?)
+A/C#
+Vilunthu pona tharunangal ninaithu
+E
+Nambhikai ilanthaayo? - 2
+
+Var C
+Bm  
+Paruvangal maatruven
+  A/C#
+Unnai nerthiyaai kaatuven
+D 
+kani tharum viruthchamaai
+  Esus4
+unnai viruthiyaakuven - 2 - Ezhumbhi
+

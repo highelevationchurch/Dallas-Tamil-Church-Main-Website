@@ -1,0 +1,33 @@
+
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3
+R1: Strings
+Intro link: link
+Key: G
+Style: expansion/tabla2/p2/F#tabla1
+Tempo: 105 Variation:A. 
+*****************************************
+Begin/Stanza A
+ G  C  Bm  Em
+தேன் இனிமையிலும் இயேசுவின் நாமம்
+D  G  
+திவ்விய மதுர மாமே – அதைத் - 2
+Var B
+Em  Bm
+தேடியே நாடி ஒடியே வருவாய்
+Dm  E7.  Am  D
+தினமும் நீ மனமே
+
+
+
+
+Begin/Stanza A
+ G  C  Bm  Em
+Then inimaiyilum yesuvin namam
+D  G  
+Diviya mathura mamae - aathai - 2
+Var B
+Em  Bm
+Thediyae naadi oodiyae varuvaai
+Dm  E7.  Am  D
+Dinamum nee manamae

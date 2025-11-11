@@ -1,0 +1,49 @@
+**************************************
+Key: D
+Style: pop rock/p4/Piano ballad 
+Tempo: 80 Time Signature: 4/4. 
+*****************************************
+Begin (Var B)
+D  
+ இயேசுவின் பின்னே
+F#m 
+போகத் துணிந்தேன்
+Bm 
+இயேசுவின் பின்னே
+C7 
+போகத் துணிந்தேன்
+D
+இயேசுவின் பின்னே
+F#m
+போகத் துணிந்தேன்
+
+Bm 
+பின்னோக்கேன் நான்
+  
+  A  G  
+பின்னோக்கேன் நான்
+
+( second time Var C)
+
+
+Begin (Var B)
+D 
+Yesuvin pinnae
+F#m
+Poga thuninthaen
+Bm
+Yesvin pinnae
+C7
+Poga thuninthaen
+D
+Yesuvin pinnae
+F#m
+Poga thuninthaen
+
+Bm
+Pinnokaen naan
+  
+  A  G  
+Pinnokaen naan
+
+( second time Var C)

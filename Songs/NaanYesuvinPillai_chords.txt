@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var C
+R1: xx
+Intro: link
+Key: E
+Style: Dance/p9/90sDisco 
+Tempo: 105 Time Signature:4/4
+*****************************************
+Begin Var C
+  E  
+நான் இயேசுவின் பிள்ளை 
+B
+பயமே இல்லை
+  A  B  E  
+எந்நாளும் சந்தோஷமே - 2
+
+Stanza Var D
+  E  
+தெரிந்து கொண்டார் 
+G#m  
+தெரிந்து  கொண்டார் 
+ E 
+மகனாக மகளாக
+  B  E
+தெரிந்து கொண்டார் - 2
+
+
+Begin Var C
+  E  
+Naan yesuvin pillai 
+B
+Bayamae Illai 
+ A  B  E  
+ennalum santhosamae  - 2
+
+Stanza Var D
+  E  
+Therinthu kondaar
+ G#m
+Therinthu Kondaar 
+ E  
+ maganaaaga magalaaga
+  B  E
+Therinthu kondaar  - 2
+

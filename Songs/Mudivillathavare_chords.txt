@@ -1,0 +1,70 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: E
+Style: Reggaeton  
+Tempo: 126 Time Signature:4/4. 
+*****************************************
+Begin Var C
+E  C#m
+முடிவில்லாதவரே
+  G#m  B  
+ நல் முடிவை தருபவரே-2 
+  F#m
+என் விண்ணப்பத்திற்கும் 
+  D  B  E
+என் கண்ணீருக்கும் பதிலை அளிப்பவரே-2 
+
+Chorus Var D
+E  C#m
+புகலிடமே என் மறைவிடமே 
+ E/G#  B
+சமாதானமே சம்பூரணமே
+ E/G#  A  E/G#  
+ஆறுதலே என் அக்களிப்பே 
+  F#m  B  E
+உம்மை எந்நாளும் ஆராதிப்பேன்-2
+
+Stanza Var C
+ E  G#m  
+இதுவரை நடத்தின எபினேசர் நீரே 
+C#m.  F#m
+எந்நாளும் நடத்திடுவீர் 
+B  D  
+இனிமேலும் தாங்கும் கரம் உம்முடையதே 
+B  E
+என்றென்றும் காத்திடுமே-2-புகலிடமே
+
+
+
+Begin Var C
+E  C#m
+Mudivillathavarae
+  G#m  B  
+Nal mudivai tharupavarae - 2
+  F#m
+En vinnapathirukum  
+  D  B  E
+En kaneerukum bathilai alipavarae - 2
+
+Chorus Var D
+E  C#m
+Pugalidamae en maraividamae
+ E/G#  B
+Samathanamae sampooranamae
+ E/G#  A  E/G#  
+Aaruthalae en akkalipae
+  F#m  B  E
+Ummai ennalum aarathipaen -2 
+
+Stanza Var C
+ E  G#m  
+Ithuvarai nadathina ebinezar neerae
+C#m.  F#m
+Ennalum nadathiduveer
+B  D  
+Inimaelum thaangum karam ummadaiyathae
+B  E
+Endrendrum kaathidumae - 2 - Pugalidamae
+

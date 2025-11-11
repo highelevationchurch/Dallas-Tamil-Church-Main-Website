@@ -1,0 +1,39 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: A
+Style: poprock/p10/country2-4  
+Tempo: 120 Time Signature:2/4
+*****************************************
+Begin Var A  Alternate Stanza Var C
+A  
+உறக்கம் தெளிவோம் 
+F#m  
+உற்சாகம்  கொள்வோம் 
+Bm  E
+உலகத்தின் இறுதி வரை 
+E 
+கல்வாரி தொனிதான் 
+ E
+மழை மாரி பொழியும் 
+D  E  A
+நாள்வரை உழைத்திடுவோம்
+
+
+Begin Var A  Alternate Stanza Var C
+A 
+Urakkam thelivom
+F#m  
+Urchagam kolvom
+Bm  E
+Ulagathin iruthi varai
+E
+Calvary thonithaan
+ E
+Mazhai maari politum
+D  E  A
+Naalvarai ulaithiduvom
+
+
+

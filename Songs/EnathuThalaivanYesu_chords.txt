@@ -1,0 +1,49 @@
+**************************************
+Key: C
+Style: 
+Tempo: 100 Time Signature: 4/4. 
+*****************************************
+Begin (Var B) 
+C  F
+எனது தலைவன் இயேசு ராஜன்
+C  G
+மார்பில் சாய்ந்து சாய்ந்து
+Dm  G.  C 
+மகிழ்ந்து மகிழ்ந்திருப்பேன் -2
+
+Stanza (Var C)
+C  Em 
+இதய தீபம் எனது தெய்வம்
+F  C
+இரக்கத்தின் சிகரம் -2
+(Var D)Multipad 4 On
+Am  G 
+பார்த்துப் பார்த்து ரசித்து ருசித்து -2
+F  C
+பரவசம் அடைவேன்
+Dm  G  C
+பரவசம் அடைவேன்
+
+
+
+Begin (Var B) 
+C  F
+Enathu thalaivan yesu rajan
+C  G
+Maarpil saainthu saainthu
+Dm  G.  C
+Magilnthu magilnthirupaen - 2
+
+Stanza (Var C)
+C  Em 
+Ithaya deepam enathu deivam
+F  C
+Irakathin sigaram - 2
+
+(Var D)Multipad 4 On
+Am  G 
+Paarthu paarthu rasithu rusithu -2 
+F  C
+Paravasam adaivaen
+Dm  G  C
+Paravasam adaivaen

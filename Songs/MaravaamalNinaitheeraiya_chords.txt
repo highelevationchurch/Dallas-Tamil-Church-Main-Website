@@ -1,0 +1,72 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: Woodwind/ClassicalFlute
+Intro: link
+Key: Dm
+Style: Usb1/JerushanAmos/3-4Tabla.Amos
+Tempo: 130 Time Signature:3/4. 
+*****************************************
+Begin Var B
+Dm  C
+மறவாமல் நினைத்தீரையா
+Gm  Dm
+மனதார நன்றி சொல்வேன்
+Dm  C
+இரவும் பகலும் எனை நினைத்து
+Gm  Asus, A
+இதுவரை நடத்தினீரே
+
+Chorus: Var C
+Bb  C  Dm
+நன்றி நன்றி ஐயா ஆ…. ஆ…
+Bb  C  Dm
+கோடி கோடி நன்றி ஐயா
+Bb  C  G
+நன்றி நன்றி ஐயா ஆ…. ஆ…
+Bb  C  Dm
+கோடி கோடி நன்றி ஐயா
+
+Stanza Var B
+Dm  F
+எபிநேசர் நீர்தானையா
+Gm  C  F  A7
+இதுவரை உதவினீரே
+Var D
+D7  Gm
+எல்ரோயீ எல்ரோயீ என்னையும் கண்டீரே
+C  F  A
+எப்படி நான் நன்றி சொல்வேன்
+
+
+Begin Var B
+Dm  C
+Maravamal ninaitheeraiya
+Gm  Dm
+Manathara nandri solvaen
+Dm  C
+Iravum pagalum enai ninaithu
+Gm  Asus, A
+Ithuvarai nadathineerae
+
+Chorus: Var C
+Bb  C  Dm
+Nandri nandri ayya Aah….. Aah…..
+Bb  C  Dm
+Kodi kodi nandri ayya
+
+Bb  C  G
+Nandri nandri ayya Aah….. Aah………….
+Bb  C  Dm
+Kodi kodi nandri ayya
+
+Stanza Var B
+Dm  F
+Ebinezar neerthanaiya
+Gm  C  F  A7
+Ithuvarai uthavineerae
+Var D
+D7  Gm
+Elroye elroye ennaiyum kandeerae
+C  F  A
+Eppadi naan nandri solvaen
+

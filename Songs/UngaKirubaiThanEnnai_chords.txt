@@ -1,0 +1,46 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank 3  Var C
+R1: xx
+Intro: link
+Key: F
+Style: poprock/p8/countryshuffle 
+Tempo: 88 Time Signature:3/4. 
+*****************************************
+Begin Var C
+F  Bb
+உங்க கிருபைதான் என்னைத் தாங்குகின்றது
+  C  F
+உங்க கிருபைதான் என்னை நடத்துகின்றது
+
+Chorus Var D
+F  Gm  Dm  C  F
+கிருபையே கிருபையே மாறாத நல்ல கிருபையே
+F  Am,  D7  Gm  Dm  C  Bb  F  
+கிருபையே கிருபையே மாறாத நல்ல கிருபையே
+
+Stanza Var C
+F  C  Dm
+உடைக்கப்பட்ட நேரத்தில் எல்லாம்
+Gm  C  F
+என்னை உருவாக்கின கிருபை இது
+
+
+
+
+Begin Var C
+F  Bb
+Unga kirubai than ennai thangukindrathu
+  C  F
+Unga kirubai than ennai nadathukindrathu
+
+Chorus Var D
+F  Gm  Dm  C  F
+Kirubaiyae kirubaiyae maratha nalla kirubaiyae
+F  Am,  D7  Gm  Dm  C  Bb  F  
+Kirubaiyae kirubaiyae maratha nalla kirubaiyae
+
+Stanza Var C
+F  C  Dm
+Udaikapatha nerathil ellam
+Gm  C  F
+Ennai uruvakina kirubai ithu

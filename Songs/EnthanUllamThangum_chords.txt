@@ -1,0 +1,47 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: F
+Style: Expn/Usb1/Acoustic3.4Amos 
+Tempo: 126 Time Signature:3/4 
+*****************************************
+Begin Var A
+F  Bb  
+எந்தன் உள்ளம் தங்கும்
+ Dm  C 
+இயேசு நாயகா
+ F/A  Bb 
+உந்தன் வீடாய் கொள்ளும்
+ C  F 
+ இயேசு நாயகா
+
+Chorus Var B
+ F  Gm F/A  F  Gm F/A
+இயேசு நாயகா இயேசு நாயகா
+F  Bb 
+உந்தன் வீடாய் கொள்ளும் 
+C  F 
+இயேசு நாயகா
+
+
+Begin Var A
+F  Bb  
+Enthan ullam thangum
+ Dm  C 
+Yesu nayaga
+ F/A  Bb 
+Unthan veedai kollum
+ C  F 
+Yesu nayaga
+
+Chorus Var B
+ F  Gm F/A  F  Gm F/A
+Yesu nayaga yesu nayaga
+F  Bb 
+Unthan veedai kollum
+C  F 
+Yesu Nayaga
+
+
+

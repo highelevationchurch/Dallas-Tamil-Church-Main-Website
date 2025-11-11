@@ -1,0 +1,29 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3, Bank7 Variation:A
+R1: Brass, Strings
+Intro link: link
+Key: Fm
+Style: realpack1/p1/tabla6-8/F#6-8tabla
+Tempo: 120  Time Signature: 6/8. 
+*****************************************
+Begin Var A
+Fm  Db
+உம்மை பாடுவேன் உம்மை துதிப்பேன்
+Bbm  Cm  Fm
+ நன்மையான ஈவுகளை தந்தீரையா
+
+Chorus Var B
+Fm  Bbm.  Eb.  Ab  C7
+ஸ்தோத்திரம் வல்லமை துதியும் ஞானமும்
+Fm  Bbm  Eb  C  Fm
+கனமும் மகிமையும் பெலனும் என்றென்றும் உண்டாகட்டும்
+
+Stanza Var A
+  Fm  Bbm
+தாழ்மையில் இருந்த என்னை
+Eb  Ab  C
+ கண்ணோக்கி பார்த்தீரையா
+Bbm.  Eb  Ab  Db
+ சேற்றினின்று என்னை தூக்கினீரே
+  C  Fm
+கன்மலை மேல் நிறுத்தினீரே

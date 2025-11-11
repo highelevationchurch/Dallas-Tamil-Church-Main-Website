@@ -1,0 +1,76 @@
+**************************************
+Key: Am
+Style: world/p2/Bhangra  
+Tempo: 165 Time Signature: 4/4
+*****************************************
+Begin (Var A)
+Am 
+மலைகள் விலகினாலும்
+Am 
+பர்வதங்கள் நிலை பெயர்ந்தாலும்
+C  G
+கிருபை விலகாது
+ Em  F
+சமாதானம் நிலை பெயராது -2
+Am  Em  Am 
+மலைகள் விலகினாலும்
+
+Chorus (Var B)
+ Am  E
+கிருபை விலகாதைய்யா 
+Dm  Em  Am 
+கிருபை விலகாதைய்யா -2
+
+Stanza  (Var A)  
+Am.  F
+கோபம் கொள்வதில்லை
+  Dm  E 
+என்று வாக்குரைத்தீர்
+ E.  Dm 
+கடிந்து கொள்வதில்லை
+  E  Am 
+என்று ஆணையிட்டீர்(என்மேல்) -2
+Am.  
+பாவங்களை மன்னித்தீர்
+ F 
+அக்கிரமங்கள் எண்ணுவதில்லை -2
+G  Em  Am 
+இயேசு எனக்காய் பலியானதனால் -2
+
+
+
+Begin (Var A)
+Am 
+Malaigal Vilaginaalum
+Am 
+Parvathangal nilai peyarnthaalum
+C  G
+Kirubai vilagaathu
+ Em  F
+Samaathaanam nilai peyaraathu -2
+Am  Em  Am 
+Malaigal vilaginaalum
+
+Chorus (Var B)
+ Am  E
+Kirubai vilagaathaiyaa
+Dm  Em  Am 
+Kirubai vilagaathaiyaa -2
+
+Stanza  (Var A)  
+Am.  F
+Kobam kolavathillai
+  Dm  E
+Endru vaakuraitheer
+ E.  Dm 
+Kadinthu kolvathillai
+  E  Am 
+Endru aanaiyiteer(Enmael) -2
+Am.  
+Paavangalai manitheer
+ F 
+Akkiramangal ennuvathillai -2
+G  Em  Am 
+Yesu enakaai baliyaanathaal -2
+
+

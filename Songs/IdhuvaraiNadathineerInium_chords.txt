@@ -1,0 +1,76 @@
+**************************************
+Key: G
+Style: poprock/p8/PowerBallad 
+Tempo: 70 Time Signature: 4/4. 
+*****************************************
+Begin (Var B) 
+  D  A
+இதுவரை நடத்தினீர் இனியும் நடத்துவீர்
+  G  Bm  A
+யேகோவாயீரே பார்த்துக்கொள்வீர் - 2
+
+Chorus (Var C)
+  G  F#m  B7 
+யேகோவாயீரே யேகோவாயீரே
+  Em  A  D
+என் தேவை யாவும் நீர் சந்திப்பீர் -2
+
+Stanza (Var B)
+ G  A  D 
+கடந்து வந்த பாதையை நான் பார்க்கிறேன்
+  G  A  D 
+நீர் சுமந்து வந்ததை நான் உணர்கிறேன் - 2
+Var C
+  G  F#m  B7
+என் தந்தை நீரே என் தந்தை நீரே
+  G  A  D
+என்னை சுமந்து வந்த தெய்வம் நீரே -2
+
+
+Here’s the transliteration of your Tamil lyrics in Latin script:
+Begin (Var B)
+D
+Idhuvarai nadathineer iniyum nadathuveer
+G Bm A
+Yehovaa yeere paarthukolveer - 2
+Chorus (Var C)
+G F#m B7
+Yehovaa yeere Yehovaa yeere
+Em A D
+En thevai yaavum neer sandhippeer - 2
+Stanza (Var B)
+G A D
+Kadandhu vantha paathaiyai naan paarkkiren
+G A D
+Neer sumandhu vanthathai naan unarugiren - 2
+Var C
+G F#m B7
+En thandhai neere en thandhai neere
+G A D
+Ennai sumandhu vantha dheyvam neere - 2
+Let me know if you need further help!
+
+
+
+Begin (Var B) 
+  D  A
+Ithuvarai nadathineer iniyum nadathuveer
+  G  Bm  A
+Yehovaayeerae parthukollveer -2
+
+Chorus (Var C)
+  G  F#m  B7 
+Yehovayeerae yehovayeerae
+  Em  A  D
+En thevai yaavum neer santhipeer -2
+
+Stanza (Var B)
+ G  A  D 
+Kadanthu vantha paathaiyai naan parkindren
+  G  A  D 
+Neer sumanthu vanthathai naan unarkindren - 2
+Var C
+  G  F#m  B7
+En thanthai neerae en thanthai neerae
+  G  A  D
+Ennai sumanthu vantha deivam neerae -2

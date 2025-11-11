@@ -1,0 +1,42 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: popwaltz
+Tempo: 125 Time Signature: 3/4 
+*****************************************
+Begin/Stanza Var B
+E  C#m  
+நேசரே உம் திரு பாதம் அமர்ந்தேன்
+E  B 
+நிம்மதி நிம்மதியே -2
+A  G#m  C#m 
+ஆர்வமுடனே பாடித் துதிப்பேன்
+F#m  B  E 
+ஆனந்தம் ஆனந்தமே -2
+
+Chorus Var D
+E  A  B  G#  C#m
+அடைக்கலமே அதிசயமே
+  E  B  A  E  
+ஆராதனை ஆராதனை
+
+
+
+Begin/Stanza Var B
+E  C#m  
+Nesarae um thiru paatham amarnthaen
+E  B 
+Nimathi nimathiyae - 2
+A  G#m  C#m 
+Arvamudanae paadi thuthipaen
+F#m  B  E 
+Anantham ananthamae - 2
+
+Chorus Var D
+E  A  B  G#  C#m
+Adaikalamae athisayamae
+  E  B  A  E  
+Aarathani aarathanai
+

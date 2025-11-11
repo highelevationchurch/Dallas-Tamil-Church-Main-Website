@@ -1,0 +1,52 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 Bank5 VarB
+R1: Guitar, Strings
+Intro link: link
+Key: F
+Style: poprock/p8/countryShuffle
+Tempo: 120 Time Signature:6/8. 
+*****************************************
+Begin VarB
+F  Bb.  F
+சர்வ வல்லவர் என் சொந்தமானர் (எஜமானன்)
+G  C/E  C  F
+சாவை வென்றவர் என் ஜீவனானவர் (மணவாளன்)
+F  Am  Bb  
+ஆ…இது அதிசயம் தானே
+Gm  C  F
+ஓ…இது உண்மைதானே
+
+Stanza VarA
+  F  C  
+கண்டுகொண்டேன் ஒரு புதையல்
+Bb  C  F 
+பெற்றுக்கொண்டேன் ஒரு பொக்கிஷம்
+Var C
+F  Am  Bb  
+இயேசுதான் என் இரட்சகர்
+Gm  C  F
+இயேசு தான் என் ராஜா
+
+
+Begin  VarB
+F  Bb.  F
+Sarva vallavar en sonthamaanavar (ejamaanan)
+G  C/E  C  F
+Saavai venthravar en jeevananavar (manavaalan)
+F  Am  Bb
+Aah... ithu athisayam thaanae
+Gm  C  F
+Oo... ithu unmaithaanae
+
+Stanza VarA
+  F  C
+kandhukondaen oru puthaiyal
+Bb  C  F
+petrukondaen oru pokkisam
+Var C
+F  Am  Bb
+Yesuthaan en rathchagar
+Gm  C  F
+Yesu thaan en raja
+
+

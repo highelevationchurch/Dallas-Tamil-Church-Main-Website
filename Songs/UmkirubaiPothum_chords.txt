@@ -1,0 +1,80 @@
+ ***Unfreeze + Bank1 + Freeze***
+Intro: Bank 3.
+R1: 
+Intro link: link
+Key: 
+Style: pack3.p1.1DTD
+Tempo: 90 Variation:D 
+*****************************************
+Var A
+  	G  C
+உம் கிருபை எனக்கு போதும் (intro)
+  	Em  	D
+உம் கிருபை எனக்கு போதும்
+C	G/B  	C
+உம் கிருபை எனக்கு போதும்(intro)
+
+Chorus. Var C
+  	D  	Em
+என் பெலவீனத்தில் உம் பெலமோ
+Am 	D  	G
+பூரணமாய் விளங்கும் -2
+
+Stanza. Var A
+ GG  	DD 
+தாழ்வில் இருந்தாலும் உம் கிருபை போதும்
+ GG  	DD
+கண்ணீரில் மூழ்கினாலும் உம் கிருபை போதும்
+GG  DD
+வேதனை இருந்தாலும் உம் கிருபை போதும்
+  GG  	DD
+ஒன்னுமே இல்லனாலும் உம் கிருபை போதும்
+C  Am  G/B 
+இயேசப்பா நீங்க மட்டும் - 2
+Am	
+என் கூட இருந்தா
+
+Var B
+D  Em
+போதுமே கிருபை போதுமே
+Am  	D  	G 
+மாறுமே எல்லாமே மாறுமே - என் பெலவீனத்தில்
+
+Var A
+  G  C
+Um kirubai enaku pothum (intro)
+  Em  D
+Um kirubai enaku pothum
+C  G/B  C
+Um kirubai enaku pothum (intro)
+
+Chorus. Var C
+  D  Em
+En belaveenathil um belamo
+Am  D  G
+Pooranamai vilangum
+
+Stanza. Var A
+GG  DD
+Thaalvil  irunthalum um kirubai pothum
+GG  DD
+Kaneeril moolginaalum um kirubai pothum
+GG  DD
+Vethanai irunthalum um kirubai pothum
+  GG  DD
+Onumae illanalum um kirubai pothum
+C  Am  G/B
+Yesapa neenga mathum - 2
+
+Am
+En kooda iruntha
+
+Var B
+D  Em
+Pothumae kirubai pothumae
+Am  D  G
+Maarumae ellamae maarumae - En belaveenathil
+
+
+
+

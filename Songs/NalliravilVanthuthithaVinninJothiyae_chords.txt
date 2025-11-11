@@ -1,0 +1,63 @@
+**************************************
+Key: Dm
+Style: poprock/p3/70’sHardrock
+Tempo: 105 Time Signature: 4/4
+*****************************************
+Begin Var A
+Dm  
+நள்ளிரவில் வந்துதித்த விண்ணிண் ஜோதியே
+Dm 
+புள்ளனையில் மலர்ந்திட்ட தேவ மைந்தனே
+  Gm  C  Dm  C
+விண்ணவரும் மன்னவரும் மகிழ்ந்தனரே
+ Gm  F  E  A
+என்னை மீட்க்க பிறந்த வாச மலரே
+
+Stanza Var B
+Dm.  Gm  C
+மாந்தர் பாவங்களை சுமந்து தீர்க்க வந்த
+ C  F
+நல்ல மீட்பர் இவரே
+Dm  Gm  F
+இருளை மீட்க்க வந்த தேவமைந்தன் இவரே
+ Dm  F
+விண்ணின் ஜீவ ஒளியே
+ D  Gm 
+ஆலொசனை கர்த்தர் இவர் நாமமே
+C  F  
+என்னை காக்கும் வல்லமையின் தேவனே
+Dm  Gm  Dm  Gm 
+அன்பு மலரே என் வாச மலரே
+Dm  Gm  C 
+அன்னை மடியில் தேவ பலனே
+
+
+
+Begin Var A
+Dm 
+Nalliravil vanthuthitha vinnin jothiyae
+Dm 
+Pullanaiyil malarnthitha deva mainthanae
+  Gm  C  Dm  C
+Vinnavarum mannavarum magizhthanarae
+ Gm  F  E  A
+Ennai meetka pirantha vaasa malarae
+
+Stanza Var B
+
+Dm.  Gm  C
+Maanthar paavangalai sumanthu theerka vantha
+ C  F
+Nalla meetpar ivarae
+Dm  Gm  F
+Irulai meetka vantha devamainthan ivarae
+ Dm  F
+Vinninjeeva oliyae
+ D  Gm 
+Aalosanai karthar ivar naamamae
+C  F 
+Ennai kaakum vallamaiyin devanae
+Dm  Gm  Dm  Gm
+Anbu malarae en vaasa malarae
+Dm  Gm  C 
+Annai madiyil deva belanae

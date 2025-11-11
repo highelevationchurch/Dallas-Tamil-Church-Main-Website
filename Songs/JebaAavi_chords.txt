@@ -1,0 +1,32 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: X
+Style: World/p2/ArabicEuro  
+Tempo: 90 Time Signature:4/4
+*****************************************
+Begin Var A
+Fm  Eb
+ஜெப ஆவி ஊற்றுமையா
+Cm  Db
+ஜெபிக்கணும் ஜெபிக்கணுமே
+
+Stanza Var B
+Fm  Eb  
+ஸ்தோத்திர பலி, விண்ணப்ப ஜெபம்
+Db  C  Fm
+எந்நேரமும் நான் ஏறெடுக்கணும்
+
+
+Begin Var A
+Fm  Eb
+Jeba aavi ootrumaiyaa
+Cm  Db
+Jebikanum jebikanumae
+
+Stanza Var B
+Fm  Eb  
+Sthothira bali, vinappa jebam
+Db  C  Fm
+Enneramum naan yeredukanum

@@ -1,0 +1,62 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: E
+Style: usr/expn/tabla6-8/68 1  
+Tempo: 120 Time Signature: 6/8
+*****************************************
+Begin Var A
+E  E/G#  B
+ஜீவத்தண்ணீரே ஆவியானவரே
+F#m  B  E 
+வற்றாத நதியாக வாரும் போதகரே
+
+Chorus Var A
+ E  E/G#  A  E 
+வாருமையா போதகரே (2)
+
+Var C
+F#m  B  G#  C#m 
+வற்றாத ஜீவ நதியாக
+F#m  B  E 
+ வற்றாத ஜீவ நதியாக
+
+Stanza Var A
+  E  A  
+கணுக்கால் அளவு போதாதையா
+ F#m  B  E 
+முழங்கால் அளவு போதாதையா -2
+A  G#m  B 
+நீந்தி நீந்தி மூழ்கணுமே (2)
+ F#m  B  E 
+மிதந்து மிதந்து மகிழணுமே (2)
+
+
+
+Begin Var A
+E  E/G#  B
+Jeevathaneerae aviyanavarae
+F#m  B  E 
+Vathratha nathiyaga vaarum pothagarae
+
+Chorus Var B
+ E  E/G#  A  E 
+Vaarumaiyaa pothagarae (2)
+
+Var C
+F#m  B  G#  C#m 
+Vathratha jeeva nathiyaga
+F#m  B  E 
+Vathratha jeeva nathiyaga
+
+Stanza Var A
+  E  A  
+Kanukaal alavu pothathaiyaa
+ F#m  B  E 
+Mulangal alavu pothathaiyaa -2
+A  G#m  B 
+Neenthi neenthi moolganumae (2)
+ F#m  B  E 
+Mithanthu mithanthu magilanumae (2)
+

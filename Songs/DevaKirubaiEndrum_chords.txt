@@ -1,0 +1,62 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3  Var A
+R1: Brass
+Intro: link
+Key: E
+006/120
+Style: pop-rock/P3/70sHardRock  
+Tempo: 120 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  E  Asus  E
+தேவ கிருபை என்றுமுள்ளதே
+  E  B
+அவர் கிருபை என்றுமுள்ளதே
+Var B
+  A  G#m.  C#m 
+அவரைப் போற்றி துதித்துப்பாடி
+  F#m7  B  E (Second E7)
+அல்லேலூயா என்றார்ப்பரிப்போம்
+
+Stanza Var A
+  E  B  
+நெருக்கப்பட்டும்(நெருக்கப்பட்டோம்) மடிந்திடாமல்
+ F#m  B  E  
+கர்த்தர்தாம் நம்மைக் காத்ததாலே
+
+Var D
+  E  F#m  
+அவர் நல்லவர்
+  E/G#  A
+அவர் வல்லவர்
+  C#m  B  E
+அவர் கிருபை என்றுமுள்ளது
+
+
+
+Begin Var A
+  E  Asus2  E
+Deva kirubai endrumullathae
+  E  B
+Avar kirubai endrumullathae
+Var B
+  A  G#m.  C#m
+Avarai potri thuthithupaadi
+  F#m7  B  E (Second E7)
+Halleluiah endrarparipom -2
+
+Stanza Var A
+  E  B
+Nerukapathum(Nerakapthom) madinthidaamal
+
+F#m  B  E
+Kartharthaam namai kaathathalae -2
+
+Var D
+  E  F#m
+Avar nallavar
+  E/G# A
+Avar vallavar
+  C#m  B  E 
+Avar kirubai endrumullathu. -2
+

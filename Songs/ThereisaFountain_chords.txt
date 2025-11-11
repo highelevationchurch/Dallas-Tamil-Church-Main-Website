@@ -1,0 +1,25 @@
+*****************************************
+Key: B
+Style: poptock/p2/soulfulballad  
+Tempo: 75 Time Signature:4/4
+*****************************************
+Var D
+  B  E  
+There is a fountain filled with blood,
+  B  F#
+Drawn from Immanuel's veins,
+  G#m  E
+And sinners plunged beneath that flood,
+  G#m  F#  E 
+Lose all their guilty stains:
+  G#m  F#  E 
+Lose all their guilty stains,
+  B  C# F#
+Lose all their guilty stains
+  B  B/À  E
+And sinners plunged beneath that flood
+  G#m  F#  B 
+Lose all their guilty stains.
+
+Stanza 2 Var D
+

@@ -1,0 +1,80 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: xx  
+Tempo: 68 Time Signature:4/4. 
+*****************************************
+Var B
+
+B  G#m 
+பிரசன்னம் உம் பிரசன்னம்
+E  F#
+சபையை நிரப்பணுமே
+B  G#m 
+பிரசன்னம் உம் பிரசன்னம்
+E  F#
+சபையை நிரப்பணுமே
+
+Var C
+
+C#m  A
+பிரசன்னம் உம் பிரசன்னம்
+F#  E
+நிரம்பி வழியணுமே
+F#  C#
+பிரசன்னம் உம் பிரசன்னம்
+C#m  F#  E
+நிரம்பி வழியணுமே
+
+Var D
+  B 
+உம் பிரசன்னத்தால்
+  G#m
+பர்வதம் உருகுமே
+  B/C#
+உம் பிரசன்னத்தால்
+  E  F#
+தடைகள் விலகுமே - (2)
+  C#m  F#  B  G#m 
+உம் பிரசன்னம் நிரம்பணுமே
+  C#m  F#  B
+என்னில் நிரம்பி வழியணுமே
+  C#m  F#  B  G#m 
+உங்க பிரசன்னம் நிரம்பணுமே
+  C#m  F#  B 
+என்னில் நிரம்பி வழியணுமே
+
+
+Var B
+B  G#m
+Prasannam um prasannam
+E  F#
+Sabaiyai nirapanumae
+B  G#m 
+Prasannam um prasannam
+E  F#
+Sabaiyaai nirapanumae
+Var C
+C#m  A
+Prasannam um prasannam
+F#  E
+Nirambhi valiyanumae
+F#  C#
+Prasannam um prasannam
+C#m  F#  E
+Nirambhi valiyanumae
+Var D
+  B 
+Um prasannathal
+  G#m
+Parvatham urughumae
+  B/C#
+Um prasannathal
+  E  F#
+Thadaigal vilagumae - (2)
+  C#m  F#  B  G#m 
+Um prasannam nirambhanumae
+  C#m  F#  B
+Ennil nirambhi valiyanumae -2

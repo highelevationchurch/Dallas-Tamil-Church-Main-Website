@@ -1,0 +1,50 @@
+**************************************
+Key: Em
+Style: Expansion/Real loop pack1/ p1/Fateh 
+Tempo: 90 Time Signature: 4/4. 
+*****************************************
+Begin (Var A)
+  Em  D  Em 
+நான் நிற்பதும் நிர்மூலமகாததும் தேவ கிருபையே  
+  C  D  Em 
+நான் உயிருடன் வாழ்வதும் சுகமுடனிருப்பதும் கிருபையே
+
+Chorus (Var B)
+G  D 
+கிருபையே தேவ கிருபையே
+  C  D  Em 
+தேவ கிருபையே தேவ கிருபையே
+
+Stanza (Var A)
+ Em  D 
+காலையில் எழுவதும் கர்த்தரைத் துதிப்பதும்
+Am  B  Em 
+மாலையில் காப்புடன் இல்லம் வருவதும் கிருபையே -2
+G  D
+போக்கிலும் வரத்திலும் தொலைதூரப் பயணத்திலும் -2
+Am  B  Em 
+பாதம் கல்லிலே இடறாமல் காப்பதும் கிருபையே -2
+
+
+Begin (Var A)
+  Em  D  Em 
+Naan nirpathum nirmoolamaagathathum deva kirubaiyae
+  C  D  Em 
+Naan uyirudan vaalvathum sugamudanirupathum kirubaiyae
+
+Chorus (Var B)
+G  D 
+Kirubaiyae deva kirubaiyae
+  C  D  Em 
+Deva kirubaiyae deva kirubaiyae
+
+Stanza (Var A)
+ Em  D 
+Kaalaiyil eluvathum kartharai thuthipathum
+Am  B  Em 
+Maalaiyil kaapudan illam varuvathum kirubaiyae -2
+G  D
+Pookilum varathilum tholaithoorap payanathilum -2
+Am  B  Em 
+Paatham kallilae idaraamal kaapathum kirubaiyae
+

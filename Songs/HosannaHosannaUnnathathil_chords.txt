@@ -1,0 +1,29 @@
+**************************************
+Key: F
+Style: poprock/p7/power rock 
+Tempo: 112 Time Signature: 4/4. 
+*****************************************
+Var A
+  F  C  F  C 
+ஓசன்னா ஓசன்னா  உன்னதத்தில் ஓசன்னா
+Var D
+Bb  F  Bb  F 
+உம்மை உயர்த்திடுவோம் துதி நிறைவுடன்
+ Bb  F  C/E  Dm 
+கர்த்தரே நீர் உயர்த்திடுவீர்
+  Gm  C/E  F 
+ஒசன்னா ராஜ ராஜனே
+
+
+
+Var A
+  F  C  F  C 
+Osannaa osannaa unnathaththil osannaa
+Var D
+Bb  F  Bb  F 
+Ummai uyarththiduvom thuthi niraivudan
+ Bb  F  C/E  Dm 
+Karththarae neer uyarththiduveer
+  Gm  C/E  F 
+Osannaa raaja raajanae
+

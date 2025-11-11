@@ -1,0 +1,46 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: r&b /p3/Funky Shuffle
+Tempo: 100 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  G  D
+என் கிருபை உனக்குப் போதும் - 3
+D  A
+பலவீனத்தில் என் பெலமோ
+G  A  D
+பூரணமாய் விளங்கும்
+
+Stanza Var B
+  D  G  
+பயப்படாதே உன்னை மீட்டுக் கொண்டேன்
+A  D
+எனக்கே நீ சொந்தம்
+G  F#m  Bm
+பெயரிட்டு நான் உன்னை அழைத்தேன்
+Em  A  D
+எனக்கே நீ சொந்தம்
+
+
+Begin Var A
+  G  D
+En kirubai unaku pothum - 3
+D  A
+Belaveenathil en belamo
+G  A  D
+Pooranamai vilangum
+
+Stanza Var B
+  D  G  
+Bayapadathae unnai meethu kondaen
+A  D
+Enakkae nee sontham
+G  F#m  Bm
+Peyarithu naan unnai alaithaen
+Em  A  D
+Ennakkae nee sontham
+
+

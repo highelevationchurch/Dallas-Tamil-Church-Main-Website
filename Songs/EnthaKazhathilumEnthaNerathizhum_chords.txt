@@ -1,0 +1,39 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: F
+Style: reallooppack/p1/1dholak 
+Tempo: 115 Time Signature:X. 
+*****************************************
+Begin Var A
+  F  C  
+எந்தக் காலத்திலும் எந்த நேரத்திலும்
+  Dm  F 
+நன்றியால் உம்மை நான் துதிப்பேன்
+  F  Bb  Am  Gm 
+இயேசுவே உம்மை நான் துதிப்பேன் துதிப்பேன்  
+  C  F 
+எந்த வேளையிலும் துதிப்பேன்
+
+Stanza Var B
+  F  Bb 
+ஆதியும் நீரே – அந்தமும் நீரே
+Am  Dm  Gm  C  F 
+ஜோதியும் நீரே – என் சொந்தமும் நீரே —எந்த
+
+
+====================================================
+Begin
+  F  C  
+Enthak kaalaththilum entha naeraththilum  
+Dm  F  Nantiyaal ummai naan thuthippaen
+  F  Bb  Am  Gm 
+Yesuvae ummai naan thuthippaen thuthippaen
+  C  F  Entha vaelaiyilum thuthippaen
+Stanza
+  F  Bb 
+Aathiyum neerae anthamum neerae
+Am  Dm  Gm  C  F  Jothiyum neerae sonthamum neerae - entha
+
+

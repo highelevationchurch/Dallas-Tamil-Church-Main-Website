@@ -1,0 +1,29 @@
+  **************************************
+Key: D
+Style: poprock/p6/ModernpopBallad 
+Tempo: 75 Time Signature: 4/4. 
+**************************************
+
+Begin. Var B 
+
+  D  Em
+ வாரும் ஐயா போதகரே
+Bm  A  G
+வந்தெம்மிடம் தங்கியிரும் -2
+D  B7  Em 
+சேரும் ஐயா பந்தியினில்
+C7  D
+சிறியவராம் எங்களிடம் - வார 
+
+
+Begin. Var B 
+
+  D  Em
+Vaarum ayya pothagarae
+Bm  A  G
+Vanthemidam thangiyirum - 2
+D  B7 Em 
+Serum ayya panthiyinil
+C7  D
+Siriyavaraam engalidam - vaara
+

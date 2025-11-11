@@ -1,0 +1,78 @@
+****************************************
+Key: D
+Style: pop/p1/16beatrock  
+Tempo: 112 Time Signature:4/4. 
+*****************************************
+Begin  (Var B)
+D  Em 
+இயேசுவின் இரத்தம்  வல்லமையுள்ளது 
+A  D
+இயேசுவின் இரத்தம் மேன்மையுள்ளது 
+Bm  Em
+இயேசுவின் இரத்தம் பரிசுத்தமானது
+  A  D 
+ விலையேறப்பெற்றது  -2
+
+
+Chorus (Var D)
+
+D  Em 
+இயேசுவின் இரத்தம் ஜெயம் ஜெயம் 
+A  D 
+இயேசுவின் இரத்தம் ஜெயம் ஜெயம் 
+ Bm  Em 
+இயேசுவின் இரத்தம் ஜெயம் ஜெயம் நம் 
+ A  D
+இயேசுவின் இரத்தம் ஜெயம் ஜெயம் - 2
+
+
+Stanza. (Var B)
+D  F#m  
+பாவத்தை போக்கிடும் இயேசுவின் இரத்தம் 
+Em  A
+சாபத்தை போக்கிடும் இயேசுவின் இரத்தம் -2
+Bm  Em 
+வியாதியை நீக்கிடும் இயேசுவின் இரத்தம் 
+ A  D 
+விடுதலை தந்திடும் இயேசுவின் இரத்தம் -2
+
+
+Begin Var B
+D  
+Yesuvin eratham
+Em
+Vallamaiyullathu
+A 
+Yesuvin
+  D 
+Eratham maenmaiyullathu
+Bm  Em
+Yesuvin eratham parisuthamanathu
+  A  D 
+Vilaiyerapetrathu
+
+Var D
+D  Em 
+Yesuvin eratham jeyam jeyam
+A  D 
+Yesuvin eratham jeyam jeyam
+ Bm  Em 
+Yesuvin eratham jeyam jeyam
+ A  D
+Yesuvin eratham jeyam
+
+Stanza. Var B
+D 
+Paavathai pokidum
+ F#m
+Yesuvin eratham
+Em
+Sabathai pokidum
+A 
+Yesuvin eratham
+
+Bm  Em 
+Viyathiyai neekidum yesuvin eratham
+A  D 
+Viduthalai thanthidum yesuvin eratham
+

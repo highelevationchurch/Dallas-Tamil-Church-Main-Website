@@ -1,0 +1,59 @@
+***Unfreeze + Bank1 + Freeze***
+Key: A
+Style: poprock/p1/16beatrock  
+Tempo: 92 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  A  D
+உம்மை நோக்கி பார்த்த கண்கள்
+E  A
+வெட்கப்பட்டுப்போவதில்லையே
+  A  D
+உம்மை நோக்கி பார்க்கும் முகங்கள்
+E  A
+பிரகாசம் அடைந்தனரே -2 to 
+
+Chorus Var B
+A/C#  D
+ உம்மையே என் முன்னே
+E  A
+ எப்போதும் நிறுத்தியுள்ளேன் - 2
+
+Stanza Var A
+A  D
+ காரிருளில் நடந்தாலும்
+E  A
+மரண பள்ளத்தாக்கை கடந்தாலும் -2
+A/C#  D
+பொல்லாப்பு என்னை தொடர்ந்தாலும்
+E  A
+எதுவும் என்னை தொடுவதில்லை
+
+
+===================================
+Begin Var A
+  A  D
+Ummai nokki partha kangal
+E  A
+Vetkapathupovathilaiye
+  A  D
+Ummai nokki parkum mugangal
+E  A
+Prakasam adainthanare - 2
+
+Chorus Var B. 
+ A/C#  D
+Ummaiye en munne
+E  A
+Eppothum niruthiyullen - 2
+
+Stanza Var A
+A  D
+ Kaarirulil nadanthalum
+E  A
+Marana pallathakkai kadanthalum -2
+A/C#  D
+Pollapu ennai thodarnthalum
+E  A
+Ethuvum ennai thoduvathilai - 2
+

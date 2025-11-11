@@ -1,0 +1,49 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: F
+Style: poprock/p10/country2-4 
+Tempo: 115 Time Signature:2-4. 
+*****************************************
+Begin Var B
+F  Bb  F
+சிங்கக் குட்டிகள் பட்டினி கிடக்கும்
+ G  C  C/E  F
+ஆண்டவரைத் தேடுவோர்க்கு  குறையில்லையே - 2
+F  Am  
+குறையில்லையே குறையில்லையே
+Gm  C  F
+ஆண்டவரைத் தேடுவோர்க்கு  குறையில்லையே -2 
+
+Stanza Var C
+F  Am 
+புல்லுள்ள இடங்களிலே
+Gm  C  F 
+என்னை மேய்க்கின்றார் - 2
+Dm  Am  
+தண்ணீரண்டைக் கூட்டிச் சென்று
+Gm  C  F 
+தாகம் தீர்க்கின்றார் - 2
+
+Begin Var B
+F  Bb  F
+Singa kuttigal pathini kidakum
+ G  C  C/E  F
+Aandavarai theduvorku kuraiyillaiyae
+F  Am  
+Kuraiyillaiyae kuraiyillaiyae
+Gm  C  F
+Aandavarai theduvorku kuraiyillaiyae
+
+Stanza
+F  Am 
+Pululla idangalilae
+Gm  C  F 
+Ennai maeikindraar
+Dm  Am 
+Thaneerandaik kooti chendru
+Gm  C  F 
+Thaagam theerkindraar
+
+

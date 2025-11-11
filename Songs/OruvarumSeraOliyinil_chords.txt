@@ -1,0 +1,77 @@
+*****************************************
+Key: G
+Style: 
+Tempo: Time Signature:
+*****************************************
+
+Begin.  Var B
+G  D  C
+ஒருவரும் சேரா ஒளியினில் வாசம் செய்திடும்
+  Em  D
+எங்கள் தேவனே
+G  D  C
+மனிதருள் யாரும் கண்டிரா மகிமை உடையவர்
+  Em  D
+எங்கள் தேவனே
+
+Chorus. Var C
+Am  Em
+நீரே உன்னதர்
+Am  Em
+நீரே பரிசுத்தர்
+Am  Em
+நீரே மகத்துவர்
+  D 
+உம்மை ஆராதிப்பேன்
+
+Stanza. Var C
+G  Bm
+ஏல்- ஒலான் நீரே உமக்கு ஆரம்பம் இல்லையே
+ G  D
+ஏல்- ஒலான் நீரே உமக்கு முடிவொன்றும் இல்லையே
+
+Var  D
+  C  D 
+உம்மை அறிந்தவர் இல்லையே
+  C  D 
+உம்மை புரிந்தவர் இல்லையே
+  C  D  
+உம்மை கண்டவர் இல்லையே
+  Em  G
+உமக்கு உருவொன்றுமில்லையே
+
+Begin. Var B
+G  D  C
+Oruvarum sera oliyinil vaasam seithidum
+  Em  D
+Engal devanae
+G  D  C
+Manitharul yaarum kandeera magimai udaiyavar
+  Em  D
+Engal devanae
+
+Chorus. Var C
+Am  Em
+Neerae unnathar
+Am  Em
+Neerae parisuthar
+Am  Em
+Neerae mahathuvar
+  D
+Ummai aarathipaen
+
+Stanza. Var C
+G  Bm
+Yael-oolaan neerae umaku aarampam illaiyae
+G  D
+Yael-oolaan neerae umakku mudivondrum illaiyae
+
+Var D
+  C  D
+Ummai arinthavar illaiyae
+  C  D
+Ummai purinthavar illaiyae
+  C  D
+Ummai kandavar illaiyae
+  Em  G
+Umakku vuruvam ondrumillaiyae

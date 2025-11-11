@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3  Var A
+R1: Piano
+Intro link: Melody
+Key: E
+022/70
+Style: poprock/p4/smoothpopballad
+Tempo:70 Time Signature:4/4. 
+*****************************************
+Begin Var A
+E  B
+எல்லாம் நீர் தானே
+F#m  B  E
+இயேசு ராஜனே (2)
+
+Stanza Var B
+C#m  A
+தாகம் நீர் தானே
+B  E
+தண்ணீர் நீர் தானே
+E/G#  A
+உம்மைத்தான் நான் பாடுவேன்
+E/G#  A
+உம்மைத்தான் நான் போற்றுவேன்
+F#m  B  E
+இயேசு ராஜனே – எல்லாம்
+
+Begin Var A
+E  B
+Ellam neer thaanae
+F#m B  E
+Yesu rajanae (2)
+
+Stanza Var B
+C#m  A
+Thaagam neer thanae
+B  E
+Thaneer neer thaanae
+E/G#  A
+Ummaithaan naan paaduvaen
+E/G#  A
+Ummaithaan naan potruvaen
+F#m B  E
+Yesu rajanae - Ellam
+

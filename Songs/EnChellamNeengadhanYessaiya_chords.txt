@@ -1,0 +1,59 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:  VarA
+R1: 
+Intro link: link
+Key: E
+Style: Popandrock/p6/boybandballad
+Tempo: 73 Time Signature:4/4
+*****************************************
+Begin VarA
+  E  B  A 
+என் செல்லம் நீங்க தான் இயேசையா
+  E  B  A 
+என் செல்வம் நீங்க தான் இயேசையா– 2
+  Bm  A  E
+விலையேறப் பெற்றவரே
+  Bm  A  E 
+என்னை ஆளும் பரிசுத்தரே – 2
+
+Chorus Var C
+A  G#m
+ஆராதனை ஆராதனை
+A  G#m 
+ஆராதனை ஆராதனை – என் செல்லம்
+
+Stanza Var A
+E  G#m  C#m  G#m
+பாவியான என்னை நேசித்தீரே
+E  G#m
+துரோகியான என்னை
+  C#m  E 
+ அணைத்திரே – 2
+
+
+Begin VarA
+  E  B  A
+En chellam neenga thaan yesaiyaa
+  E  B  A
+En chellam neenga thaan yesaiyaa - 2
+  Bm  A  E
+Vilayerap petravarae
+  Bm  A  E
+Ennai aalum parisutharae - 2
+
+Chorus Var C
+A  G#m
+Aarathanai aarathanai
+A  G#m
+Aarathanai aarathanai - En chellam
+
+
+Stanza Var A
+E  G#m  C#m  G#m
+Paaviyaana ennai nesitheerae
+E  G#m
+Throgiyaana ennai
+C#m  E
+Anaitheerae - 2
+
+

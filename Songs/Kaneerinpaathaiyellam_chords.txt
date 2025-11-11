@@ -1,0 +1,27 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank 3 Var B
+R1: Guitar/Jazz Guitar
+Intro link: link
+Key: Dm
+Style: poprock/p6/modernpopballad
+Tempo: 92 Time Signature:4/4 
+*****************************************
+Begin Var B
+  Dm  Gm
+Kaneerin paathaiyellam
+C  F
+Kanmani poel kaatheer
+Dm  Gm  
+Vetkathil vilunthidamal
+A7  Dm
+Karathil yenthineerae (2)
+
+Chorus Var D
+Dm  Gm
+Yesuvae ummaiyae
+C  F
+Nambuvaen endrumae (2)
+Gm  A
+En jeeviya kalamellam
+A  Dm
+Ummai pin seluvaen (2)

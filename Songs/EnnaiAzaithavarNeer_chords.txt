@@ -1,0 +1,79 @@
+**************************************
+Key: A
+Style: poprock/p4/PianoBallad/ 
+Tempo: 68 Time Signature: 4/4. 
+*****************************************
+
+Begin (Var B) 
+  C  G/B
+என்னை அழைத்தவர் நீர் அல்லவோ
+Dm  F
+நன்றி நன்றி ஐயா
+  C  G/B
+என் பெயரை சொல்லி அழைத்தவரே
+Dm  F
+நன்றி நன்றி ஐயா
+
+Chorus (Var C) 
+ Em  Am F  G
+நன்றி ஐயா  நன்றி ஐயா 
+C/E  Am  F  G
+நன்றி ஐயா  நன்றி ஐயா 
+
+Stanza 
+ C  G/B
+தாயை போல காப்பவரே
+Dm  F
+நன்றி நன்றி ஐயா
+  C  G/B
+உம் கரங்களில் என்னை வரைந்தவரே
+Dm  F
+நன்றி நன்றி ஐயா -2
+
+Bridge (Var D) 
+F  G
+நிகர் இல்லா தேவன் நீரே
+Em  Am
+சர்வ வல்லமை உள்ளவரே
+F  G
+குறைகளை நிறைவாய் மாற்றும்
+F  Am 
+மகிமையின் தேவன் நீரே
+
+
+Begin (Var B) 
+  C  G/B
+Ennai alaithavar neer allavo
+Dm  F
+Nandri nandri ayya
+  C  G/B
+En peyarai solli alaithavarae
+Dm  F
+Nandri nandri ayya
+
+Chorus (Var C) 
+ Em  Am F  G
+Nandri ayya nandri ayya
+C/E  Am  F  G
+Nandri ayya  nandri ayya
+
+Stanza 
+ C  G/B
+Thaayai pola kaapavarae
+Dm  F
+Nandri nandri ayya
+  C  G/B
+Um karangalil ennai varainthavarae
+Dm  F
+Nandri nandri ayya -2
+
+Bridge (Var D) 
+F  G
+Nigar illa devan neerae
+Em  Am
+Sarva vallamai ullavarae
+F  G
+Kuraigalai niraivaai maatrum
+F  Am 
+Magimaiyin devan neerae
+

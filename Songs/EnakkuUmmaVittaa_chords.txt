@@ -1,0 +1,29 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank 3  Var A
+R1: Accordion
+Intro: link
+Key: X
+Style: Reallooppack1/p1/2 Duff 
+Tempo: 80 Time Signature:4/4. 
+*****************************************
+Begin Var A
+C  Em  F
+எனக்கு உம்மை விட்டா யாரும் இல்லப்பா
+  G  Dm  C
+உங்க அன்பை விட்டா எதுவும் இல்லப்பா (2)
+
+Chorus Var C
+  C  
+என் ஆசை நீங்கப்பா
+  F  
+என் தேவை நீங்கப்பா
+  G
+என் சொத்து நீங்கப்பா
+  F/A  G/B.  C
+என் சொத்து நீங்கப்பா
+
+Stanza Var A
+C  Am  F
+காண்கின்ற எல்லாம் ஓர் நாள் கரைந்து போகுமே
+G  F/A.  G/B  C
+தொடுகின்ற எல்லாம் ஓர்நாள் தொலைந்து போகுமே (2)

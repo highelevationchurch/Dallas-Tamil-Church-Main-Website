@@ -1,0 +1,43 @@
+****************************************
+Key: F
+Style: Poprock/p2/Soulfulballad
+Tempo: 75 Time Signature:4/4 
+*****************************************
+Begin Var B
+  F  Gm  
+உங்க முகத்தைப் பார்க்கணுமே  இயேசய்யா
+  Bb  C  F  
+உங்க முகத்தைப் பார்க்கணுமே  இயேசய்யா  
+
+Chorus Var D
+F  Gm  C  F 
+அல்லேலூயா அல்லேலுயா 
+  Dm  Gm  C  F 
+அல்லேலூயா அல்லேலுயா 
+
+Stanza Var C
+  F  Am  Eb6  Bb/D 
+எந்தன் பாடுகள் வேதனை மறைந்து விடும்  
+  Gm  Bb/F  C/E  F 
+எந்தன் துயரங்கள் கலக்கங்கள் மாறி விடும்
+
+
+
+**Begin Var B**
+F  Gm
+Unga mukathai paarkanume Yesaiah
+Bb  C  F
+Unga mukathai paarkanume Yesaiah
+
+**Chorus Var D**
+F  Gm  C  F
+Alleluia, Alleluia
+Dm  Gm  C  F
+Alleluia, Alleluia
+
+**Stanza Var C**
+F  Am  Eb6  Bb/D
+Endhan paadugal vedhanai maraindhu vidum
+Gm  Bb/F  C/E  F
+Endhan thuyarangal kalakangal maari vidum
+

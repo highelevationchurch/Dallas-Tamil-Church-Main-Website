@@ -1,0 +1,23 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank1
+R1: Piano
+Intro link: link
+Key: Em
+Style: poprock/p6/countryballad
+Tempo:72 Variation:A. 
+*****************************************
+Begin Var A
+Em  
+நீரே போதும் 
+D
+நீரே போதும்
+Am  
+நீரே போதும் 
+Bsus  B  
+இயேசுவே
+ 
+Stanza Var B
+Em  Am 
+கழுகை போல என்னை எழும்ப செய்தீர்
+D  G  B7
+உயரங்களில் என்னை பறக்க செய்தீர்

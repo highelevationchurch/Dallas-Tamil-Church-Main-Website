@@ -1,0 +1,61 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: E
+Style: pop&rock/p10/country2-4  
+Tempo: 90 Time Signature: 2-4. 
+*****************************************
+Begin. Var B
+E  
+கண்ணோக்கி பார்த்த தேவா
+E 
+கலக்கங்கள் தீர்த்த தேவா
+  B  A
+பாவச்சேற்றில் வாழ்ந்த என்னை
+  B  E
+உந்தன் கரம் நீட்டி மீட்ட தேவா (2)
+
+Chorus. Var C
+  B  E
+தாயே என் இயேசு நாதா
+  B  E
+தந்தையே மா யெகோவா (2)
+ 
+Stanza. Var B
+  C#m  G#m 
+1 . கர்ப்பத்தில் நான் தோன்றும்  முன்னே
+  A  E
+என்னை பெயர் சொல்லி அழைத்தவரே
+  C#m  G#m
+கருவிலே நான் தோன்றும் முன்னே
+  A  E
+உந்தன் கரங்களில் வரைந்துக் கொண்டீர்
+
+
+
+Begin. Var B
+E
+Kannokki partha deva
+E
+Kalakangal theertha deva
+  B  A
+Pavasethril vaalntha ennai
+  B  E
+Unthan karam neethi meetha deva (2)
+
+Chorus. Var C
+  B  E
+Thaayae en yesu naatha
+  B  E
+Thanthaiyae maa yehovaa (2)
+ 
+Stanza. Var B
+  C#m  G#m
+1. Karpathil naan ethondrum munnae
+  A  E
+Ennai peyar solli alaithavarae
+  C#m  G#m
+Karuvilae naan thondrum munnae
+  A  E
+Unthan karangalil varainthu kondeer

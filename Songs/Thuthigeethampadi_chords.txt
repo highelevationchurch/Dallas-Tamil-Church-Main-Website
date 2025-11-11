@@ -1,0 +1,48 @@
+**************************************
+Key: G
+Style: poprock/p1/16beatrock  
+Tempo: 115 Time Signature: 4/4. 
+**************************************
+ Begin Var B 
+  G  C  D  G 
+துதி கீதமே பாடியே 
+Em  D  
+வாழ்த்தி வணங்கிடுவோம்-2 
+C  A
+ஜோதியின் தேவனாம் 
+D  G
+இயேசுவைப் பணிந்திடுவோம்-2
+Stanza Var C 
+  G  c  
+1.தந்தைப் போல் நம்மைத் தாங்கியே
+Am  D  G  
+தோளில் ஏந்தி சுமந்தனரே-2 
+ C  D
+சேதம் ஏதும் அணுகிடாமல் 
+C  D  G 
+காத்த தேவனைத் துதித்திடுவோம்-2-துதி கீதமே
+
+
+
+Begin Var B 
+  G  C  D  G 
+Thuthi geetham paadiyae
+Em  D
+Vaalthi vanangiduvom -2
+C  A
+Jothiyin devanam
+D  G
+Yesuvai paninthiduvom -2
+Stanza Var C 
+  G  c  
+1. Thanthai poel nammai thaangiyae
+Am  D  G
+Tholil yenthi sumanthanarae -2
+ C  D
+Setham yethum anugidaamal
+C  D  G
+Kaatha devanai thuthi thiduvom -2 - Thuthi geethamae
+
+
+
+

@@ -1,0 +1,72 @@
+**************************************
+Key: F#
+Style: poprock/p7/Live8beat 
+Tempo: 72 Time Signature: 4/4. 
+*****************************************
+Begin (Var B) 
+  F#  G#m 
+வானம் திறந்து தேவ மகிமை
+  D#m  C#  B 
+பெருமழை போல் ஊற்றிட வாஞ்சிக்கிறோம்
+  F#/A#  B
+தூய ஆவி என்னை அனலாய்
+  D#m  C#  B 
+இன்னும் நிரப்பிட என் உள்ளம் ஏங்கிடுதே -2
+  G#m  F#/A#
+ஜீவ நதியில் மூழ்கி தவிக்க
+  B  C#  F#
+என்னை முழுவதும் தருகிறேன் -2
+
+Chorus (Var D)
+F#  G#m 
+பிரசன்னம் தேவ பிரசன்னம்
+  C#  F#
+என் வாழ்வில் எல்லாம் செய்யும்
+D#m  G#m 
+பிரசன்னம் தேவ பிரசன்னம்
+  C#  B
+முடியாததை முடிய செய்யும்
+
+Stanza (Var B) 
+ F#  G#m  
+உம் ஆவி ஊற்றப்பட்டால்
+C#  F#
+மரித்தவை உயிர் பெறுமே
+  G#m  C#  G#m  C#
+எந்த சூழ்நிலையும் என்னை தள்ளாமலே
+B  C#  F#
+காத்திடும் உம் பிரசன்னம்
+
+
+
+Begin (Var B) 
+  F#  G#m 
+Vaanam thiranthu deva magimai
+  D#m  C#  B 
+Perumalai poel ootrida vaanjikirom
+  F#/A#  B
+Thooya aavi ennai analaai
+  D#m  C#  B 
+Innum nirapida en ullam yengiduthae
+  G#m  F#/A#
+Jeeva nathiyil moolgi thavika
+  B  C#  F#
+Ennai muluvathum tharugiraen
+Chorus (Var D)
+F#  G#m 
+Prasannam deva prasannam
+  C#  F#
+En vaalvil ellam seiyum
+D#m  G#m 
+Prasannam deva prasannam
+  C#  B
+Mudiyaathathai mudiya seiyum
+Stanza (Var B) 
+ F#  G#m  
+Um aavi ootrapathathaal
+C#  F#
+Marithavai uyir perumae
+  G#m  C#  G#m  C#
+Entha soolnilaiyum ennai thalaamalae
+B  C#  F#
+Kaathidum um prasannam

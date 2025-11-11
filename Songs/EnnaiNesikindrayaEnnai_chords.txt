@@ -1,0 +1,42 @@
+**************************************
+Key: D
+Style: poprock/p4/PianoBallad 
+Tempo: 80 Time Signature: 4/4. *****************************************
+Begin Var B 
+  D  A
+என்னை நேசிக்கின்றாயா?
+  Em  A  D
+என்னை நேசிக்கின்றாயா?
+  D  F#m  Bm  G 
+கல்வாரிக் காட்சியை கண்ட பின்னும்
+  Em  A  D 
+நேசியாமல் இருப்பாயா?
+Stanza Var C 
+  D  G 
+1. பாவத்தின் அகோரத்தைப் பார்
+  Em  D 
+பாதகத்தின் முடிவினைப் பார்
+  Bm  F#m 
+பரிகாசச் சின்னமாய் சிலுவையிலே
+  Em  A  D
+பலியானேன் பாவி உனக்காய் --- என்னை
+
+
+Begin Var B 
+  D  A
+Ennai nesikindraayaa?
+  Em  A  D
+Ennai nesikindraayaa?
+  D  F#m  Bm  G
+Kalvarik kaatchiyaai kanda pinnum
+  Em  A  D 
+Nesiyaamal irupaayaa?
+Stanza Var C 
+  D  G
+1. Paavathin akorathai paar
+  Em  D 
+Paathagathin mudivinaip paar
+  Bm  F#m 
+Parikasa chinnaimaai siluvaiyilae
+  Em  A  D
+Paaliyaanaen paavi unakkai - Ennai

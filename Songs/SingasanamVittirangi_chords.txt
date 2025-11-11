@@ -1,0 +1,69 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 Var C + Multipad + congo bongo + 3
+R1: Ep
+Intro link: link
+Key: G
+Style: pop.p1.16beatrock
+Tempo: 120 Time Signature: 4/4
+*****************************************
+Begin Var C
+G  Am
+சிங்காசனம் விட்டிறங்கி
+  D  G
+நம் தாழ்வில் நம்மில் அன்புகூர்ந்து
+G  C
+தூக்கினாரே சேற்றினின்று
+ Am  C  D  G  
+உயர்த்தினாரே கன்மலை மீது
+
+Chorus Var D
+G  C
+ஆ இயேசுவின் அன்பு
+D  G
+அற்புதம் அற்புதமே
+Em  Am
+ஓ என் நேசரின் அன்பு
+D  G
+என்றென்றும் மாறாததே
+
+Stanza Var B
+  G  Am
+என் குற்றங்கள் யாவையும் நீக்கிடவே
+  C  D  G
+என் இடத்தை அவர் ஏற்றுக் கொண்டார்(2)
+  G  Am
+என் மீறுதல்கள் அவர் மன்னித்தாரே
+  C  Am  D  G
+என் நோய்களெல்லாம் குணமாக்கினாரே(2)
+
+
+Begin Var C
+G  Am
+Singasanam vittirangi
+  D  G
+Nam thaalvil nammil anbukoornthu
+G  C
+Thookinaarae setrinindru
+ Am  C  D  G  
+Uyarthinaarae kanmalai meethu
+
+
+Chorus Var D
+G  C
+Aah yesuvin anbu
+D  G
+Arputham arputhamae
+Em  Am
+Ooh en nesarin anbu
+D  G
+Endrendrum maarathae
+
+Stanza Var B
+  G  Am
+En kutrangal yaavaiyum neekidavae
+ C  D  G
+En idathai avar yetruk kondaar(2)
+  G  Am
+En meeruthalgal avar mannithaarae
+  C  Am  D  G
+En noihellalam kunamaakineerae(2)

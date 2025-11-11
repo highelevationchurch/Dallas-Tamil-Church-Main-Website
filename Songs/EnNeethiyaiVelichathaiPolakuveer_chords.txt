@@ -1,0 +1,89 @@
+
+Key: Gm
+Style: R&D/p2/6-8soulballad
+Tempo: 45 Time Signature:6/8
+*****************************************
+Begin Var C
+  Gm  Dm  Gm 
+என் நீதியை வெளிச்சத்தைப் போலாக்குவீர்
+  Gm  Dm  Gm
+என் நியாயத்தை பட்டப்பகல் போலாக்குவீர் 
+Gm  Cm 
+உமக்காய் காத்திருப்பேன்
+F  Dm  Gm  
+உம்மையே பற்றிக்கொள்ளுவேன்
+  Gm  G  Cm 
+உம் வார்த்தையால் திருப்தியாவேன்
+  F  Dm  Gm 
+உம் சமூகத்தில் அகமகிழ்வேன்
+
+Chorus Var D
+ Gm  Eb  
+இயேசையா  - 3
+  Bb  Cm  Dm
+என் நீதி நீர்தானைய்யா 
+Gm  Cm  Dm  Gm 
+யெகோவா சிட்கேனு நீர்தானைய்யா
+  Gm  Cm  Dm  Gm
+எங்கள் நீதி தெய்வம் நீர்தானைய்யா
+
+Stanza Var C
+Gm  Cm  
+துன்மார்க்கரின் செல்வ திரட்சியைப் பார்க்கிலும்
+F  Dm  Gm 
+நீதிமான் என்னுடைய கொஞ்சம் நல்லது -2
+Gm  G  Cm 
+நிரந்தர சுதந்திரம் இது
+  F  Dm  Gm 
+என் கர்த்தர் எனக்கு நீர் தந்தது
+ Gm  G  Cm  
+நித்தம் பெருகும் கிருபை கொண்டது
+  F  Dm  Gm 
+என் கர்த்தர் எனக்கு நீர் தந்தது
+
+Var D
+Gm  Eb  
+நன்பகல் மட்டும் அதிகமதிகமாய்
+Edim  F
+பிரகாசிக்கும் சூரியன் போல்
+
+Strings
+Gm  Eb  
+என் பாதைகள் எல்லாம் அதிகமதிகமாய்
+Edim  F
+பிரகாசிக்க செய்பவர் நீர்
+
+
+
+
+Begin Var C
+  Gm  Dm  Gm
+En neethiyai velichathai polakuveer
+ Gm  Dm  Gm
+En niyayathai pathapagam polakuveer -2
+Gm  Cm
+Umakaai kaathirupaen
+F  Dm  Gm
+Ummaiyae pathrikolluvaen
+  Gm  G  Cm 
+Um vaarthaiyaal thirupthiyaakuvaen
+  F  Dm  Gm 
+Um samugathil agamagilvaen -2
+
+Chorus Var D
+Gm  Eb 
+Yesaiyaa - 3
+  Bb  Cm  Dm
+En neethi neerthaanaiyaa
+Gm  Cm  Dm  Gm
+Yehovaa sithkenu neerthanaiyaa
+  Gm  Cm  Dm  Gm
+Engal neethi deivam neerthanaiyaa
+
+Var D
+Gm  Eb
+Nanpagal mathum athigamathigamaai
+Edim  F
+Prakasikum sooriyan poel -2
+
+

@@ -1,0 +1,50 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: X
+Style: Reallooppack1/p1/1Dholak  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin Var A
+E 
+ராஜாதி ராஜாவே
+  D 
+கர்த்தாதி கர்த்தாவே
+D  
+அழகில் சிறந்தவரே
+B  E 
+ஆராதனை செய்கிறோம் - 2
+
+Stanza Var B
+ E 
+துதிக்கு பாத்திரரே
+  E 
+கிருபை நிறைந்தவரே  - 2
+
+Chorus Var C
+E  D  D  E
+ஆராதனை ஆராதனை  - 2
+
+
+
+Begin Var A
+E 
+Rajadhe rajave
+  D 
+Karthathi karthave
+D  
+Alagil sirandhavarae
+B  E 
+Aarathanai seigirom - 2
+
+Stanza Var B
+ E 
+Thuthiku paathirare
+  E 
+Kirubai nirainthavarae
+
+Chorus Var C
+E  D  D  E
+Aarathani aarathanai - 2
+

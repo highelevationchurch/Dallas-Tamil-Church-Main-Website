@@ -1,0 +1,50 @@
+**************************************
+Key: Fm
+Style: World/p2/ArabicEuro  
+Tempo: 105 Time Signature: 4/4. 
+*****************************************
+Begin (Var A) 
+Fm  Eb 
+சொந்தம் என்று சொல்லிக் கொள்ள
+Cm  Db 
+உம்மை விட யாரும் இல்ல
+Fm  Bbm 
+சொத்து என்று அள்ளிக் கொள்ள
+Eb  Cm  Fm 
+உம்மை விட ஏதும் இல்ல
+
+Chorus (Var B) 
+Fm  Eb  Eb  Db  C  Fm 
+இயேசுவே இயேசுவே எல்லாம் இயேசுவே (2)
+
+Stanza (Var C)
+  Fm 
+1. உம் தழும்புகளால் நான் சுகமானேன்
+  Eb  Bbm  C
+உம் வார்த்தையினால் நான் பெலனானேன்
+  Bbm  C  Bbm  C 
+நான் பெலனானேன் நான் பெலனானேன் - சொந்தம்
+
+
+
+Begin (Var A) 
+Fm  Eb 
+Sontham endru solli kolla
+Cm  Db 
+Ummai vida yaarum illa
+Fm  Bbm 
+Sothu endru solli kolla
+Eb  Cm  Fm
+Ummai vida yethum illa
+
+Chorus (Var B) 
+Fm  Eb  Eb  Db  C  Fm 
+Yesuvae yesuvae ellam yesuvae (2)
+
+Stanza (Var C)
+  Fm 
+1. Um thalumbhugalaal naan sugamaanaen
+  Eb  Bbm  C
+Um vaarthaiyinaal naan belanaanaen
+  Bbm  C  Bbm  C
+Naan belanaanaen naan belanaanaen - sontham

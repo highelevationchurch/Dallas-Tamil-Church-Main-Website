@@ -1,0 +1,22 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: G
+Style: World/p1/CountryWaltz 
+Tempo: 138 Time Signature:3/4. 
+*****************************************
+Begin Var B
+  G  C
+We wish you a merry Christmas
+  A  D7
+We wish you a merry Christmas 
+  B7  Em  Am  G
+We wish you a merry Christmas and a happy new year - 2
+ 
+  G  D  Em  D
+Good tidings we bring to you and your kin
+  G/B  Bm  C  D  G  
+Good tidings for Christmas and a happy new year - (2)
+
+

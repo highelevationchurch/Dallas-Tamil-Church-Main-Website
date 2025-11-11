@@ -1,0 +1,52 @@
+**************************************
+Key: Em
+Style: poprock/p4/16beatballad
+Tempo: 72 Time Signature: 4/4 
+*****************************************
+Begin (Var B)
+Em  D  
+நன்றி மறந்தேன் நீர் செய்த நன்மை மறந்தேன்
+G  Em 
+பாவியாம் என்னை இரட்சித்த அன்பை மறந்தேன் -2
+
+Stanza (Var B)
+Em  
+உம்மை விட்டு தூரம் போனேன்
+  C 
+ உம கரம் பிடித்ததே 
+Am  D
+உந்தன் அன்பை என்ன சொல்ல
+G  B
+என் தெய்வமே-2
+
+Chorus (Var C)
+Em  Am  D
+நன்றி ஐயா.... இயேசுவே நன்றி
+ G  D  Em 
+தேற்றரவாளனே உமக்கே நன்றி-2
+
+
+
+Begin (Var B)
+Em  D  
+Nandri maranthaen neer seitha nanmai maranthaen
+G  Em 
+Paaviyaam ennai rathchitha anbai maranthaen -2
+
+Stanza (Var B)
+Em  
+Ummai vithu thooram ponaen
+ C 
+Um karam pidithathae
+Am  D
+Unthan anbai enna solla
+G  B
+En deivamae -2
+
+Chorus (Var C)
+  Em  Am  D
+Nandri ayya….. Yesuvae nandri
+  G  D  Em 
+Thethravaalanae umakae nandri -2
+
+

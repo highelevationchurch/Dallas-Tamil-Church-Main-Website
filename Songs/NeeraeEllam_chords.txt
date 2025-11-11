@@ -1,0 +1,39 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3  VarB
+R1: Piano, R2: Choir
+Intro link: link
+Key: Bm
+Style: poprock/p4/16beatballad 
+Tempo: 80 Time Signature:4/4 
+*****************************************
+Begin/Stanza. Var B
+Bm  A  
+நீரே எல்லாம் நீரே எல்லாம்
+Em  F#
+நீரே எல்லாம் இயேசுவே-2
+
+Var D
+G
+உயர்வோ தாழ்வோ
+A  
+மரணமோ ஜீவனோ
+F#  Bm
+நீரே எல்லாம் இயேசுவே
+
+
+
+
+Begin/Stanza. Var B
+Bm  A 
+Neere ellam neere ellam
+Em  F#
+Neere ellam yesuve -2
+
+Var D
+G
+Uyarvo thaalvo
+A  
+Maranamo jeevano
+F#  Bm
+Neere ellam yesuve
+

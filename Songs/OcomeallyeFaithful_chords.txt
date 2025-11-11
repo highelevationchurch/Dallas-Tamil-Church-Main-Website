@@ -1,0 +1,27 @@
+**************************************
+Key: G
+Style: Poprock/p4/16beatballad  
+Tempo: 90 Time Signature: 4/4
+*****************************************
+Var C
+
+  G  D
+O Come All Ye Faithful
+G  D
+Joyful and triumphant,
+  Em  D  A7  D
+O come ye, O come ye to Bethlehem.
+G  C  G
+Come and behold Him,
+Em  C  D
+Born the King of Angels;
+
+Var D
+  G
+O come, let us adore Him,
+  G  Em  D
+O come, let us adore Him,
+  C  Am  D  C
+O come, let us adore Him,
+G  D  G
+Christ the Lord

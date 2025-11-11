@@ -1,0 +1,57 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: Dholak
+Tempo: 120 Time Signature:4/4. 
+*****************************************
+Begin. Var A
+Fm  Db
+இயேசு நல்லவர் இயேசு வல்லவர்
+Eb  Ab 
+என்றென்றும் மாறாதவர் – அவர்
+Db  Eb  Fm 
+என்றென்றும் மாறாதவர்
+
+Stanza Var A
+  Fm  Eb
+குருடரின் கண்களை திறப்பவர்
+  Bbm  C 
+அவர் நல்லவர் நல்லவரே
+Fm  Eb
+செவிடரின் செவிகளை திறப்பவர்
+  Bbm  C  Fm 
+அவர் நல்லவர் நல்லவரே
+
+Var B  
+  Fm  Eb 
+அவர் நல்லவர் சர்வ வல்லவர்
+  Bbm  C  Fm 
+அவர் கிருபை என்றுமுள்ளதே
+
+
+Begin. Var A
+Fm  Db
+Yesu nallavar yesu vallavar
+Eb  Ab 
+Endrendrum maarathavar - Avar
+Db  Eb  Fm 
+Endrendrum maarathavar
+
+
+Stanza Var A
+  Fm  Eb
+Kurudarin kangalai thirapavar
+  Bbm  C 
+Avar nallavar nallavarae
+Fm  Eb
+Sevidarin sevigalai thirappavar
+  Bbm  C  Fm 
+Avar nallavar nallavarae
+
+Var B  
+  Fm  Eb 
+Avar nallavar sarva vallavar
+  Bbm  C  Fm 
+Avar kirubai endrumullathae

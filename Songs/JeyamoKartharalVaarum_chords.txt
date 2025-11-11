@@ -1,0 +1,38 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin Var X
+Em 
+ஜெயமோ கர்த்தரால் வரும்
+C  D  Em
+ஜெயமோ கர்த்தரால் வரும் (2)
+
+Stanza Var X
+Em  
+ஜெபிக்கின்ற மனிதன் ஜெயத்தைப் பெறுவான் 
+ A  D  Em 
+துதிக்கின்ற மனிதன் வெற்றியைப் பெறுவான் -2 
+ C  D  Em 
+துதிக்கின்ற மனிதன் வெற்றியைப் பெறுவான் 
+
+
+Begin Var X
+Em 
+Jeyamo kartharal varum
+C  D  Em
+Jeyamo kartharal varum (2)
+
+Stanza Var X
+Em  
+Jebikindra manithan jeyathai peruvaan
+ A  D  Em 
+Thuthikindra manithan vetriyai peruvaan -2
+ C  D  Em 
+Thuthikindra manithan vertriyai peruvaan
+  
+

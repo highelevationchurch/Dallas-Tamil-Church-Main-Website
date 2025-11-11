@@ -1,0 +1,30 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: X
+Style: 
+Tempo:X Time Signature: X
+*****************************************
+Begin Var X
+  A  D  Bm
+God sent His son, they called Him, Jesus;
+  A  F#m  Bm  E
+He came to love, heal and forgive;
+  A  D  Bm
+He lived and died to buy my pardon,
+  A/C#  E/G#  A
+An empty grave is there to prove my Savior lives!
+
+Stanza Var X
+  A  A7  D  
+Because He lives, I can face tomorrow,
+  A  B7  E
+Because He lives, all fear is gone;
+  A  A7  D
+Because I know He holds the future,
+  A  E7
+And life is worth the living,
+  A
+Just because He lives!
+

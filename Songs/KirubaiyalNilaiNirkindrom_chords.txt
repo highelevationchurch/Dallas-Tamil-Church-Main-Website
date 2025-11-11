@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3 Lower, Higher Octave  Var C
+R1: Strings
+Intro: link
+Key: Dm
+Style: poprock/P1/Reggaeton
+Tempo: 126 Time Signature:4/4 
+*****************************************
+Begin Var C
+Dm  F
+கிருபையால் நிலை நிற்கின்றோம்
+C  Am  Dm
+உம் கிருபையால் நிலை நிற்கின்றோம்
+
+Chorus Var D
+  Gm. C.  F.  Bb  Edim  A  Dm  
+கிருபை  கிருபை  கிருபை  கிருபை  D7
+
+  Gm. C.  F.  Bb  Edim  A  Dm  
+கிருபை  கிருபை  கிருபை  கிருபை 
+
+Stanza Var C
+  Dm  Gm
+பெயர் சொல்லி அழைத்தது உங்க கிருபை
+  C  F  A
+பெரியவனாக்கியதும் உங்க கிருபை
+
+
+Begin Var C
+Dm  F
+Kirubaiyaal nilai nirkindrom
+C  Am  Dm
+Um kirubaiyaal nilai nirkindrom
+
+Chorus Var D
+ Gm. C.  F.  Bb  Edim A  Dm
+Kirubai  kirubai  kirubai  kirubai  D7
+Gm. C.  F.  Bb  Edim A  Dm
+Kirubai  kirubai  kirubai  kirubai 
+
+Stanza Var C
+  Dm  Gm
+Peyar solli alaithathu unga kirubai
+  C  F  A
+Periyavanakiyathum unga kirubai

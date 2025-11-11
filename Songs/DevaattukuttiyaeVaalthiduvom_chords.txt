@@ -1,0 +1,57 @@
+*****************************************
+Key: F
+Style: Popandrock/p6/Modernpopballd 
+Tempo: 75 Time Signature:4:4
+*****************************************
+Begin Var B
+F  C 
+தேவாட்டுக் குட்டியே வாழ்த்திடுவோம்
+Bb  F
+சாலேமின் ராஜனை ஆராதித்திப்போம் (2)
+
+Chorus Var D
+ Dm7  Bb
+பரிசுத்தர் பரிசுத்தர் யேசுவே (4)
+
+Dm  C 
+பாத்திரர் ஸ்தோத்திரம் ஞானம் மகிமையும்
+Dm  Bb  C  F 
+துதி கனமும் வல்லமை பெலனும் ஏற்றுக்கொள்ள -2
+
+Stanza Var B
+  F  C
+ஆகாயம் பூமிக்கு மீதே உயர்ந்தது போல்
+Bb  F 
+தம் கிருபை எனக்கும் பெரியது
+F  C 
+மேற்கிற்கும் கிழக்கிற்கும் எவ்வளவு தூரமோ
+Bb  F 
+அவ்வளவாய் பாவங்கள் நம்மை விட்டு அகற்றினார்
+
+
+
+Begin Var B
+F  C
+Devathu kuttiyae vaalthiduvom
+Bb  F
+Salomin raajanai aarathippom (2)
+
+Chorus Var D
+Dm7  Bb
+Parisuthar parisuthar yesuvae (4)
+Dm  C
+Paathirar sthothiram giyanam magimaiyum
+Dm  Bb  C  F
+Thuthi kanamum vallamai belanum yethru kolla - 2
+
+Stanza Var B
+ F  C
+Aagayam boomiku meethae vuyarnthu poel
+Bb  F
+Tham kirubai enakum periyathu
+F  C
+Merkirkum kilakirkul evalavu thooramo
+Bb  F
+Avalavaai paavangal namai vithu agathrinaar - parisuthar
+
+

@@ -1,0 +1,52 @@
+************************************
+Key: G
+Style: poprock/Country2-4  
+Tempo: 120 Time Signature:2/4. 
+***************************************** 
+Begin Var B
+G  G/B 
+கால் மிதிக்கும் தேசமெல்லாம் – என்
+G  C  G 
+கர்த்தருக்குச் சொந்தமாகும்
+D  A 
+கண் பார்க்கும் பூமியெல்லாம்
+D  G 
+கல்வாரி கொடி பறக்கும்
+ Stanza Var C
+G  
+பறக்கட்டும் பறக்கட்டும்
+C  
+சிலுவையின் ஜெயக்கொடி – 
+G  C  G 
+அல்லேலூயா
+D7  
+உயரட்டும் உயரட்டும்
+D  
+இயேசுவின் திருநாமம் –
+  C  G  
+ அல்லேலூயா
+    Begin Var B
+G  G/B 
+Kaal mithikkum desam ellam – en
+G  C  G 
+Kartharukkuch sonthamaagum
+D  A 
+Kan paarkum boomi ellam
+D  G 
+Kalvaari kodi parakkum
+
+Stanza Var C
+G  
+Parakkattum parakkattum
+C  
+Siluvaiyin jeyakkodi – 
+G  C  G 
+Alleluya
+D7  
+Uyarattum uyarattum
+F  
+Yesuvin thirunaamam –
+  C  G  
+ Alleluya
+
+

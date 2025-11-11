@@ -1,0 +1,70 @@
+**************************************
+Key: Em
+Style: poprock/p1/Reggaeton pop
+Tempo: 120 Time Signature: 4/4 
+*****************************************
+Begin (Var C) 
+Em  C
+உம்மை நம்பும் நான் பாக்கியவான்
+Am  Bm  Em 
+உம்மையே நம்பி இருப்பேன்
+  Em  C 
+உம் அன்பை நம்பும் நான் பாக்கியவான்
+  Am  Bm  Em 
+உம் அன்பயே நம்பி இருப்பேன் -2
+Chorus (Var D) (used once in the beginning and at end of song)
+Em  Am 
+உம்மை நம்புவேன் உம்மை நம்புவேன்
+Bm  Em 
+உம்மையே நம்பி இருப்பேன்
+C  Am 
+உம்மை நம்புவேன் நான் உம்மை நம்புவேன்
+  Bm  Em 
+உம் அன்பயே நம்பி இருப்பேன் -2 (Goes to begin once)
+Stanza (Var C) 
+G  D
+நீர்தானே என் துணையானீர்
+  Am  G 
+என் கேடகமுமானீர் -2
+Am  D
+என்னை நினைப்பவரே
+G  C
+ஆசீர் வதிப்பவரே -2
+Am  Bm  Bm  Em 
+உம்மை நம்புவேன் நான் உம்மை நம்புவேன்
+Am  Bm  Em 
+முடிவபரியந்தம் உம்மை நம்புவேன் -2 (Goes to begin once)
+
+
+
+Begin (Var C) 
+Em  C
+Ummai nambhum naan paakiyavaan
+Am  Bm  Em 
+Ummaiyae nambhi irupaen
+  Em  C 
+Um anbai nambhum naan paakiyavaan
+  Am  Bm  Em 
+Um anbaiyae nambhi irupaen - 2
+Chorus (Var D)
+Em  Am 
+Ummai nambhuvaen ummai nambhuvae
+Bm  Em 
+Ummaiyae nambhi irupaen
+C  Am 
+Ummai nambhuvaen naan ummai nambhuvaen
+  Bm  Em 
+Um anbaiyae nambhi irupaen - 2 (Goes to begin once)
+Stanza (Var C) 
+G  D
+Neerthanae en thunaiyaaneer
+  Am  G 
+En kedagamumaaneer -2
+Am  D
+Ennai ninaipavarae
+G  C
+Aasir vathipavarae - 2
+Am  Bm  Bm  Em 
+Ummai nambhuvaen naan ummai nambhuvae
+Am  Bm  Em 
+Mudivupariyantham ummai nambhuvaen - 2 (Goes to begin once)

@@ -1,0 +1,51 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank 1, Bank 3 Var A
+R1: Piano, Flute
+Intro link: link
+Key: F#m
+Style: poprock/p4/16beatballad
+Tempo: 70 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  F#m  D  E  F#m
+என் ஜீவன் நீர் தானே என் துதியும் நீர்தானே
+  A  E  Bm  C#
+எனக்காய் மரித்தீரே உமக்காய் வாழ்வேனே 
+
+Chorus Var B
+  F#m  D  
+உம்மை நேசிக்கிறேன் உம்மை நேசிக்கிறேன்
+  A  E
+உம்மை நேசிக்கிறேன் உம்மை நேசிக்கிறேன் 
+
+Stanza Var A
+  F#m  Bm  E  A
+1. என் பாவங்கள் பாராமல் உம் முகத்தை மறைத்தீரே
+Fm  Bm  E  C#
+என் மீறுதல் எண்ணாமல் கிருபை அளித்தீரே
+A  E  Bm  C#
+மன்னியும் என்றேனே மறந்தேன் என்றீரே 
+
+
+
+
+Begin Var A
+  F#m  D  E  F#m
+En jeevan neer thanae en thuthiyum neerthanae
+  A  E  Bm  C#
+Enakkai maritheere umakaai vaalvene
+
+Chorus Var B
+  F#m  D  
+Ummai nesikindren ummai nesikindren
+  A  E
+Ummai nesikindren ummai nesikindren
+
+Stanza Var A
+  F#m  Bm  E  A
+1. En paavangal paramal um mugathai maraitheere
+Fm  Bm  E  C#
+En meeruthal ennamal kirubai alitheere
+A  E  Bm  C#
+Manniyum endrene maranthen endreere
+

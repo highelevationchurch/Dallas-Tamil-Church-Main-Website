@@ -1,0 +1,47 @@
+**************************************
+Key: F
+Style: usb/jesuhanAmos/3-4 Tabla Amos  
+Tempo: 130 Time Signature: 3/4
+*****************************************
+Begin (Var C)
+  F
+என் ஜீவன் ஆனாலும்
+Gm  C  F 
+சாவானாலும் பின்பற்றுவேன் - 2
+F  F7
+நன்மை ஒன்றும் இல்லாதிருந்தும்
+Gm  Bb  C  F 
+பின்னேயும் நேசித்தீர் என் இயேசுவே - என் ஜீவன்
+
+Stanza (Var A)
+F  Dm 
+பரிசுத்த வாஞ்சை பரமன் சிநேகம்
+Gm  C  
+தேடிடவே மறந்திட்டேனே -2 
+Dm  Gm 
+பரிசுத்த ஆவி பருகிட செய்யும் -2
+Bb  C  F 
+நித்தமும் உம் சித்தம் செய்திடவே - என் ஜீவன் 
+
+
+
+Begin (Var C)
+  F
+En jeevan aanalum
+Gm  C  F 
+Saavanalum pinpathruvaen - 2
+F  F7
+Nanmai ondrum illathirunthum
+Gm  Bb  C  F 
+Pinaeyum nesitheer en yesuvae - en jeevan
+
+Stanza (Var A)
+F  Dm 
+Parisutha vaanjai paraman snegham
+Gm  C  
+Thedidavae manranthithaenae -2
+Dm  Gm 
+Parisutha aavi parugida seiyum -2
+Bb  C  F 
+Nithamum um chitham seithidavae - En jeevan
+

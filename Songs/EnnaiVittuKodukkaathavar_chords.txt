@@ -1,0 +1,54 @@
+*****************************************
+Key: Em 
+Style: expansion/p1/parai 68 3
+Tempo: 105 Time Signature: 6/8. 
+*****************************************
+Begin Ep Var A
+  Em  
+என்னை விட்டுக்கொடுக்காதவர்
+  C 
+என்னை நடத்துகின்றவர்
+  Am 
+என்னை பாதுகாப்பவர்
+  Bm  Em 
+என் நேசர் நீரே -2
+
+
+Stanza Var A
+  Em  D  
+ நான் வழிமாறும்போது
+  Am  Em 
+என் பாதை காட்டினீர்
+  Em  D
+என்னால் முடியாதபோது
+  Am  B7
+என்னை தூக்கி நடத்தினீர் -2
+  -என்னை விட்டு
+
+
+
+Begin Ep Var A
+Em  
+Ennai vithukodukaathavar
+  C 
+Ennai nadathuginravar
+  Am 
+Ennai paathukaapavar
+  Bm  Em 
+En nesar neerae - 2
+
+Stanza Var A
+Em  D 
+Naan valimaarumpothu
+  Am  Em
+En paathai kaathineer
+  Em 
+Ennal mudiyathapothu
+  Am  B7
+Ennai thooki nadathineer -2
+- Ennai vithu
+
+
+
+
+

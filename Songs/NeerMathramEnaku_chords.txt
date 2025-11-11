@@ -1,0 +1,87 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: G
+Style: poprock/p6/modernpopballad
+Tempo: 85 Time Signature:4/4. 
+*****************************************
+Begin Var B
+G  
+நீர் மாத்ரம் எனக்கு
+Csus2 
+ நீர் மாத்ரம் எனக்கு
+ G  
+நீர் அல்லால் உலகில்
+D
+யாருண்டு எனக்கு - 2
+
+
+Em  Bm 
+மாயையான உலகில்
+Csus2 
+நீர் மாத்ரம் எனக்கு
+Em  Bm 
+மாறிடும் உலகில்
+Csus2 
+நீர் மாத்ரம் எனக்கு – 2
+
+Stanza Var C
+  G 
+அரணும் என் கோட்டையும்
+ Csus2 
+நீர் மாத்ரம் எனக்கு
+G
+கோட்டையும் துருகமும்
+Csus2 
+நீர் மாத்ரம் எனக்கு – 2
+Em  Bm 
+துருகமும் கேடகமும்
+Csus2 
+நீர் மாத்ரம் எனக்கு
+Em  Bm 
+கேடகமும் கன்மலையும்
+Csus 2
+நீர் மாத்ரம் எனக்கு – 2
+
+
+Begin Var B
+G
+Neer mathram enaku
+Csus2
+Neer mathram enaku
+ G  
+Neer allal ulagil
+D
+Yaarundu enaku - 2
+
+
+Em  Bm 
+Maayaiyaana ulagil
+Csus2 
+Neer mathram enaku
+Em  Bm 
+Maaridum ulagil
+Csus2 
+Neer mathram enaku - 2
+
+Stanza Var C
+  G 
+Aranum en kottaiyum
+ Csus2 
+Neer mathram enaku
+G
+Kottaiyum thurugamum
+Csus2
+Neer mathram enaku
+Em  Bm
+Thurugamum kedagamum
+Csus2 
+Neer mathram enaku
+Em  Bm
+Kedagamum kanmalaiyum
+Csus 2
+Neer mathram enaku - 2
+
+
+

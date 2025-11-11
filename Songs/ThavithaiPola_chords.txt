@@ -1,0 +1,41 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: D
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin
+D  Bm 
+தாவீதைப் போல நடனமாடி
+G  D 
+அப்பாவை ஸ்தோத்தரிப்பேன்
+  G  A 
+இயேசப்பா ஸ்தோத்திரம் 
+  G  A  D  
+இயேசப்பா ஸ்தோத்திரம் 2
+
+Stanza
+  Bm  F#m
+என்ன வந்தாலும் எது நடந்தாலும்
+  G  D  
+அப்பாவை ஸ்தோத்தரிப்பேன் – இயேசப்பா
+
+
+Begin
+D  Bm 
+Thavaathai pola nadanamadi
+G  D 
+Appavai athotharipaen
+  G  A 
+Yesappa sthothiram
+  G  A  D  
+Yesappa sthothiram 2
+
+Stanza
+  Bm  F#m
+Enna vanthalum ethu nadanthalum
+  G  D  
+Appavai sthothirapen - yesappa
+

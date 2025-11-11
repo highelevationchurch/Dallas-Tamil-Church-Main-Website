@@ -1,0 +1,66 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var C
+R1: xx
+Intro: link
+Key: F
+Style: Poprock/p10/Country2-4
+Tempo: 120 Time Signature:4/4
+*****************************************
+Begin Var C
+F  Dm  
+ஓயாமல் துதிபோம் 
+Gm  Bb 
+காலமெல்லாம் பாடுவோம்
+Am  Dm  C  F 
+ராஜாதி ராஜாவாம் இயேசுவையே- என்றும்
+
+Begin Var D
+  F  Dm  Bb  F  
+பாடு ஓசன்னா ஓசன்னா ஓசன்னா
+  Dm  C  G C  F 
+என்றும் ஓசன்னா ஓசன்னா ஓசன்னா
+
+Stanza Var C
+F  Gm  F/A 
+சத்திருவை மிதிப்பார் 
+Bb  C 
+எதிரி அடங்குவான்
+F  Gm  F/A 
+இயேசுவே ஜெயிப்பார் 
+Bb  C 
+ராஜரீகம் பண்ணுவார்
+  F  Dm 
+நீயோ கரங்களைத் தட்டியே
+  G  C  F 
+ துதித்துக்கொண்டிரு
+
+
+
+**Begin Var C**
+F  Dm  
+Oẏāmāḷa thudipōm  
+Gm  Bb 
+Kālamellām pāḍuvōm  
+Am  Dm  C  F 
+Rājādhi rājāvām iyēsuvaiyē- eṉṟum  
+
+**Begin Var D**
+  F  Dm  Bb  F  
+Pāṭu ōsannā ōsannā ōsannā  
+  Dm  C  G C  F 
+Eṉṟum ōsannā ōsannā ōsannā  
+
+**Stanza Var C**
+F  Gm  F/A 
+Sathiruvai mithippār  
+Bb  C 
+Edhiri aṭaṅguvāṉ  
+F  Gm  F/A 
+Iyēsuvē jeyippār  
+Bb  C 
+Rājarīkam paṇṇuvār  
+  F  Dm 
+Nīyō karangaḷai thṭṭiyē  
+  G  C  F 
+Thudiththukkoṇṭirū
+

@@ -1,0 +1,52 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var C
+R1: xx
+Intro: link
+Key: D
+Style: R/b/p7/worshipslow  
+Tempo: 75 Time Signature:4/4. 
+*****************************************
+Begin Var C
+ D  	  Em  	  D/F#  Em
+கண்களை ஏறெடுப்பேன்
+  	D  	 A
+என் கண்களை ஏறெடுப்பேன்
+Bm  Bbaug  D/A  Abdim/Ab
+அல்பா ஓமேகா என் தேவன் நீர்
+Em  	  A  	  D
+கண்களை ஏறெடுப்பேன்
+
+Stanza Var 
+D  G  	  D
+துன்பங்கள் என்னை சூழ்ந்தாலும்
+A  A
+தனிமையில் நான் நடந்தாலும்
+Bm  
+அஞ்சிடேன் கர்த்தரை
+  D  	  F#m  Bm
+நோக்கிடுவேன்
+Em  	  A  D
+அவரே என் ஆதரவே
+
+
+Begin Var C
+ D  Em  D/F#  Em
+Kangalai yerudupaen
+  D  A
+En kangalai yeruduppaen
+Bm  Bbaug  D/A  Abdim/Ab
+Alba omega en devan neer
+Em  A  	 D
+Kangalai yeruduppen
+
+Stanza Var 
+D  G  D
+Thunpangal ennai soolnthalum
+A  A
+Thanimaiyil naan nadanthalum
+Bm  
+Anchiden kartharai
+  D  F#m Bm
+Nokkiduvaen
+Em  A  D
+Avarae en aatharavae

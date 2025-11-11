@@ -1,0 +1,74 @@
+**************************************
+Key: D
+Style: R&B/P7/Worshipslow  
+Tempo: 75 Time Signature: 4/4. 
+*****************************************
+
+Begin (Var C)
+  D  F#m
+என் நினைவுகள் இன்று அழிந்தாலும்
+ G  A  
+நினைவிருக்கும் உம் பிரசன்னமே -2
+  G  G/B
+என் போகையிலும் வருகையிலும் 
+  A  D
+என் துணையாயிருக்கிறீர்
+  G  G/B
+நான் சோர்ந்தாலும் மனம் தளர்ந்தாலும் 
+  Asus4  A  
+உம் வார்த்தையால் என்னைத் தேற்றுகிறீர் -2
+Chorus  (Var D)
+ D
+பிரசன்னராய் கூட இருப்பவரே 
+F#m 
+அற்புதராய் கூட வருபவரே 
+G  A
+என்னை விட்டு எடுபடாத நல்லப் பங்கே -2
+G  A  
+என்னை விட்டு எடுபடாத நல்லப் பங்கே 
+G  A  D
+என்னை விட்டு எடுபடாத நல்லப் பங்கே
+Bridge  (Var D)
+  A  G
+எனக்குள் இருப்பவர் மிகவும் பெரியவர்
+  A  G
+என் பட்சமாய் இருப்பவர்  உலகத்தை ஜெயித்தவர் 
+  A  G
+என் நடுவினில் இருப்பவர் சர்வ வல்லவர்
+A  G 
+எனக்காய் இருப்பவர் அவர் நம்பத்தக்கவர் -2
+
+
+
+
+Begin (Var C)
+  D  F#m
+En ninaivugal indru alinthaalum
+ G  A  
+Ninaivirukum um prasanammae - 2
+  G  G/B
+En pogaiyilum vaugaiyilum
+  A  D
+En thunaiyayirukireer
+  G  G/B
+Naan sornthalum manam thalanthaalum
+  Asus4  A  
+Um vaarthaiyaal ennai thethrukireer
+Chorus  (Var D)
+ D
+Prasannaraai kooda irupavarae
+F#m 
+Arputharaai kooda varupavarae
+G 
+Ennai vitu edupadatha
+A
+Nalla pangae - 2
+G.  A
+Ennai vitu edupadatha Nalla pangae
+G.  A.  D
+Ennai vitu edupadatha Nalla pangae
+Bridge  (Var D)
+  A  G
+Enakkul irupavar migavum periyavar
+  A  G
+En patchamaai irupavar ulagathai jeyithavar -4

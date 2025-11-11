@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 Second Time R3 On Var A
+R1:woodwind/P3/classicalflute  R2: woodwind/p3/picolo
+R3: strings/p3/theatrestrings
+Intro link: link
+Key:  Em
+Style: user/tabla/p1/tab 6 8 2
+Tempo: 85 Time Signature: 6/8
+*****************************************
+Begin ( Ep) Var A
+Em  B7
+நாதா உம்திருக் கரத்தில் இசைக்கருவி நான்
+  Am  B7  Em
+நாள்தோறும் பயன்படுத்தும் உந்தன் சித்தம் போல்
+
+Stanza Var B
+Em  G  D
+ஐயா உம் பாதம் என் தஞ்சமே
+D  A  Em
+அனுதினம் ஓடி வந்தேன்
+
+Var C
+G  D  Bm  Em
+ஆனந்தமே ஆனந்தமே – 2
+
+
+Begin (Ep) Var A
+Em  B7
+Naatha umthiruk karathil isaikaruvi naan
+  Am  B7  Em
+Naalthorum payanpaduthum unthan chitham poel
+
+Stanza Var B
+Em  G  D
+Ayya um paadham en thanchamae
+D  A  Em
+Anudhinam oodi vanthaen
+
+Var C
+G  D  Bm  Em
+Aanathamae aananthamae - 2
+
+
+
+

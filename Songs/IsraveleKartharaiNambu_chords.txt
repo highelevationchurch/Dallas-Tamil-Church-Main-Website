@@ -1,0 +1,40 @@
+**************************************
+Key: G
+Style: 6 8 Soul Ballad 
+Tempo: 46 Time Signature: 6 8. 
+*****************************************
+Begin Var B
+G  Am 
+இஸ்ரவேலே கர்த்தரை நம்பு.. 
+D  G 
+கர்த்தரை நம்பு.. கர்த்தரை நம்பு..
+G  Am  D  G
+இஸ்ரவேலே அவர் உன் துனையும் கேடகமானவர் -2
+Stanza Var C 
+  G  C 
+1. புழுதியிலிருந்து தூக்கி விடுவார்
+Am  D  G
+குப்பையிலிருந்து உயர்த்திடுவார்
+Em  Am
+பிரபுக்களோடும் ராஜாக்களோடும்
+D  C  G
+உட்கார செய்பவர் உனக்கும் உண்டு
+
+
+Begin Var B
+G  Am 
+Isravaelae kartharai nambhu..
+D  G 
+Kartharai nambhu.. Kartharai nambhu..
+G  Am  D  G
+Isravaelae avar un thunaiyum kedagamaanavar - 2
+
+Stanza Var C 
+  G  C 
+1. Puluthiyilirunthu thooki viduvaar
+Am  D  G
+Kuppaiyilirunthu uyarthiduvaar -2
+Em  Am
+Prabhukalodum rajakalodum
+D  C  G
+Utkara seipavar unakum undu -2

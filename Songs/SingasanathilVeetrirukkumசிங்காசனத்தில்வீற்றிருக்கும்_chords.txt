@@ -1,0 +1,46 @@
+####################################
+Voice: Piano
+Intro: woodwind. (Classical flute)
+Groove: 
+Style: R&B / p2/ 6-8 soul ballad / 6-8 slow rock
+Temp:70
+####################################
+Begin Var A
+G  C  G/B 
+சிங்காசனத்தில் வீற்றிருக்கும்
+D  C  G
+பரிசுத்தரே பரிசுத்தரே
+
+Chorus: ( Brass/Symphony brass)
+G  C  D/C  Bm  Em
+ஆராதனை உமக்கு ஆராதனை
+G  A  D  G
+ஆராதனை உமக்கு ஆராதனை
+
+Stanza: ( )
+G  C
+கேருபீன்கள் சேராபீன்கள்
+A  D  C  G
+போற்றிடும் எங்கள் பரிசுத்தரே
+
+
+Begin Var A
+G  C  G/B
+Singaasanathil veetrirukum
+D  C  G
+parisutharae parisutharae
+
+Chorus: (Brass/Symphony brass)
+G  C  D/C Bm  Em
+Aarathani umakku aarathanai
+G  A  D  G
+Aarathanai ummaku aarathanai
+
+Stanza: ()
+G  C
+Kerupeengal saeraapeengal
+A  D  C  G
+Potridum engal parisutharae
+
+
+

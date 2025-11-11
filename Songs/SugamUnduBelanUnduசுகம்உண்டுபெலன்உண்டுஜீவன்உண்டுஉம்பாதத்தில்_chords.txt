@@ -1,0 +1,32 @@
+*****************************************
+Key: F
+Style: poprock/p6/lovesong
+Tempo: 70 Time Signature :4/4. 
+*****************************************
+Begin Var B 
+F  C  Bb  F  
+சுகம்  உண்டு  பெலன்  உண்டு 
+ F/A  C/E  Bb  F
+ ஜீவன்  உண்டு  உம்  பாதத்தில்
+
+Chorus Var D Strings ( R2, R3 on)
+F  F/A  Bb
+நேசிக்கிறேன்  உம்மை  தானே  
+Gm  C/E C  F
+என்  தெய்வமே  என்  இயேசுவே
+
+
+
+Begin Var B 
+F  C.  Bb  F  
+Sugam undu belan undu
+F/A  C/E  Bb  F
+Jeevan undu um paathathil
+
+Chorus Var D Strings (R2, R3 on)
+F  F/A  Bb
+Nesikiraen ummai thaanae
+Gm  C/E  C  F
+En deivamae en yesuvae
+
+

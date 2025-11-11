@@ -1,0 +1,54 @@
+**************************************
+Key: D
+Style: pop rock/p10/country2-4  
+Tempo: 110 Time Signature: 2/4. 
+*****************************************
+Begin . Var B
+D 
+இயேசு என்னும் நாமத்தில் 
+D 
+இயேசு என்னும் நாமத்தில் 
+ D  A7
+ஜெயம் நமக்குண்டு
+A7
+இயேசு என்னும் நாமத்தில் 
+A7
+இயேசு என்னும் நாமத்தில் 
+A7  D 
+பேய்கள் பறந்தோடும்
+
+Chorus  Var D
+ G  F#m  Bm 
+இயேசு நாமத்தில் நிற்கும்போது
+Em  A  D  Em D/F#
+யார் நமக்கெதிரே நிற்பார்கள்
+G  F#m  B7 
+இயேசு இயேசு நாமத்திலே
+Em7  A  D
+ஜெயம் நமக்குண்டு
+
+
+Begin . Var B
+D
+Yesu ennum namathil
+D
+Yesu ennum namathil
+ D  A7
+Jeyam namakundu
+A7
+Yesu ennum namathil
+A7
+Yesu ennum namathil
+A7  D
+Paeigal paranthodum
+
+Chorus  Var D
+ G  F#m  Bm 
+Yesu namathil nirkum pothu
+Em  A  D Em D/F#
+Yaar namakethirae nirpaargal
+G  F#m  B7 
+Yesu yesu namathilae
+Em7  A  D
+Jeyam namakundu
+

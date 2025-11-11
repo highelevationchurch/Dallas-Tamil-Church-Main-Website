@@ -1,0 +1,70 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: D
+Style: poprock/p1/UKsoftRock
+Tempo: 110 Time Signature:4/4 
+*****************************************
+
+Begin. Var B
+D 		  D/F#  
+ நன்றி பலி, நன்றி பலி
+Bm 	  A  
+நல்லவரே உமக்குத்தான்
+G  F#m  Bm 
+அதிகாலை ஆனந்தமே – என்
+D  A  D 
+அப்பா உம் திருப்பாதமே
+  
+Stanza. Var C
+D  F#m
+நேற்றைய துயரமெல்லாம்
+G  D 
+இன்று மறைந்ததையா
+G  F#m 
+நிம்மதி பிறந்ததையா – அது
+Em  A  D 
+நிரந்தரமானதையா
+
+Chorus Var D
+D  
+கோடி கோடி நன்றி டாடி 
+F#m 
+கோடி கோடி நன்றி டாடி
+G 
+கோடி கோடி நன்றி டாடி
+
+
+
+
+Begin Var B
+D  D/F#
+Nandri bali, nandri bali
+Bm  A
+Nallavarae umakuthan
+G  F#m  Bm
+Athikalai ananthamae - En
+D  A  D
+Appa um thirupathamae
+
+
+Stanza Var C
+D  F#m
+Nethraiya thuyaramaelam
+G  D
+Indru marainthathaiya
+G  F#m
+Nimathi piranthathaiya - Athu
+Em  A  D
+Nirantharamanathaiya
+
+Chorus Var D
+D
+Kodi kodi nandri dadi
+F#m
+Kodi kodi nandri dadi
+G
+Kodi kodi nandri dadi
+
+

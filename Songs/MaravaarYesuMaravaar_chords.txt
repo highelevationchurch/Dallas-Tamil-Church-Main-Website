@@ -1,0 +1,52 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3  Var B
+R1: Piano
+Intro: link
+Key: Cm
+Style: R&B/p2/6-8SoulBallad  
+Style2: Ballroom/p1/Slowwaltz Tempo : 136
+Tempo: 48 Time Signature:3/4 
+*****************************************
+Begin Var B
+Cm  Ab
+மறவார் இயேசு மறவார் – உன்னை
+  Eb  G7 
+ஒரு இமைப் பொழுதிலும் உன்னை  மறவார்
+  G7  
+மறவார் இயேசு மறவார் – உன்னை
+Ab  Bb  Cm 
+உருவாக்கிய இயேசு மறவார்
+
+Stanza Var B
+Cm  G7 
+அழைத்தவர் உன்னை மறவார்
+G7  Cm 
+அபிஷேகம் செய்தவர் மறவார்
+Eb  G7
+மனிதனின் அன்பு நிலைமாறினாலும் 
+G7  Cm 
+மகிமையின் தேவன் உன்னை மறவார் -2
+
+
+Begin Var B
+Cm  Ab
+Maravaar yesu maravaar - unnai
+  Eb  G7
+Oru imai poluthilum maravaar
+  G7 
+Maravaar yesu maravaar  - unnai
+Ab  Bb  Cm
+Vuruvaakiya yesu maravaar
+
+Stanza Var B
+Cm  G7
+Azhaithavar unnai maravaar
+G7  Cm
+Abhishegam seithavar maravaar
+Eb  G7
+Manithanin anbu nilaimaarinaalum
+
+G7  Cm
+Magimaiyin devan unnai maravaar
+
+

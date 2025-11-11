@@ -1,0 +1,45 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var C
+R1: xx
+Intro: link
+Key: X
+Style: country2-4  
+Tempo: 120  Time Signature:X. 
+*****************************************
+Var C
+D  
+கர்த்தர் உன்னை நித்தமும் நடத்தி
+  G  D
+மா வறட்சியில் திரட்சியை தருவார் – 2  
+G  D  A  
+உன் ஆத்துமாவை திருப்பதி
+  D
+செய்வார் (2)
+
+Var 
+D  Bm
+தொடர்ந்து துதி செய் மனமே  
+  Em  A  D
+உன் மீட்பர் உயிரோடிருக்கின்றார் –
+G  D  A  D
+துதிப்போரை கைவிடமாட்டார் (2)
+
+
+Var C
+D
+Karthar unnai nithamum nadathi
+  G  D
+Maa varthchiyil thirathchiyai tharuvaar -2
+G  D  A  
+Un aathumaavai thirupathi
+  D
+Seivaar (2)
+
+
+Var 
+D  Bm
+Thodarnthathu thuthi sei manamae
+  Em  A  D
+Un meetpar uyirodirukindaaar -
+G  D  A  D
+Thuthiporai kaividamataar (2)

@@ -1,0 +1,62 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank1  Var C
+R1: Piano
+Intro: link
+Key: D
+Style: usb1/p1/acoustic3-4 Amos  
+Tempo: 125 Time Signature:3/4. 
+*****************************************
+Begin Var C
+D  D/F# G  A  D  D/F#  G  A
+இரட்சகர்  வந்ததால்  இரட்சிப்பும்  வந்ததே
+D  D/F#  G  A  Bm.  F#m  G  A
+இரட்சகர்  வந்ததால்  இரட்சிப்பும்  வந்ததே
+G  A  G/B  A/C#  
+மன்னிப்பும் கிடைத்ததே மறுவாழ்வும் கிடைத்ததே
+G  A  G/B  A/C#
+மன்னிப்பும் கிடைத்ததே மறுவாழ்வும் பிறந்ததே
+
+Chorus Var C
+D  D/F#.  G  A
+இம்மானுவேல்  தேவன் நம்மோடு
+Bm  D/F#  G  A
+இம்மானுவேல்.  தேவன் நம்மோடு
+D  D/F#.  G  A  Bm  D/F#  G  A
+இம்மானுவேல்  தேவன் நம்மோடு
+
+Stanza Var C
+D  A/C#  Bm  A  D  A/C#  Bm  A
+பகலிலே  மேக ஸ்தம்பமாய்  இரவிலே அக்கினி ஸ்தம்பமாய் -2
+G  A  G/B  A/C#
+முன் செல்லும் தூதனாய் வழிநடத்தும் மேய்ப்பனாய் -
+
+
+
+
+
+
+Begin Var C
+D  D/F#G  A D  D/F#  G  A
+Iratchakar  vanthathaal iratchippum vanthathae
+D  D/F#  G  A  Bm.  F#m  G  A
+Iratchakar  vanthathaal iratchippum vanthathae
+G  A  G/B  A/C#
+Mannipum kidaithathae maruvaalvum kidaithathae
+G  A  G/B  A/C#
+Mannipum kidaithathae maruvaalvum piranthathae
+
+Chorus Var C
+D  D/F#. G  A
+Immanuvel devan nammodu
+Bm  D/F#  G  A
+Immanuvel devan nammodu
+D  D/F#.  G  A  Bm  D/F#  G  A
+Immanuvel devan nammodu
+
+Stanza Var C
+D  A/C#  Bm  A  D  A/C#  Bm  A
+Pagalilae  mega sthambamaai iravilae  akkini sthambamaai
+G  A  G/B  A/C#
+Mun sellum thoothanai valinadathum maeipanaai - 
+
+

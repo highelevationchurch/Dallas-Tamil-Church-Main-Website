@@ -1,0 +1,71 @@
+*****************************************
+Key: Cm
+Style: Expn/tabla6-8/p1/6-8 1  
+Tempo: 100 Time Signature:6/8 
+*****************************************
+Begin Var A
+Cm  Eb
+தாய் கூட பிள்ளைகளை மறந்து போகலாம்
+Bb  Cm 
+சிங்கங் கூட குட்டிகளை பட்டினி போடலாம் (2)
+
+Var B
+Cm 
+தாயினும் மேலாக அன்பு வைத்தவர்
+Cm  Cm 
+இரத்ததையே சிலுவையிலே உனக்குத் தந்தவர் (2)
+
+Var C
+Cm  Eb  Cm  
+மறந்திடுவாரோ உன்னை வெறுத்திடுவாரோ -2
+
+Var B
+  Cm  Bb 
+உன் நம்பிக்கையை விட்டு விடாதே 
+  Bb  Cm 
+நீ நம்பினவர் கைவிட மாட்டார் (2)
+
+Stanza Var A
+  Cm 
+நீ அவரைத் தெரிந்துக் கொள்ளவில்லை
+Eb  Cm 
+அவரல்லவோ உன்னைத் தெரிந்துக் கொண்டார் (2)
+Cm  Fm 
+நேற்று அல்ல இன்று அல்ல
+Bb  Cm 
+தாயின் கருவில் தோன்று முன்னே (2)
+
+
+
+
+Begin Var A
+Cm  Eb
+Thaai kooda pillaigalai maranthu pogalam
+Bb  Cm 
+Singa kooda kuttigalai pathini podalama (2)
+
+Var B
+Cm 
+Thaayinum maelaaga anbu vaithavar
+Cm  Cm 
+Erathathaiyae siluvaiyilae unaku thanthavar (2)
+
+Var C
+Cm  Eb  Cm  
+Maranthiduvaaro unnai veruthirduvaaro -2 
+
+Var B
+  Cm  Bb 
+Un nambikaiyaai vithu vidaathae
+  Bb  Cm 
+Nee nambinavar kaivida maataar (2)
+
+Stanza Var A
+  Cm 
+Nee avarai therinthu kollavillai
+Eb  Cm 
+Avarallavo unnai therinthu kondaar (2)
+Cm  Fm 
+Nethru alla indru alla
+Bb  Cm 
+Thaayin karuvil thondru munnae (2)

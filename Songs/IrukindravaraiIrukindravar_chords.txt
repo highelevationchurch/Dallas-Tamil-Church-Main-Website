@@ -1,0 +1,55 @@
+**************************************
+Key: Gm
+Style: expansion/tabla 2/p2/F# tabla 1 
+cool 8 beat
+ Tempo: 98 Time Signature: 4/4 
+**************************************
+Begin (Var A) 
+Gm  Dm 
+இருக்கின்றவராய் இருக்கின்றவர் 
+F  Dm  Gm 
+மீண்டும் எனக்காய் வருகின்றவர்
+
+Chorus (Var C)
+Eb  
+ஆராதிப்பேன் 
+F 
+ஆராதிப்பேன்
+Dm  Gm
+ஆராதிப்பேன் உம்மையே -2
+
+Stanza (Var A)
+ Gm  Dm
+இதுவரை என்னை நடத்தின தேவன்
+ F  Dm  Gm 
+இனியும் தாங்கி நடத்திடுவீர் 
+Eb  F  Dm  Gm 
+இனியும் தாங்கி நடத்திடுவீர் 
+Eb  Dm  Gm 
+கைவிடாமல் தாங்குகிறீர்
+
+
+Begin (Var A) 
+Gm  Dm
+Irukindravaraai irukindravar
+F  Dm  Gm
+Meendum enakaai varukindravar
+
+Chorus (Var C)
+Eb 
+Aarathipaen
+F 
+Aarathipaen
+Dm  Gm
+Aarathipaen ummaiyae -2
+
+Stanza (Var A)
+ Gm  Dm
+Ithuvarai ennai nadathina devan
+ F  Dm  Gm
+Iniyum thaangi nadathiduveer
+Eb  F  Dm  Gm
+Iniyum thaangi nadathiduveer
+Eb  Dm  Gm
+Kaividaamal thaangukireer
+

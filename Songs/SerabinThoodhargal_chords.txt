@@ -1,0 +1,61 @@
+*************************************
+Key: A
+Style: pop rock/p3/country ballad3
+Tempo: 75 Variation:C.  Time Signature: 4/4
+*****************************************
+Begin Var C
+ A  D  A
+சேராபீன் தூதர்கள்
+A  D  A
+போற்றிடும் பரிசுத்தர்
+A  D  A
+மகிமையை உடையாக
+A  D  A
+அணிந்துள்ள மகத்துவர்
+
+Chorus Var D
+A  
+பாத்திரர் நீரே
+Bm  
+பரிசுத்தர் நீரே
+E  D/F#  E/G#  A
+ஸ்தோத்திம் பாடியே புகழ்ந்திடுவேன்
+
+Stanza Var C
+A  D
+தழும்புள்ள கரங்களினாலே
+Bm  E  A
+காயங்கள் ஆற்றிடுவீரே
+F#m  E
+கண்ணீரை துருத்தியில் வைத்து
+Bm  E  A
+பதில் தரும் நல்லவரே
+
+Begin Var C
+ A  D  A
+Seraabeen thoothargal
+A  D  A
+Potridum parisuthar
+A  D  A
+Magimaiyai vudaiyaaga
+A  D  A
+Aninthulla magathuvar -2
+
+Chorus Var D
+A
+Paathirar neerae
+Bm
+Parisuthar neerae
+E  D/F#  E/G#A
+Sthothiram paadiyae  pugalnthiduvaen
+
+Stanza Var C
+A  D
+Thalumpulla karangalinaalae
+Bm  E  A
+Kaayangal aatriduveerae -2
+F#m  E
+Kaneerai thuruthiyil vaithu
+Bm  E  A
+Bathil tharum nallavarae -2
+

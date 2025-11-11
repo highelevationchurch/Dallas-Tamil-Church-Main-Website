@@ -1,0 +1,54 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:  VarB
+R1: 
+Intro: link
+Key: E
+Style: poprock/p3/70sStraightRock
+Style2: Reggaetonpop
+Tempo: 116 Time Signature:X. 
+*****************************************
+Begin Var C
+E  G#m
+ஜெயம் கொடுக்கும் தேவனுக்கு
+C#m  A
+கோடி கோடி ஸ்தோத்திரம்
+F#m  D  
+வாழ்வளிக்கும் இயேசு ராஜாவுக்கு
+B  	  E
+வாழ்நாளெல்லாம் ஸ்தோத்திரம்
+
+Chorus Var D
+E  G#m  C#m  A
+அல்லேலூயா அல்லேலூயா பாடுவேன்
+F#m  B  E
+ஆனந்த தொனியால் உயர்த்துவேன்
+
+Stanza Var C
+E  A.  B  E
+நீதியின் கரத்தினால் தாங்கியே நடத்துவார்
+C#m  D#  B  E
+கர்த்தரே என் பெலன் எதற்குமே அஞ்சிடே
+
+
+Begin Var C
+E  G#m
+Jeyam kodukkum devanukku
+C#m  A  
+Kodi kodi sthothiram
+F#m  D
+Vaalvalikum yesu rajavukku
+B  E
+Vaalnallelam sthothiram
+
+Chorus Var D
+E  G#m  C#m  A
+Halleluiah halleluiah paaduvaen
+F#m  B  E
+Aanantha thoniyaal uyarthuvaen
+
+Stanza Var C
+E  A.  B  E
+neethiyin karathinaal thaangiyae nadathuvaar
+C#m  D#  B  E
+Kartharae en belan yetharkumae anjidae
+

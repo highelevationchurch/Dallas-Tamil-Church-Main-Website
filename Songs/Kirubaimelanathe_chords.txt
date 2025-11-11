@@ -1,0 +1,46 @@
+*****************************************
+Key: G
+Style: poprock/p3/70sstraightrock
+Tempo: 130 Time Signature:4/4. 
+*****************************************
+Begin  Var C
+G 
+கிருபை  மேலானதே – உம்
+A 			D 
+கிருபை  மேலானதே
+Am 			C 
+கிருபை  மேலானதே – உம்
+D 			G 
+கிருபை  மேலானதே
+
+Stanza Var D
+G  
+ஜீவனை  பார்க்கிலும்  – உங்க
+A 		  D 
+கிருபை  மேலானது
+  Am 			  C  
+இவ் வாழ்கையை  பார்க்கிலும்
+  D 		  G 
+உங்க  கிருபை  மேலானது  –  	கிருபை  (2)
+
+Begin Var C
+G
+Kirubai melaanathae - Um
+A  D
+Kirubai melaanathae
+Am  C
+Kirubai melaanathae - Um
+D  G
+Kirubai melaanathae
+
+Stanza Var D
+G
+Jeevanai paarkilum - Unga
+A  D
+Kirubai melaanathu
+  Am  C
+Ivvaalkaiyai parkilum
+  D  G
+Unga kirubai maelaanathu - Kirubai (2)
+
+

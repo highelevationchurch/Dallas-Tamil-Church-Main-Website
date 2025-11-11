@@ -1,0 +1,61 @@
+**************************************
+Key: Em
+Style: expansion/usb1/p1/Acoustic 3.4 Amos
+Tempo: 125 Time Signature: 3 /4. 
+*****************************************
+Begin (Var A) 
+Em  G  C  Em
+கண்ணீரின் ஜெபத்தை கேட்டீரைய்யா
+Em  D  C
+கரம்பிடித்தென்னை நடத்தினீரே-2
+Em  G  Am  F#dim 
+வறட்சியை கண்ட நாட்களுக்கீடாய்
+ C  D  G  B7
+செழிப்பை காண செய்தீர்-2
+
+Chorus (Var B) 
+C  G  D  Em 
+நன்றி ஐயா நன்றி ஐயா
+Em  Am  D  Em 
+நன்மை செய்தீர் நன்றி ஐயா
+C  G  D  Am 
+நன்றி ஐயா நன்றி ஐயா
+Em  Am  D  Em
+நடத்தி வந்தீர்  நன்றி ஐயா
+
+Stanza (Var A) 
+ Em  G  Am  F#dim
+என் துயர் மாற்றிய தூயவரே
+C  D  G  B 
+என் பயம் அகற்றிய சிநேகிதரே-2
+  - நன்றி ஐயா
+
+
+
+Begin (Var A) 
+Em  G  C  Em
+Kaneerin jebathai kaeteeraiyaa
+Em  D  C
+Karampidithennau nadathineerae -2
+Em  G  Am  F#dim 
+Varathchiyai kandha naatkalukeedaai 
+C  D  G  B7
+Selipai kaana seitheer -2
+
+Chorus (Var B) 
+C  G  D  Em
+Nandri ayya nandri ayya
+Em  Am D  Em
+Nanmai seitheer nandri ayya
+C  G  D  Am 
+Nandri ayya nandri ayya
+Em  Am  D  Em
+Nadathi vantheer  nandri ayya
+
+Stanza (Var A) 
+
+ Em  G  Am  F#dim
+En thuyar maatriya thooyavarae
+C  D  G  B 
+En bayam agatriya snegitharae -2
+	•	Nandri ayya

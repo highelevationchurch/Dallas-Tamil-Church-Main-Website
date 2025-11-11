@@ -1,0 +1,75 @@
+**************************************
+Key: D
+Style: poprock/p4/16beatballad 
+Tempo: 70 Time Signature: 4/4. 
+**************************************
+
+ Begin. Var B 
+  D  A/C#  Bm 
+உம்மேல் வாஞ்சையாய் இருப்பதனால்
+  A  D  
+என்னை விடுவிப்பீர் நிச்சயமாய்
+  D  A/C#  Bm 
+உந்தன் நாமத்தை அறிந்ததனால்
+  A  G  
+ வைப்பீர் உயர்ந்த அடைக்கலத்தில் – 2
+
+Chorus. Var C 
+  Bm  G 
+இயேஷுவா இயேஷுவா
+  A  D 
+உந்தன் நாமம் பலத்த துருகம் – 2
+
+Var D
+  E  D/F#
+நீதிமான் நான் ஓடுவேன்
+ A  D 
+  ஓடி அதற்க்குள் சுகம் காணுவேன் – 2
+
+Stanza. Var C 
+
+  Bm  G
+ ஆபத்து நாளில் கூப்பிடும் எனக்கு
+  A  D 
+  பதில் அளிப்பீர் வெகு விரைவில் – 2
+Var D
+  E  D/F#
+ என்னுடன் இருப்பீர் தப்புவிப்பீர்
+  A  D  
+  தலை நிமிர செய்திடுவீர்
+
+
+
+ Begin. Var B 
+  D  A/C#  Bm 
+Ummael vaanjaiyaai irupathanaal
+  A  D
+Ennai viduvipeer nitchayamaai
+  D  A/C#  Bm 
+Unthan namathai arinthathanaal
+  A  G  
+Vaipeer uyarntha adaikalathil -2
+
+Chorus. Var C 
+  Bm  G 
+Yesuvaa yesuvaa
+ A  D 
+Unthan namam balatha thurugam - 2
+
+Var D
+  E  D/F#
+Neethimaan naan ooduvaen
+ A  D 
+OOdi atharkul sugam kaanuvaen - 2
+
+
+Stanza. Var C 
+  Bm  G
+Abathu naalil koopidum enaku
+  A  D 
+Bathil alipeer vegu viraivil - 2
+Var D
+  E  D/F#
+Ennudan irupeer thapuvipeer
+  A  D  
+Thalai nimira seithiduveer

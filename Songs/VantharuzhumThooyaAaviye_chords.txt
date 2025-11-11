@@ -1,0 +1,33 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: Em
+Style: poprock/p2/soulfulballad
+Tempo: 80 Time Signature:4/4. 
+*****************************************
+Begin Var B
+Em  	D
+வந்தருளும் தூய ஆவியே
+Bm  C
+தந்தருளும் தேவ மகிமையே
+
+Chorus Var 
+Em  E7  Am  
+ஆவியே தூய ஆவியே
+C  B7  Em
+ஆவியே தூய ஆவியே
+
+
+Begin Var B
+Em  	D
+Vantharulum thooya aaviyae
+Bm  C
+Thantharulum deva magimaiyae
+
+Chorus Var 
+Em  E7  Am  
+Aaviyae thooya aaviyae
+C  B7  Em
+Aaviyae thooya aaviyae
+

@@ -1,0 +1,31 @@
+**************************************
+Key: C
+Style: pop rock/ p10/Country2-4  
+Tempo: 105 Time Signature: 2/4. 
+*****************************************
+Begin Var B
+  C  G7  C 
+இயேசு என்னைக் கைவிடமாட்டார்
+  C  G7  C 
+இயேசு என்னைக் கைவிடமாட்டார்
+
+Am  Em  F  G  
+கடும் புயல் வரினும் பெருங் காற்று வீசினும்
+  C  G  C
+அவர் என்னைக் கைவிடமாட்டார் (2)
+
+(second time Var C)
+
+
+Begin Var B
+  C  G7  C
+Yesu ennai kaividamataar
+  C  G7  C 
+Yesu ennai kaividamataar
+Am  Em  F  G  
+Kadum puyal varinum perunkaatru veesinum
+  C  G  C
+Avar ennai kaividamataar (2)
+
+(second time Var C)
+

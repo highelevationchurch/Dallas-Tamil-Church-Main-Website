@@ -1,0 +1,48 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank1  Var A
+R1: Piano
+Intro: link
+Key: C
+Style: rb/p2/6-8soulballad  
+Tempo: 48 Time Signature:3/4
+****************************************
+Begin Var A
+C  G
+கன்மலையின் மறைவில்
+  Dm  G  C
+என் உள்ளங்கையின் நடுவில்
+ Am  Dm  
+கண்களின் கருவிழிgalai போல்
+G  C
+இம்மட்டும் காத்தீரே
+
+Stanza Var B
+ C  F
+சகலத்தையும் செய்ய வல்லவரே
+  G  C
+நீர் நினைத்தது தடைபடாது
+F  C/E
+அதினதின் காலத்தில் நேர்த்தியாய்
+Dm  G  C
+செய்து முடிப்பவரே
+
+
+Begin Var A
+C  G
+Kanmalaiyin maraivil
+  Dm  G  C
+En ullangaiyin naduvil
+ Am  Dm  
+Kangalin karuviligalai poel
+G  C
+Immathum kaatheerae
+
+Stanza Var B
+ C  F
+Sagalathaiyum seiya vallavarae
+  G  C
+Neer ninaithathu thadaipadathu
+F  C/E
+Athinathin kaalathil nerthiyaai  
+Dm  G  C
+Seithu mudipavarae

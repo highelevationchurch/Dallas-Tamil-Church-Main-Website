@@ -1,0 +1,21 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: Bb
+Style: world/p1/countrywaltz  
+Tempo: 100 Time Signature:3/4 
+*****************************************
+Begin Var B
+Bb
+Silent night! Holy night!
+F  Bb
+All is calm, all is bright
+Eb  F  Bb
+Round Yon Virgin Mother and Child,
+Eb  F  Bb
+Holy Infant so tender and mild,
+F  Eb  Gm. 
+Sleep in Heavenly peace!
+Bb  Eb  Bb
+Sleep in Heavenly peace!

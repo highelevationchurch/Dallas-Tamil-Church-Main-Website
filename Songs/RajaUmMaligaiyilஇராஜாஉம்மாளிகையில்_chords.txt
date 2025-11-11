@@ -1,0 +1,59 @@
+*****************************************
+Key: Fm
+Style: world/p2/Bhajan
+Tempo: 85 Variation:B. 
+*****************************************
+Begin
+Fm  Ab
+இராஜா உம் மாளிகையில்
+C  Fm
+இராப்பகலாய் அமர்ந்திருப்பேன் இயேசு
+  Eb  Cm
+துதித்து மகிழ்ந்திருப்பேன்
+C#  Eb  Fm
+துயரம் மறந்திருப்பேன் உம்மை
+
+Chorus
+Fm  C7  C7  Fm  (Second Time Fm C# Ddim D# Edim)
+ஆராதனை ஆராதனை
+ Ab  Eb  Cm  Fm
+அப்பா அப்பா உங்களுக்குத்தான் -2
+
+Stanza
+Fm  C#
+என் பெலனே என் கோட்டையே
+  Fm  C#
+ஆராதனை உமக்கே -2
+Fm  C7  C7  Fm
+மறைவிடமே என் உறைவிடமே
+Bbm  C7  Fm
+ஆராதனை உமக்கே - 2
+
+
+Begin
+Fm  Ab
+Raja um maligaiyil
+C  Fm
+Rapagalaai amarnthirupaen yesu
+  Eb  Cm
+Thuthithu magilnthirupaen
+C#  Eb  Fm
+Thuyaram maranthirupaen ummai
+
+Chorus
+Fm C7  C7  Fm  (Second Time Fm C# Ddim D# Edim)
+Aarathanai aarathanai
+ Ab  Eb  Cm  Fm
+Appa appa  ungalukuthaan - 2
+
+Stanza
+Fm  C#
+En belane en kottaiyae
+  Fm  C#
+Aarathani umakkae -2
+Fm  C7  C7  Fm
+Maraividamae en uraividamae
+Bbm  C7 Fm
+Aarathanai umakkae - 2
+
+

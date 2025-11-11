@@ -1,0 +1,115 @@
+**************************************
+Key: E
+Style: R&B /p3/Rock&Roll Jive  
+Tempo: 172 Time Signature: 4/4. 
+*****************************************
+Begin (Var A)
+E 
+கர்த்தர் நல்லவர் துதியுங்கள்
+E  A
+அவர் கிருபை என்றுமுள்ளது
+F#m 
+தேவாதி தேவனை துதியுங்கள்
+B7  E 
+அவர் கிருபை என்றுமுள்ளது
+C#m  Caug  E  A#dim 
+கர்த்தாதி கர்த்தரைத் துதியுங்கள்
+E  C#  F#m 
+அவர் கிருபை என்றுமுள்ளது
+F#m  Faug  A  B/Eb
+அற்புதம் செய்பவரை துதியுங்கள்
+B  E
+அவர் கிருபை என்றுமுள்ளது
+ Pre Chorus
+ (Var C)
+E  A
+மகிழ்ந்து பாடு அல்லேலூயா
+E  A
+புகழ்ந்து பாடு அல்லேலூயா
+E  A
+சேர்ந்து பாடு அல்லேலூயா
+E.  B 
+அல்லேலூயா ஆமென்
+B 
+துதித்து பாடு அல்லேலூயா
+D
+களித்து பாடு அல்லேலூயா
+B  E 
+அல்லேலூயா ஆமென்
+Chorus Var D
+E  A 
+அல்லேலூயா அல்லேலூயா
+E  A 
+அல்லேலூயா அல்லேலூயா
+E.  A.  E 
+அல்லேலூயா அல்லேலூயா
+
+A  D 
+அல்லேலூயா அல்லேலூயா
+  A  D
+அல்லேலூயா அல்லேலூய
+ A  D  A
+அல்லேலூயா அல்லேலூயா
+.
+  B 
+அல்லேலூயா அல்லேலூயா
+B 
+அல்லேலூயா அல்லேலூயா
+  A  B  E 
+அல்லேலூயா அல்லேலூயா
+
+
+Begin (Var A)
+E 
+Karthar nallavar thuthiyungal
+E  A
+Avar kirubai endrumullathu
+F#m 
+Devathi devanai thuthiyungal
+B7  E 
+Avar kirubai endrumullathu
+C#m  Caug  E  A#dim
+Karthathi kartharai thuthiyungal
+E  C#  F#m
+Avar kirubai endrumullathu
+F#m  Faug  A  B/Eb
+Arputham seipavarae thuthiyungal
+B  E
+Avar kirubai endrumullathu
+ Pre Chorus
+ (Var C)
+E  A
+Magilnthu paadu halleluiah
+E  A
+Pugalnthu paadu halleluiah
+E  A
+Sernthu paadu halleluiah
+E.  B 
+Halleluiah amen
+B 
+Thuthithu paadu halleluiah
+D
+Kalithu paadu halleluiah
+B  E
+Halleluiah amen
+Chorus Var D
+E  A 
+Halleluiah halleluiah
+E  A 
+Halleluiah halleluiah
+E.  A.  E
+Halleluiah halleluiah
+A  D
+Halleluiah halleluiah
+  A  D
+Halleluiah halleluiah
+  A  D  A
+Halleluiah halleluiah
+  B 
+Halleluiah halleluiah
+B 
+Halleluiah halleluiah
+  A  B  E 
+Halleluiah halleluiah
+
+

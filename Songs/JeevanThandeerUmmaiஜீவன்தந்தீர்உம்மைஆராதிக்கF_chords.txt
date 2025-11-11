@@ -1,0 +1,57 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3 Var B
+R1: woodwind/p5/nay 
+Second time with strings on R2
+Key: F
+Style: PopRck/p6/modernpopballad
+Tempo: 80 Time Signature: 4/4
+*****************************************	
+Begin/Stanza (Ep) Var B
+F  Bb  F
+ஜீவன் தந்தீர் உம்மை ஆராதிக்க
+F  Bb  C
+வாழ வைத்தீர் உம்மை ஆராதிக்க
+F  Bb  F
+தெரிந்துகொண்டீர் உம்மை ஆராதிக்க
+Bb  C  F
+உம்மை எந்நாளும் ஆராதிப்பேன்  -2 
+
+Chorus (Strings) Var C
+F  C  .  F  Bb  F
+ஆராதனை  ஆராதனை  ஆராதனை  – ஓ…… நித்தியமானவரே
+  F  C
+நீரே நிரந்தமானவர்
+  Dm  C
+நீரே கனத்திற்கு பாத்திரர்
+  F/A  C
+நீரே மகிமையுடையவர்
+  Bb  F
+உம்மை என்றும் ஆராதிப்பேன்
+
+
+
+
+Begin/Stanza (Ep) Var B
+F  Bb  F
+Jeevan thantheerae ummai aarathika
+F  Bb  F
+Vaala vaitheer ummai aarathika
+F  Bb  F
+Therinthukondeer ummai arathika
+Bb  C  F
+Ummai ennalum aarathipaen 
+Bb  C  F
+Ummai ennalum aarathipaen -2
+ 
+Chorus (Strings) Var C
+F  C  F  Bb  F
+Aarathanai aarathani aarathanai - O...... Nithiyamanavarae
+  F  C
+Neerae nirantharamanavar
+  	Dm  C
+Neerae kanathirku paathirar
+  F/A  C
+Neerae magimaiyudaiyavar
+  Bb  F
+Ummai endrum aarathipaen
+
