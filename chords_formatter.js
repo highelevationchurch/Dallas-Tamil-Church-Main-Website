@@ -1,7 +1,6 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 
 // Function to detect and format chords in a line
 function formatChordsInLine(line) {
@@ -17,7 +16,6 @@ function formatChordsInLine(line) {
 
     let chordCount = 0;
     for (const word of words) {
-        // The regex is anchored (^, $) to match the entire word.
         if (chordWordPattern.test(word)) {
             chordCount++;
         }
@@ -31,10 +29,8 @@ function formatChordsInLine(line) {
     return line;
 }
 
-
 // Function to convert text file content to HTML
 function convertToHtml(content) {
-    // Use a regex to split on any common newline character to handle different file formats.
     const lines = content.split(/\r\n?|\n/);
     const processedLines = [];
     const sectionKeywords = /begin|stanza|chorus|verse|bridge|intro/;
@@ -82,54 +78,34 @@ ${htmlBody}
 </html>`;
 }
 
-// Function to process a single file
-function processFile(filePath) {
-    // We only want to process .txt files.
-    if (!filePath.endsWith('.txt')) {
-        return;
-    }
-
-    try {
-        // Read the content of the text file
-        const content = fs.readFileSync(filePath, 'utf8');
-        
-        // Generate HTML content
-        const htmlContent = convertToHtml(content);
-        
-        // Create the HTML file path (same name but .html extension)
-        const htmlPath = filePath.replace('.txt', '.html');
-        
-        // Write the HTML file
-        fs.writeFileSync(htmlPath, htmlContent);
-        
-        console.log(`Converted ${filePath} to ${htmlPath}`);
-    } catch (error) {
-        console.error(`Error processing ${filePath}:`, error);
-    }
-}
-
 // Main logic to run the script
 try {
-    const directoryPath = path.join(__dirname, 'Songs'); // Target the 'Songs' directory
+    const directoryPath = path.join(__dirname, 'Songs');
 
-    // Check if the directory exists
     if (!fs.existsSync(directoryPath)) {
         console.log(`'Songs' directory not found. No files to process.`);
-        process.exit(0); // Exit gracefully
+        process.exit(0);
     }
 
     const files = fs.readdirSync(directoryPath);
 
     files.forEach(file => {
-        const filePath = path.join(directoryPath, file);
-        const stats = fs.statSync(filePath);
-        
-        // We only want to process .txt files within the 'Songs' directory.
-        if (stats.isFile() && path.extname(file) === '.txt') {
-            processFile(filePath);
+        if (path.extname(file) === '.txt' && /chord(s)?/i.test(file)) {
+            const filePath = path.join(directoryPath, file);
+            const stats = fs.statSync(filePath);
+            if (stats.isFile()) {
+                const content = fs.readFileSync(filePath, 'utf8');
+                const htmlContent = convertToHtml(content);
+                const htmlPath = filePath.replace('.txt', '.html');
+                fs.writeFileSync(htmlPath, htmlContent);
+                console.log(`Formatted ${filePath} to ${htmlPath}`);
+            }
         }
     });
+
+    console.log('Chord formatting complete.');
+
 } catch (error) {
-    console.error('An error occurred during script execution:', error.message);
-    process.exit(1); // Exit with an error code
+    console.error('An error occurred during chord formatting:', error.message);
+    process.exit(1);
 }
