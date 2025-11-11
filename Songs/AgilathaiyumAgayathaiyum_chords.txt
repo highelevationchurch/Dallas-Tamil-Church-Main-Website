@@ -1,0 +1,53 @@
+****************************************
+Key: C
+Style: Ballroom/p2/Foxtrot
+Tempo: 200 Variation:C. 
+*****************************************
+Begin. Var C
+C  F  C
+அகிலத்தையும் ஆகாயத்தையும்
+  G7
+உந்தன் வல்ல பராக்கிரமத்தாலே
+C  F  C
+ஆண்டவரே நீர் சிருஷ்டித்தீரே
+  C  G  C
+உந்தன் நல்ல கரத்தினாலே
+
+Chorus. Var D
+ C  D#dim.  Dm  
+ஆகாதது ஒன்றுமில்லை உம்மால்
+ G  C
+ஆகாதது ஒன்றுமில்லை  - 2
+
+
+C  G  
+சர்வ வல்லவரே கனமகிமைக்கு பாத்திரரே 
+C  Am  Dm  G
+ஆகாதது என்று ஏதுமில்லை உம்மால்
+C  G  C
+ஆகாதது ஒன்றுமில்லை
+
+Begin. Var C
+C  F  C
+Agilathaiyum aagayathaiyum
+  G7
+Unthan valla parakramathaalae
+C  F  C
+Aandavarae neer sirusthitheerae
+  C  G  C
+Unthan nalla karathinaalae
+
+Chorus. Var D
+C  D#dim.Dm
+Aagathathu ondrumillai umaal
+G  C
+Aagathathu ondrumillai - 2
+
+C  G
+Sarva vallavarae kanamagimaiku paathirarae
+
+C  Am  Dm  G
+Aagathathu endru yethumillai ummal
+C  G  C
+Aagathathu ondrumillai
+

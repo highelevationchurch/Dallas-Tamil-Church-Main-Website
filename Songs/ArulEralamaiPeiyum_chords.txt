@@ -1,0 +1,28 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var X
+R1: xx
+Intro: link
+Key: A
+Style: World/p1/Countrywaltz
+Tempo: 120 Time Signature:3/4
+*****************************************
+Begin Var A
+  A  E  A  
+அருள் ஏராளமாய்ப் பெய்யும்
+E  E7  A  A7
+உறுதி வாக்கிதுவே
+D  A  F#m 
+ஆறுதல் தேறுதல் செய்யும்
+  B  B7  Esus  E
+திரளாம் மிகுதியே
+
+Chorus Var B
+A  
+அருள் ஏராளம்
+F#m  B  Esus  E
+அருள் அவசியமே
+A  D  E  A
+அற்பமாய் சொற்பமாய் அல்ல
+E  E7  A
+திரளாய் பெய்யட்டுமே
+

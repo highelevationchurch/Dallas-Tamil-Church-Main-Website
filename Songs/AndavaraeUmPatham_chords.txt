@@ -1,0 +1,52 @@
+*****************************************
+Key: C
+Style: expansion/tabla scales/p1/C tabla 1  
+Tempo: 100 Time Signature:4/4 
+*****************************************
+Begin Var A
+ C  G
+ஆண்டவரே உம் பாதம் சரணடைந்தேன்
+ Dm  G  C 
+அடிமை நான் ஐயா -2
+ C  Am  G
+ஆயிரம் ஆயிரம் துன்பங்கள் வந்தாலும் 
+ G  C 
+அகன்று போமாட்டேன்  -2
+Dm  G  C 
+உம்மைவிட்டு அகன்று போகமாட்டேன் 
+
+
+Stanza Var C
+C  Em 
+ஒவ்வொரு நாளும் உம்குரல் கேட்டு
+ F  C 
+அதன்படி நடக்கின்றேன்-2
+Am  G 
+உலகினை மறந்து உம்மையே நோக்கி
+Dm  G  C 
+ஓடி வருகின்றேன் -2
+
+
+Begin Var A
+ C  G
+Aandavarae um paatham saranadainthaen
+ Dm  G  C 
+Adimai naan ayya-2
+ C  Am  G
+Aayiram aayiram thunpangal vanthalum
+ G  C 
+Agandru pogamathaen-2
+Dm  G  C 
+Ummaivithu agandru pogamathaen
+
+Stanza Var C
+C  Em 
+Ovvaru naalum umkural kethu
+ F  C 
+Athapadi nadakindren-2
+Am  G 
+Ulaginai maranthu ummaiyae nokki
+Dm  G  C 
+Oodi varugindren -2
+
+

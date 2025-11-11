@@ -1,0 +1,51 @@
+****************************************
+Key: D
+Style: Latin/p1/Bossanova
+Tempo: 110 Time Signature:4/4 
+*****************************************
+Begin Var B
+DM7 				  GM7
+ஆனந்த களிப்புள்ள உதடுகளால்
+Em7  A7  DM7
+போற்றிப் புகழ்கின்றேன் - 2
+Var D
+Em  G
+அறுசுவை உணவு உண்பது போல்
+A  D	  Em.  A  D
+திருப்தி அடைகிறேன் தினமும் துதிக்கிறேன் 
+
+Stanza Var B
+DM7  GM7  D
+மேலானது உம் பேரன்பு
+Em  A  D
+உயிாினும் மேலானது  – 2
+Var D
+GM7  A/ G
+உதடுகள் துதிக்கட்டும் 
+F#m  Bm7
+உயிருள்ள நாளெல்லாம்  - 2
+Em.  A  D
+உயிருள்ள நாளெல்லாம்
+
+
+
+DM7.  GM7
+Aanantha kalipulla uthadugalaal
+Em7  A7  DM7
+Potri pugalkindren - 2
+Em  G
+Arusuvai unavu unpathu poael
+A  D  Em.  A  D
+Thirupthi adaikindren, dhinamum thuthikindren
+
+DM7  GM7 D
+1. Maelaanathu um peranbu
+Em  A  D
+Uyirinum maelaanathu - 2
+GM7  A with G
+Uthadugal thuthikathum
+F#m  Bm7
+Uyirulla naalelaam - 2
+Em. A  D
+Uyirulla naalellam - Aanantha
+

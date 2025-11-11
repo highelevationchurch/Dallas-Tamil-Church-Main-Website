@@ -1,0 +1,107 @@
+**************************************
+Key: A
+Style: R&B/p2/6-8soulballad
+Tempo: 85 Time Signature: 6/8 . 
+*****************************************
+Begin Var B
+  A 
+ஆவியானவரே என்னை 
+ Dsus 2
+ஆட்கொண்டு நடத்துமே
+  A  
+ஆவியானவரே இப்போ
+ E 
+ஆளுகை செய்யுமே
+ A 
+ஆவியானவரே என்மேல்
+ Dsus2
+அனலாய் இறங்குமே 
+ A  E
+ஆவியானவரே ஆவியானவரே 
+
+Var C 
+Bm  A/C#  D
+சித்தம் போல் என்னை நடத்துமே
+  F#m  E
+உங்க விருப்பம் போல் என்னை வணையுமே-2
+
+Pre Chorus 
+
+ Bm  A/C#  D  C#m
+ஆவியே தூய ஆவியே
+ Bm  A/C#  D
+வாருமே என் துணையாளரே
+ Bm  A/C#  D  C#m
+ஆவியே மகிமையின் ஆவியே
+ Bm  A/C#  D
+வாருமே என் மணவாளரே-ஆவியானவரே
+
+Chorus 
+  A  Bm 
+ஜீவ நதியே பாய்ந்து செல்லுமே
+  A/C#  D  E
+ஊற்றுத்தண்ணீரே தாகம் தீர்த்திடுமே(தீர்ப்பவரே)
+  A  Bm 
+அன்பின் ஆவியே தேற்றும் தெய்வமே
+  A/C#  D  E
+அசைவாடுமே ஆவியானவரே-2
+
+
+F#m  Dsus2 
+அன்போடு வரவேற்கிறோம்
+F#m  E 
+அன்போடு வரவேற்கிறோம்
+
+
+
+Begin Var B
+  A 
+Aaviyaanavarae ennai
+ Dsus 2
+Aatkondu nadathumae
+  A  
+Aaviyaanavarae ippo
+ E 
+Aalugai seiyumae
+ A
+Aaviyaanavarae enmael
+ Dsus2
+Aanalaai irangumae
+ A  E
+Aaviyaanavarae aaviyaanavarae - 2
+
+
+Var C 
+Bm  A/C#  D
+Sitham poel ennai nadathumae
+  F#m.  E
+Unga virupam poel ennai vanaiyumae -2
+
+Pre Chorus 
+
+ Bm  A/C#  D  C#m
+Aaviyae thooya aaviyae
+ Bm  A/C#  D
+Vaarumae en thunaiyaalarae
+ Bm  A/C#  D  C#m
+Aaviyae magimaiyin aaviyae
+ Bm  A/C#  D
+Vaarumae en manavaalarae - aaviyaanavarae
+
+
+Chorus 
+  A  Bm 
+Jeeva nathiyae paainthu sellumae
+  A/C#.  D  E
+Ootruthaneerae thaagam theernthidumae (theerpavarae)
+  A  Bm 
+Anbin aaviyae thethrum deivamae
+  A/C#  D  E
+Aasaivaadumae aaviyaanavarae -2
+
+F#m  Dsus2
+Anbodu varaverkirom
+F#m  E 
+Anbodu varaverkirom
+
+

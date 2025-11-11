@@ -1,0 +1,45 @@
+*****************************************
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin Var A
+F  C
+aaviyaana engal anpu theyvamae
+C  F atiyorai aatkonndu nadaththumae -2
+
+Chorus Var B
+F  Bb  F
+aatkonndu engalai analaakkum
+Gm  C  F anpinaal intu alangariyum 
+
+Stanza. Var A
+F  Am  Bb
+jepikka vaikkum engal jepaveeranae
+Gm  Bb  F thuthikkath thoonndum thunnaiyaalarae
+Gm  F/A saaththaanin sakala thanthirangalai
+C  F thakarththeriya vaarum aiyaa
+
+Begin
+F  C
+ஆவியான எங்கள் அன்பு தெய்வமே
+C  F
+அடியோரை ஆட்கொண்டு நடத்துமே - 2
+
+Chorus
+F  Bb  F
+ஆட்கொண்டு எங்களை அனலாக்கும்
+Gm  C  F
+அன்பினால் இன்று அலங்கரியும்.. - 2
+
+Stanza
+  F  Am  Bb  
+ஜெபிக்க வைக்கும் எங்கள் ஜெபவீரனே
+Gm  Bb  F
+துதிக்கத் தூண்டும் துணையாளரே
+Gm  F/A
+சாத்தானின் சகல தந்திரங்களை
+C  F
+தகர்த்தெறிய வாரும் ஐயா
+
+

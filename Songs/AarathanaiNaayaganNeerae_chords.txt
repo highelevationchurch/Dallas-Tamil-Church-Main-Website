@@ -1,0 +1,60 @@
+*****************************************
+Key: Dm
+Style: world/p2/arabiceuro
+Tempo: 90 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  Dm  C
+ஆராதனை நாயகர் நீரே
+Am  Bb  Dm
+ஆராதனை வேந்தனும் நீரே
+
+Var C
+F  C
+ஆயுள் முடியும் வரை
+C  Edim  A
+உம்மை தொழுதிடுவேன்
+
+Stanza Var A
+ Dm  C  Dm
+ஆயிரம் பேர்களில் சிறந்தோர்
+Dm  C  F  A
+ஆண்டவர் இயேசு நீரே  
+
+Var C
+D  Gm  C  
+விடிவெள்ளியே எந்தன் பிரியம் நீரே
+F  Edim  A
+என்றென்றும் தொழுதிடுவேன் 
+D7  Gm  C  
+விடிவெள்ளியே எந்தன் பிரியம் நீரே
+Dm  Am  Dm
+என்றென்றும் தொழுதிடுவேன் – ஆராதனை
+
+Begin Var A
+  Dm  C
+Aarathanai nayagar neerae
+Am  Bb  Dm
+Aarathanai venthanum neerae
+Var C
+F  C
+Aayul mudiyum varia
+C  Edim  A
+Ummai tholuthiduvaen
+
+Stanza Var A
+ Dm  C  Dm
+Aayiram pergalil siranthor
+Dm  C  F  A
+Aandavar yesu neerae
+Var C
+D  Gm  C  
+Vidivelliyae enthan piriyam neerae
+C  Edim  A
+Endrendrum tholuthiduvaen
+D7  Gm  C  
+Vidivelliyae enthan piriyam neerae
+Dm  Am  Dm
+Endrendrum tholuthiduvaen - Aarathanai
+
+

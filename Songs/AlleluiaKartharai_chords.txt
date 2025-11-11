@@ -1,0 +1,46 @@
+***************************************
+Key: G
+Style: pop.16beatrock
+Tempo: 120 Time Signature:4/4. 
+*****************************************
+Begin Var B
+ G  C  D  G
+அல்லேலூயா கர்த்தரையே ஏகமாய்த் துதியுங்கள்
+G  G/B.  C  A/C#  C  D  G
+அவர் நடத்தும் செயல்களெல்லாம் பார்த்தோரே துதியுங்கள்
+G  C  D  G
+வல்லமையாய் கிரியை செய்யும் வல்லோரைத் துதியுங்கள்
+G  G/B  C  A/C#  C  D  G
+எல்லோரையும் ஏற்றுக்கொள்ளும் இயேசுவைத் துதியுங்கள்
+
+Stanza Var C
+G  G/B  C  G
+இராஜாதி இராஜனாம் இயேசுராஜன்
+G  Em  Bm7
+பூமியில் ஆட்சி செய்வார்
+G  A7
+அல்லேலுயா அல்லேலுயா
+C  D  G
+தேவனைத் துதியுங்கள்
+
+
+
+Begin Var B
+ G  C  D  G
+Alleluiah kartharaiyae yegamaai thuthiyungal
+G  G/B.  C  A/C#  C  D  G
+Avar nadathum seyalgalelam parhorae thuthiyungal
+G  C  D  G
+Vallamaiyaai giriyai seiyum vallorai thuthiyungal
+G  G/B  C  A/C#  C  D  G
+Elloraiyum ethrukollum yesuvai thuthiyungal
+
+Stanza Var C
+G  G/B  C  G
+Rajathi rajanam yesurajan
+G  Em  Bm7
+Boomiyil aatchi seivaar
+G  A7
+Alleluiah alleluiah
+C  D  G
+Devanai thuthiyungal

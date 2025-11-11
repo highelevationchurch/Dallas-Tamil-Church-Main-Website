@@ -1,0 +1,34 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: Dm
+Style: poprock/p8/powerballad  
+Tempo: 65 Time Signature:4/4
+*****************************************
+Begin Var B
+  Bb  Dm 
+Adonai Adonai
+  C  Dm 
+We worship You Adonai
+  Bb  Dm 
+Adonai Adonai
+  C  Dm 
+We worship You Adonai ehhyy
+Adonai Adonai yeah eh
+We worship Adonai ehhyy
+
+Var C
+  Bb  F 
+All power is in Your Hands
+  Am  Dm 
+Elshaddai oh Elohim
+  Gm  Am  Dm 
+There is no other God like You Adonai
+  Bb  F 
+All power is in Your Hands
+  Am  Dm 
+Elshaddai oh Elohim
+  Gm  Am  Dm 
+There is no other God like You Adonai
+

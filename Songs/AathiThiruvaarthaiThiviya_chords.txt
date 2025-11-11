@@ -1,0 +1,106 @@
+**************************************
+Key: C
+Style: expn/tabla6-8/p1/D tab 68  1
+Tempo: 72 Time Signature: 6/8. 
+*****************************************
+
+Begin Var A
+  C Dm  C/E
+ஆதித் திருவார்த்தை திவ்விய
+  G  C/E  G
+அற்புதப் பாலகனாகப் பிறந்தார்;
+C  C/E  G  C 
+அற்புதப் பாலகனாகப் பிறந்தார்;
+ C  Dm  C
+ஆதந் தன் பாவத்தின் சாபத்தை தீர்த்திட
+C  Dm  G  C 
+ஆதந் தன் பாவத்தின் சாபத்தை தீர்த்திட
+C/E  F  G  C 
+ஆதிரை யோரையீ டேற்றிட
+
+ Pre Chorus Var B
+C
+மாசற்ற ஜோதி திரித்துவத் தோர் வஸ்து
+Dm  G  C/E
+மரியாம் கன்னியிடமா  முதித்து
+Dm  G  C
+மரியாம் கன்னியிடமா  முதித்து
+C  G/B  G
+மகிமையை மறந்து தமை வெறுத்து
+C  G/B  G
+மகிமையை மறந்து தமை வெறுத்து
+C  Dm  G  C 
+மகிமையை மறந்து வேஷமாய்
+C 
+உன்ன தகஞ்சீர் முகஞ்சீர் வாசகர்
+Dm  G/B  C/E
+மின்னுச்சீர் வாசகர், மேனிநிறம் எழும்
+Am  G/B  C
+உன்னத காதலும் பொருந்தவே சர்வ
+Am  G/B  C
+நன்மைச் சொரூபனார், ரஞ்சிதனார்
+
+C
+தாம், தாம், தன்னரர் வன்னரர்
+Dm  G/B
+தீம், தீம், தீமையகற்றிட
+C  Dm  C/E  F
+சங்கிர்த, சங்கிர்த, சங்கிர்த சந்தோ
+G  G/B  C
+ஷமென சோபனம் பாடவே
+Am  G/B
+இங்கிர்த, இங்கிர்த, இங்கிர்த நமது
+C  Dm  G  C
+இருதயத்திலும் எங்கும் நிறைந்திட - - - ஆதி
+
+
+
+Begin Var A
+  C Dm  C/E
+Aathith  thiruvaarthai thiviya
+  G  C/E  G
+Arputha balaganaaga piranthaar;
+C  C/E  G  C 
+Arputha balaganaaga piranthaar;
+ C  Dm  C
+Aathanthan paavathin saabathai  theerthida
+C  Dm  G  C 
+Aathanthan paavathin saabathai  theerthida
+C/E  F  G  C 
+Aathirai yoraiyee daetrida
+
+
+ Pre Chorus Var B
+C
+Maasathra jothi thirithuvath thore vasthu
+Dm  G  C/E
+Mariyaam kanniyidamaa muthithu
+Dm  G  C
+Mariyaam kanniyidamaa muthithu
+C  G/B  G
+Magimaiyai maranthu thamai veruthu
+C  G/B  G
+Magimaiyai maranthu thamai veruthu
+C  Dm  G  C 
+Magimaiyai maranthu veshamaai
+C 
+Unna thagancheer mugancheer vaasagar
+Dm  G/B  C/E
+Minnucheer vaasagar, maeniniram elum
+Am  G/B  C
+Unnatha kaadalum porunthavae sarva
+Am  G/B  C
+Nanmai sorupamanaar, ranchitanaar
+
+C
+Thaam, thaam, thanarar vanarar
+Dm  G/B
+Theem, theem, theemaiyagathrida
+C  Dm  C/E  F
+Sangirtha, sangirtha,  sangirtha santho
+G  G/B  C
+Shamaena sobanam paadavae
+Am  G/B
+Ingirtha, ingirtha, ingirtha namathu
+C  Dm  G  C
+Iruthayathilum engum nirainthida - - - Aathi

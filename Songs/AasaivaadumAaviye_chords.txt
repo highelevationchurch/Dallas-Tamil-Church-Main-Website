@@ -1,0 +1,49 @@
+****************************************
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin
+ E  B/D#  E/G#  E
+அசைவாடும் ஆவியே
+C#  F#m  B  E 
+தூய்மையின் ஆவியே
+  A  B  G#m  C#m
+இடம் அசைய உள்ளம் நிரம்ப
+B  E  E 
+இறங்கி வாருமே
+
+Stanza
+ E  G#m A  E 
+பெலனடைய நிரப்பிடுமே
+B  E 
+பெலத்தின் ஆவியே
+B  cdim  C#m 
+கனமடைய ஊற்றிடுமே
+A  B  A 
+ஞானத்தின் ஆவியே
+
+Begin
+  E  B/D# E/G#  E
+Aasaivaadum aaviyae
+C#  F#m  B  E 
+Thooimaiyim aaviyae
+  A  B  G#m  C#m
+Idam aasaiyaa ullam nirambha
+B  E  E 
+Irangi vaarumae
+
+Stanza
+ E  G#m A  E 
+பெலனடைய நிரப்பிடுமே
+ E  G#m A  E 
+Belanadaiya nirapidumae
+B  E 
+பெலத்தின் ஆவியே
+B  E 
+Belathin aaviyae
+B  cdim  C#m 
+Kanamadaiya ootridumae
+A  B  A 
+Niyaanathin aaviyae
+

@@ -1,0 +1,63 @@
+**************************************
+Key: Gm
+Style:  poprock/p1/16BeatRock 
+Tempo:  120 Time Signature:  4/4
+*****************************************
+Begin ( Var A) 
+Gm  Cm 
+வானத்திலும் இந்த பூமியிலும்  
+F  Bb 
+வல்லமையான ஒரு நாமம் உண்டு-2
+  (Var B)
+EbM7  F
+மனுஷருக்குள்ளே வல்லமையான 
+Dm  Gm 
+வேறொரு நாமம் இல்லை-2
+ 
+Chorus (Var D)  
+  Eb  F  
+அவர் நாமம் இயேசு கிறிஸ்து
+  Cm  D
+அவர் நாமம் இயேசு கிறிஸ்து-2
+
+Stanza (Var B) 
+  Gm  F
+அவர் நாமத்தில் மன்னிப்பு உண்டு 
+  Dm  Gm
+அவர் நாமத்தில் இரட்சிப்பு உண்டு -2
+  (Var D)
+  Cm  Bb 
+நாம் இரட்சிக்கப்படுவதற்க்கென்று 
+  D  Gm 
+வேறே நாமம் நமக்கில்லையே -2
+
+
+
+Begin ( Var A) 
+Gm  Cm 
+Vaanathilum intha boomiyilum
+F  Bb 
+Vallamaiyaana oru naamam undu -2
+  (Var B)
+EbM7  F
+Manusarukullae vallamaiyaana
+Dm  Gm 
+Veroru naamam illai -2
+ 
+Chorus (Var D)  
+  Eb  F 
+Avar naamam yesu kristu
+  Cm  D
+Avar naamam yesu kristu-2
+
+Stanza (Var B) 
+  Gm  F
+Avar naamathil manipu undu
+  Dm  Gm
+Avar naamathil ratchipu undu -2
+  
+  Cm  Bb 
+Naam ratchikapaduvatharkendru
+  D  Gm 
+Verae naamam namakillaiyae -2
+

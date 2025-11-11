@@ -1,0 +1,51 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:Bank3  Var A First R1 Second R3 on(Higher)
+R1: Woodwind  R2: Strings R3: Strings
+Intro: link
+Key: G
+Style: Reallooppack/p1/1DTD  
+Tempo: 90 Time Signature:4/4. 
+*****************************************
+Begin Var A
+  G  C  G
+அழகாய் நிற்கும் யார் இவர்கள்?
+  Em  D  G
+திரளாய் நிற்கும் யார் இவர்கள்?
+  Am  G/B
+சேனைத் தலைவராம் இயேசுவின் பொற்றளத்தில்
+Em  D  G
+அழகாய் நிற்கும் யார் இவர்கள்?
+
+Stanza Var B
+ G  Em
+ஒரு தாலந்தோ இரண்டு தாலந்தோ
+Am  D  G
+ஐந்து தாலந்தோ உபயோகித்தோர்
+G  Em  
+சிறிதானதோ பெரிதானதோ
+Am  D  G
+பெற்ற பணி செய்து முடித்தோர் — அழகாய்
+
+
+
+Begin Var A
+  G  C  G
+Alagai nirkum yaar ivargal?
+  Em  D  G
+Thiralaai nirkum yaar ivargal?
+  Am  G/B
+Senai thalaivaram yesuvin potralathil
+Em  D  G
+Alagai nirkum yaar ivargal?
+
+Stanza Var B
+  G  Em
+Oru thalantho irandhu thalantho
+Am  D  G
+Ainthu thalantho vupayogithore
+G  Em
+Sirithanatho perithanatho
+Am  D  G
+Pethra pani seithu  mudithore  - Alagai
+
+

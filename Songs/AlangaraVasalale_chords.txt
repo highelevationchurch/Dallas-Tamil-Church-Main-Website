@@ -1,0 +1,69 @@
+****************************************
+Key: G
+Style: Reggaeton
+Tempo: 130 Time signature: 4/4
+*****************************************
+Begin Var C
+G  Am
+அலங்கார வாசலாலே
+D  G
+பிரவேசிக்க வந்து நிற்கிறோம்
+  Em  Am
+தெய்வ வீட்டின் நன்மையாலே,
+ D  G
+நிரம்பிட வந்து நிற்கிறோம்
+
+Chorus . Var D. B6. Variation with Synth
+G  Em
+ஆராதிக்க வந்தோம், அன்புகூற வந்தோம்
+C  Am
+யெகோவா தேவனையே,
+Am  F
+துதித்திட வந்தோம் தொழுதிட வந்தோம்
+D  G
+தூயவர் இயேசுவையே
+
+Stanza.B5 Var C
+  G  Bm
+ஆலயம் செல்வதே,
+  Em  G
+அது மகிழ்ச்சியை தந்திடுதே..
+  Am  G/B
+என் சபையுடனே, உமை தொழுதிடவே (Sustain)
+Am  D  G
+கிருபையும் கிடைத்திட்டதே
+
+
+
+
+Begin Var C
+G  Am
+Alangara vasalaalae
+D  G
+Piravaesika vanthu nirkirom
+  Em  Am
+Deiva veethin nanmaiyaalae,
+D  G
+Nirambida vanthu nirkirom
+
+Chorus . Var D. B4. Variation with Sync
+G  Em
+Aarathika vanthom, anbu koora vanthom
+C  Am
+Yekova devanaiyae,
+Am  F
+Thuthithida vanthom tholuthida vanthom
+D  G
+Thooyavar yesuvaiyae
+
+Stanza.B5 Var C
+  G  Bm
+Aalayam selvathae,
+  Em  G
+Athu magilchiyai thanthiduthae..
+  Am  G/B
+En sabaiyudanae, umai tholuthidavae (Sustain)
+Am  D  G
+Kirubaiyum kidaithithathae
+
+

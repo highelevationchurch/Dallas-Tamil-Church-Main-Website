@@ -1,0 +1,40 @@
+***************************************
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Begin
+  E  B  C#m
+அன்பே, அன்பே, அன்பே
+  	B
+ஆருயிர் உறவே!
+A  B  	E
+ஆனந்தம் ஆனந்தமே
+
+Stanza
+ E  	A
+ஒரு நாளுந்தயை கண்டேனையா
+C#m  B  E
+அன்னா ளெனை வெறுத்தேனையா
+C#m  G#m
+உம் தயை பெரிதையா – என் மேல்
+A  B  E
+உம் தயை பெரிதையா – அன்பே
+
+Begin
+  E  B  C#m
+Anbae, anbae, anbae
+  B
+Aaruyir uravae!
+A  B  	E
+Anantham aananthamae
+
+Stanza
+ E  A
+Oru naalunthaiyai kandaenaiyaa
+C#m  B  E
+Anna lanai veruthaenaiyaa
+C#m  G#m
+Um thayai perithaiyaa - en mael
+A  B  E
+Um thayai perithaiyaa - anbae

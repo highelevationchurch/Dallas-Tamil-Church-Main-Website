@@ -1,0 +1,59 @@
+*****************************************
+Key: Em
+Style: Poprock/p1/reggaetonpop
+Tempo: 105 Time Signature:4/4  
+*****************************************
+Begin: Bank 2 Var C
+ Em  C
+ஆத்துமாவே நன்றி சொல்லு
+  Bm  Em
+முழு உள்ளத்தோடே- என் -2
+  
+Chorus Var D
+Em  Am  D
+கர்த்தர் செய்த நன்மைகளை
+C  D  Em
+ஒருநாளும் மறவாதே – 2
+
+Stanza Var C
+Em  G
+குற்றங்களை மன்னித்தாரே
+D  Bm
+நோய்களை நீக்கினாரே
+Var  C
+G  D
+படுகுழியினின்று மீட்டாரே
+ C  Bm  Em 
+ஜீவனை மீட்டாரே – 2
+
+
+Begin: Bank 2 Var C
+ Em  C
+Aathumaavae nandri sollu
+ Bm  Em
+Mulu vulathodae - En
+
+Chorus Var D
+Em  Am  D
+karthar seitha nanmaigalai
+C  D  Em
+Oru naalum maravarhae - 2
+
+Stanza Var C
+C  G
+Kuthrangalai manithaarae
+D  Bm
+Noigalai neekinaarae
+
+Var  C
+G  D
+Padukuliyinindru meethaarae
+C  Bm  Em
+Jeevanai meethaaarae – 2
+
+
+
+
+	
+		 			
+

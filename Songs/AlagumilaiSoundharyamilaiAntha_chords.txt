@@ -1,0 +1,41 @@
+******************************************
+Key: E
+Style: poprock/p2/soulfulballad 
+Tempo: 75 Time Signature:4/4. 
+*****************************************
+Begin/Stanza Var B
+  E  B/D# A/C#  E/G#  
+அழகுமில்லை சௌந்தரியமில்லை 
+ C#m.  F#m  B  E
+அந்தக் கேடுற்றார் எத்தனை மீட்க 
+  A  G#m  C#
+பல நிந்தைகள் சுமந்தாலுமே 
+  F#m  B  A.  B  E
+பதினாயிரம் பேரிலும் சிறந்தவரே
+
+Chorus Var C
+  E  F#m
+அந்தோ கல்வாரியில் 
+A  B  E  
+அருமை இரட்சகரே 
+  F#m  B  E
+சிறுமை அடைந்தே தொங்கினார்
+
+
+Begin/Stanza Var B
+  E  B/D# A/C#  E/G#  
+Alahumillai soundaryamillai
+ C#m. F#m  B  E
+Antha kedutraar ethanai meetka
+  A  G#m  C#
+Pala ninthaigal sumanthalumae
+  F#m  B  A.  B  E
+Pathinayiram perilum siranthavarae
+
+Chorus Var C
+  E  F#m
+Antho kalvariyil
+A  B  E  
+Arumai ratchakarae
+  F#m  B  E
+Sirumai adainthae thonginaar

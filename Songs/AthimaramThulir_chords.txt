@@ -1,0 +1,61 @@
+***Unfreeze + Bank1 + Freeze***
+Intro: Bank3 
+R1: Sitar
+Intro link: link
+Key: Cm
+Style: Reallooppack1/p1/3Duff
+Tempo: 84 Variation:A. 
+*****************************************
+Begin Var A Ep
+Cm
+அத்திமரம் துளிர்விடாமல் போனாலும்
+Cm
+திராட்சை செடி பலன்கொடாமல் போனாலும்
+  Cm  	G#
+கர்த்தருக்குள் மகிழ்ச்சியாயிருப்பேன்
+  	Gm  	Cm
+என் தேவனுக்குள் களிகூருவேன்
+
+Stanza Var A
+	Cm
+1. ஒலிவ மரம் பலன் அற்றுப் போனாலும்
+F.  	Gsus 	Cm 	
+வயல்களிலே தானியமின்றிப் போனாலும் -2
+
+Var C
+  Cm  	G7
+கர்த்தருக்குள் மகிழ்ச்சியாயிருப்பேன்
+  	G7  	Cm
+என் தேவனுக்குள் களிகூருவேன்
+  Cm  	G#
+கர்த்தருக்குள் மகிழ்ச்சியாயிருப்பேன்
+  	Gm  	Cm
+என் தேவனுக்குள் களிகூருவேன்
+
+Begin Var A Ep
+Cm
+Athimaram thulirvidaamal ponalum
+Cm
+Thiratchai sedi balankodaamal ponaalum
+ Cm  G#
+Kartharukkul magilchiyayirupaen
+  Gm  Cm
+En devanukkul kalikooruvaen
+
+Stanza Var A
+  Cm
+1. Oliva maram balan athrup ponaalum
+F  Gsus  Cm
+Vayalgalilae thaaniyamindri ponaalum - 2
+
+Stanza Var A
+Cm  G7
+Kartharukkul magilchiyayirupaen
+  G7  Cm
+En devanukkul kalikooruvaen
+ Cm  G#
+Kartharukkul magilchiyayirupaen
+  Gm  Cm
+En devanukkul kalikooruvaen
+
+

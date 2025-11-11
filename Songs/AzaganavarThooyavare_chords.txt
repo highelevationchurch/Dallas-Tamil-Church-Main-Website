@@ -1,0 +1,77 @@
+##############################
+Key: G
+Style: pop rock.p6.love song
+Tempo: 72 Time Signature: 4/4
+##############################
+Begin  Bank1 Var B
+  G  Em 
+அழகானவர் தூயவரே
+  Am  D
+உயர்ந்தவரே என் அன்பே-2 - Turn On R3 Second Time
+
+Base ON Var C Bank 2
+G  Em
+ஆயிரங்களில் நீங்க அழகானவர்
+C  D
+என் வாழ்வின் நேசர் நீரே
+G  
+சாரோனின் ரோஜாவும்
+Em
+பள்ளத்தாக்கின் புஷ்பமே
+C  D
+உம்மை நான் அறிந்து கொண்டேன்-2-அழகானவர்
+
+Chorus with Base  Var D
+G
+உங்களை பார்க்கணும்
+  Em
+உம் பாசத்தில் மூழ்கணும்
+C  D
+இது தான் என் ஆசை ஐயா
+G
+உங்களை பார்க்கணும்
+Em
+உம் பாசத்தில் மூழ்கணும்
+C  D
+இது தான் என் வாஞ்சை ஐயா-2- அழகானவர்
+
+G  Em
+இயேசுவே என் இயேசுவே
+C  D
+உம்மை போல யாரும் இல்லை-4-அழகானவர்
+
+
+
+Begin  Bank1 Var B
+  G  Em 
+Alagaanavar thooyavarae
+  Am  D
+Vuyarnthavarae en anbae – 2 - Turn On Base ON Var C Bank 2
+G  Em
+Aayirangalil neenga alaganavar
+C  D
+En vaalvin nesar neerae
+G
+Saaronin rojavum
+Em
+Pallathaakin pushpamae
+C  D
+Ummai naan arinthu kondaen - 2 - Alagaanavar
+Chorus with Base  Var D
+G
+Ungalai parkanum
+  Em
+Um paasathil moolganum
+C  D
+Ithu thaan en aasai ayya
+G
+Ungalai paarkanum
+Em
+Um paasathil moolganum
+C  D
+Ithu than en vaanjai ayya - 2 - Alagaanavar
+
+G  Em
+Yesuvae en yesuvae
+C  D
+Ummai pola yaarum illai - 4 – Alagaanavar

@@ -1,0 +1,61 @@
+****************************************
+Key: Fm
+Style: Dance/p5/EuroTrance
+Tempo: 130 Time Signature:4/4 
+*****************************************
+Begin Var A
+Fm  Bbm  
+அனைத்தையும் அருளிடும் 
+Cm  Fm
+எனக்கென தந்திடும்
+Fm  F  Bbm  
+வலக்கரம் என்னை உயர்த்திடும்
+ Cm  Fm  
+என் தேவனே
+
+Chorus Var B
+Fm  Eb 
+யெகோவாயீரே
+  Db  Fm
+யெகோவாயீரே -2
+
+Stanza Var A
+Fm  
+புல்லுல்ல இடங்களில் எந்தனை
+Fm  Eb 
+நித்தமும் சுகமாய் நடத்திடும்
+Fm  F  Bbm 
+கழுகினை போல் என்னை சுமந்திடும்
+ Cm  Fm  
+என் தேவனே
+
+
+
+Begin Var A
+Fm  Bbm  
+Anaithaiyum arulidum
+Cm  Fm
+Enakenna thanthidum
+Fm  F  Bbm  
+Valakaram ennai uyarthidum
+ Cm  Fm  
+En devanae
+
+Chorus Var C
+Fm  Eb 
+Yehovayeerae
+  Db  Fm
+Yehovayeerae -2
+
+Stanza Var A
+Fm 
+Pulula idangalil enthanai
+Fm  Eb 
+Nimithamum sugamaai nadathidum
+Fm  F 
+Kaluginai poel
+  Bbm
+Ennai sumanthidum
+ Cm  Fm  
+En devanae
+

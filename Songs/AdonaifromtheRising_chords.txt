@@ -1,0 +1,25 @@
+******************************************
+Key: X
+Style: xx  
+Tempo: xx Time Signature:X. 
+*****************************************
+Chorus Var X
+Cm  
+AH AH AH AH, AH AH AH
+Ab  Bb  Cm 
+AH AH, Adonai
+ Cm
+AH AH AH AH, AH AH AH
+ Ab  Bb  Cm 
+AH AH, Adonai
+
+Stanza Var X
+  Ab  Eb
+From the Rising of the Sun
+  Cm  Bb 
+To the Setting of the same
+  Fm.  Cm 
+Your Name is to be Hallowed
+Ab  Bb  cm  
+AH AH, Adonai
+

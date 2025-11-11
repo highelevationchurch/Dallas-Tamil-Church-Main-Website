@@ -1,0 +1,41 @@
+****************************************
+Key: Dm
+Style: world/p2/arabiceuro
+Tempo: 80 Time Signature:4/4. 
+*****************************************
+Begin Var A
+Dm  F
+ஆட்கொண்ட தெய்வம் திருப்பாதம் அமர்ந்து
+Dm  A7
+ஆறுதல் அடைகின்றேன்
+Gm  A7  Dm
+அமைதி பெறுகின்றேன்
+
+Stanza Var B
+Dm  F  
+புயல் வீசும் கடலில் தடுமாறும் படகை
+Dm  G
+தாங்கிடும் நங்கூரமே  -  2 - தினம் 
+Bb  Am  Dm
+தாங்கிடும் நங்கூரமே  
+Bb  Am  Dm
+தாங்கிடும் நங்கூரமே  
+
+Begin Var A
+Dm  F
+Aatkonda deivam thirupatham amarnthu
+Dm  A7
+Aaruthal adaikindren
+Gm  A7  Dm
+Amaithi perukindren
+
+Stanza Var B
+Dm  F  
+Puyal veesum kadalil thadumaarum padagai
+Dm  G
+Thaangidum nankooramae - 2 - dinam
+Bb  Am  Dm
+Thaangidum nankooramae
+Bb  Am  Dm
+Thaangidum nankoorame
+

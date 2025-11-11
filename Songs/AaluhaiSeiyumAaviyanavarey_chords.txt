@@ -4,40 +4,40 @@ Style: R&B/P2/6-8soulBallad
 Tempo: 44 Time Signature:6-8. 
 *****************************************
 Begin Var B
-Cm              Bb             G#                  G
+Cm  Bb  G#  G
 ஆளுகை செய்யும் அவியானவரே
-Fm              Eb             Ddim.       G          Cm
+Fm  Eb  Ddim.  G  Cm
 பலியாய் தந்தேன் பரிசுத்தமானவரே
-Cm                  G              Fm                    G
+Cm  G  Fm  G
 ஆவியானவரே -என் ஆற்றலானவரே
 
 Stanza Var C
-Cm                                                G
+Cm  G
 நினைவெல்லாம் உமதாகணும்
-Fm                  G
+Fm  G
 பேச்செல்லாம் உமதாகணும்
-C                         Fm              G
+C  Fm  G
 நாள் முழுதும் வழிநடத்தும்
-G#                Bb    G                     Cm
-உம் விருப்பம்   செயல்படுத்தும்
+G#  Bb  G  Cm
+உம் விருப்பம்  செயல்படுத்தும்
 
 
 
 Begin Var B
-Cm         Bb        G#            G
+Cm  Bb  G#  G
 Aalugai seiyum aaviyanavarae
-Fm         Eb             Ddim.       G       Cm
+Fm  Eb  Ddim.  G  Cm
 Baliyaai thanthaen parisuthamanavarae
-Cm              G           Fm            G
+Cm  G  Fm  G
 Aaviyanavarae -en aatralanavarae
 
 Stanza Var C
-Cm                               G
+Cm  G
 Ninaivellam umathaganum
-Fm                              G
+Fm  G
 Petchellam umathaganum
-C                       Fm            G
+C  Fm  G
 Naal muluthum valinadathum
-G#          Bb  G              Cm
+G#  Bb  G  Cm
 Um virupam seyalpaduthum
 

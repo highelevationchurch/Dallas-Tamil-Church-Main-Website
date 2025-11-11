@@ -1,0 +1,32 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var B
+R1: xx
+Intro: link
+Key: Cm
+Style: Reallooppack/p2/1dholak  
+Tempo:117 Time Signature:4/4. 
+*****************************************
+Begin Var B
+Cm  Fm 
+அதிகாலை ஸ்தோத்திர பலி 
+G  G7  Cm 
+அப்பா அப்பா உங்களுக்குத் தான் 
+  Cm  Fm  
+ஆராதனை ஸ்தோத்திர பலி 
+G  G7  Cm 
+அப்பா அப்பா உங்களுக்குத் தான் 
+G  G7  Cm 
+அப்பா அப்பா உங்களுக்குத் தான் 
+G  G7  Cm 
+அப்பா அப்பா உங்களுக்குத் தான் 
+
+Stanza Var C
+Cm  G7 
+எபிநேசர் எபிநேசர் 
+ Cm  G  Cm 
+இதுவரை உதவி செய்தீர் 
+Cm  C /E  Fm 
+இதுவரை உதவி செய்தீர் 
+G  G7  Cm 
+எபிநேசர் எபிநேசர் 
+

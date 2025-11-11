@@ -1,0 +1,64 @@
+***Unfreeze + Bank1 + Freeze***
+Intro:xx  Var A
+R1: xx
+Intro: link
+Key: A
+Style: pop-rock/p6/countryballad1
+Tempo: 72 Time Signature:4/4
+*****************************************
+Begin Var A
+  A  D
+ஆவியானவரே ஆவியானவரே
+  E  D  E
+உந்தன் வல்லமையை ஊற்றுமையா
+  A  D
+ஆவியானவரே ஆவியானவரே
+  E  D  E
+ உந்தன் அபிஷேகத்தால் நிரப்புமையா
+ 
+Stanza Var B
+  A  A/C#.  D  A/C#.  
+பரிசுத்தத்தோடு  ஆராதித்திட  
+  F#m  E/G#  A  
+சுத்திகரியும் தூய ஆவியே – 2 –
+
+
+At End Var C
+  Bm  A/C#  
+ரூஹா காற்றே  
+  E  F#m.  
+ரூஹா காற்றே  
+  Bm  A /C#.  
+சுவாசக் காற்றே  
+  E  A  
+என்னை உயர்ப்பியுமே
+
+
+
+
+Begin Var A
+  A  D
+Aaviyanavare aaviyanavare
+  E  D  E
+Unthan vallmaiyai ootrumaiyaa
+  A  D
+Aaviyanavare aaviyanavare
+  E  D  E
+Unthan abhisegathaal nirapumaiyaa
+ 
+Stanza Var B
+  A  A/C#.  D  A/C#.  
+Parisuthathodu aarathithida
+  F#m  E/G#  A  
+Suthikariyum thooya aaviyae - 2 -
+
+
+At End Var C
+  Bm  A/C#  
+Rooha kaatre
+  E  F#m.  
+Rooha kaatre
+  Bm  A /C#.  
+Suvasak kaatre
+  E  A  
+Ennai uyirpiyume
