@@ -218,19 +218,25 @@
     
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
         <script>
-            document.querySelectorAll('.dropdown-submenu a.dropdown-toggle').forEach(function(element){
-                element.addEventListener('click', function (e) {
+            document.querySelectorAll('.dropdown-submenu a.dropdown-toggle').forEach(function(element) {
+                element.addEventListener('click', function(e) {
                     e.preventDefault();
                     e.stopPropagation();
                     let submenu = this.nextElementSibling;
-                    if(submenu.style.display === 'block') {
-                        submenu.style.display = 'none';
-                    } else {
-                        submenu.style.display = 'block';
-                    }
+                    submenu.classList.toggle('show');
+                    this.parentNode.classList.toggle('show'); // Also toggle 'show' on the parent li for proper styling
+                });
+            });
+
+            // Close submenus when clicking outside
+            document.addEventListener('click', function(e) {
+                document.querySelectorAll('.dropdown-submenu .dropdown-menu.show').forEach(function(submenu) {
+                    submenu.classList.remove('show');
+                    submenu.parentNode.classList.remove('show');
                 });
             });
         </script>
+
     </body>
     </html>
     
