@@ -1,6 +1,4 @@
-
-
-                <div class="row">
+<div class="row">
                     <div class="col-md-8">
                         <div class="card mb-4">
                             <div class="card-body">
@@ -101,6 +99,17 @@
                         </div>
                     </div>
     
+
+                </div>
+
+<div id="footer-placeholder"></div>
+<script>
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('footer-placeholder').innerHTML = data;
+        });
+</script>
                     <aside class="col-md-4">
                         <div class="card">
                             <div class="card-body">
@@ -128,13 +137,3 @@
                             </div>
                         </div>
                     </aside>
-                </div>
-
-<div id="footer-placeholder"></div>
-<script>
-    fetch('footer.html')
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('footer-placeholder').innerHTML = data;
-        });
-</script>
