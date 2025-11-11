@@ -1,3 +1,4 @@
+
 name: Format Chord Files
 
 on:
@@ -23,7 +24,7 @@ jobs:
           node-version: 18
 
       - name: Run Chords Formatter
-        run: node script.js
+        run: node chords_formatter.js
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

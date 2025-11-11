@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
@@ -109,20 +110,26 @@ function processFile(filePath) {
 
 // Main logic to run the script
 try {
-    const directoryPath = __dirname; // The directory where the script is located
+    const directoryPath = path.join(__dirname, 'Songs'); // Target the 'Songs' directory
 
-    fs.readdir(directoryPath, (err, files) => {
-        if (err) {
-            return console.log('Unable to scan directory: ' + err);
+    // Check if the directory exists
+    if (!fs.existsSync(directoryPath)) {
+        console.log(`'Songs' directory not found. No files to process.`);
+        process.exit(0); // Exit gracefully
+    }
+
+    const files = fs.readdirSync(directoryPath);
+
+    files.forEach(file => {
+        const filePath = path.join(directoryPath, file);
+        const stats = fs.statSync(filePath);
+        
+        // We only want to process .txt files within the 'Songs' directory.
+        if (stats.isFile() && path.extname(file) === '.txt') {
+            processFile(filePath);
         }
-
-        files.forEach(file => {
-            if (path.extname(file) === '.txt') {
-                const filePath = path.join(directoryPath, file);
-                processFile(filePath);
-            }
-        });
     });
 } catch (error) {
     console.error('An error occurred during script execution:', error.message);
+    process.exit(1); // Exit with an error code
 }
