@@ -28,6 +28,14 @@
     </script>
 </head>
 <body>
+<div id="menu-bar-placeholder"></div>
+<script>
+    fetch('../html/menu_bar.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('menu-bar-placeholder').innerHTML = data;
+        });
+</script>
 <a name="top"></a>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
