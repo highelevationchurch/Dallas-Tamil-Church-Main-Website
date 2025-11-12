@@ -1,15 +1,15 @@
 
-name: Index Non-Chord Songs
+name: Index and Categorize Songs
 
 on:
   push:
     branches:
-      - main # Or your default branch
+      - main
     paths:
       - 'Songs/**'
 
 jobs:
-  index:
+  process:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -26,11 +26,25 @@ jobs:
       - name: Run All Songs Indexer
         run: node all_songs_indexer.js
 
+      - name: Check for changes to be indexed
+        id: check_index
+        run: git diff --quiet all_songs_index.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Install AI dependencies
+        if: steps.check_index.outputs.changed == 'true'
+        run: npm install @google/genai
+
+      - name: Run AI Song Language Indexer
+        if: steps.check_index.outputs.changed == 'true'
+        env:
+          API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node ai_song_language_indexer.js
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'docs: Auto-generate non-chord songs index'
-          file_pattern: 'all_songs_index.json'
+          commit_message: 'docs: Auto-generate song indexes and language categories'
+          file_pattern: 'all_songs_index.json ai_english_songs_index.json ai_tamil_songs_index.json'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
