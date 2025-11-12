@@ -1,6 +1,5 @@
-
-const fs = require('fs');
-const { GoogleGenAI, Type } = require('@google/genai');
+import fs from 'fs';
+import { GoogleGenAI, Type } from '@google/genai';
 
 async function run() {
   try {
