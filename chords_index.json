@@ -1,11 +1,6 @@
 {
   "songs": [
     {
-      "name": "_chords",
-      "txt": "Songs/_chords.txt",
-      "html": "Songs/_chords.html"
-    },
-    {
       "name": "AalamanaAaliyilumA_chords",
       "txt": "Songs/AalamanaAaliyilumA_chords.txt",
       "html": "Songs/AalamanaAaliyilumA_chords.html"
