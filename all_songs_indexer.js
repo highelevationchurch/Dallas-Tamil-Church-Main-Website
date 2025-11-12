@@ -1,12 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const songsDirName = 'Songs';
-const outputFileName = 'all_songs_index.json';
-
-// Resolve paths relative to the script's location to avoid CWD issues.
-const songsDir = path.resolve(__dirname, songsDirName);
-const outputFile = path.resolve(__dirname, outputFileName);
+const songsDir = 'Songs';
+const outputFile = 'all_songs_index.json';
 
 try {
     // Check if Songs directory exists
