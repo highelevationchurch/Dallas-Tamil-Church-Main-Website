@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 const songsDir = 'Songs';
 const outputFile = 'all_songs_index.json';
@@ -14,13 +14,24 @@ try {
 
     const allFiles = fs.readdirSync(songsDir);
 
-    const songsWithoutChords = allFiles.filter(file => {
-        // This regex matches 'chord' or 'chords' case-insensitively.
-        return !/chords?/i.test(file);
+    const songFiles = allFiles.filter(file => {
+        const lowerCaseFile = file.toLowerCase();
+        const ext = path.extname(lowerCaseFile);
+        
+        // Condition 1: Must be a .html or .txt file
+        const isCorrectFileType = ext === '.html' || ext === '.txt';
+        
+        // Condition 2: Must NOT contain 'chord' or 'chords'
+        const hasNoChords = !/chords?/i.test(lowerCaseFile);
+        
+        return isCorrectFileType && hasNoChords;
     });
+    
+    // Sort the list alphabetically for consistency
+    songFiles.sort((a, b) => a.localeCompare(b));
 
-    fs.writeFileSync(outputFile, JSON.stringify(songsWithoutChords, null, 2));
-    console.log(`Successfully updated ${outputFile} with ${songsWithoutChords.length} songs.`);
+    fs.writeFileSync(outputFile, JSON.stringify(songFiles, null, 2));
+    console.log(`Successfully updated ${outputFile} with ${songFiles.length} songs.`);
 
 } catch (error) {
     console.error(`Error updating ${outputFile}:`, error);
