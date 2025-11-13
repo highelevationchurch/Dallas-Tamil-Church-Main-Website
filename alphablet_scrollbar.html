@@ -1,23 +1,30 @@
 <style>
 .alphabet-scrollbar {
     position: fixed;
-    top: 80px; /* Adjusted to be below the menu bar */
+    top: 60px; /* Adjusted to be below the menu bar */
     left: 10px;
-    max-height: calc(100vh - 100px); /* Adjust max-height to fit viewport */
-    overflow-y: auto; /* Add scroll for overflow */
+    height: calc(100vh - 70px); /* Adjust max-height to fit viewport */
+    overflow-y: hidden; /* Remove scroll, as items will fill height */
     display: flex;
     flex-direction: column;
+    justify-content: space-around; /* Distribute buttons evenly */
     background-color: #f1f1f1;
     padding: 5px;
     border-radius: 5px;
     z-index: 999;
+    max-width: 40px; /* Added max-width */
 }
 
 .alphabet-scrollbar a {
-    padding: 2px 5px;
+    padding: 0 5px; /* Remove vertical padding, keep horizontal */
+    font-size: 0.8em;
     text-decoration: none;
     color: blue; /* Made the letters blue */
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px; /* Added rounded corners */
+    flex-grow: 1; /* Allow buttons to grow and fill the space */
 }
 
 .alphabet-scrollbar a:hover {
