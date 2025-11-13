@@ -9,6 +9,7 @@
 </head>
 <body>
 
+<div id="alphabet-scrollbar-placeholder"></div>
 <div id="menu-bar-placeholder"></div>
 
 <div class="container-fluid main">
@@ -42,6 +43,13 @@
             .then(response => response.text())
             .then(data => {
                 document.getElementById('menu-bar-placeholder').innerHTML = data;
+            });
+
+        // Fetch and insert alphabet scrollbar
+        fetch('../alphablet_scrollbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('alphabet-scrollbar-placeholder').innerHTML = data;
             });
 
         // Fetch and insert footer

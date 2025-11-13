@@ -9,6 +9,7 @@
 </head>
 <body>
 
+<div id="alphabet-scrollbar-placeholder"></div>
 <div id="menu-bar-placeholder"></div>
 
 <div class="container-fluid main">
@@ -69,6 +70,13 @@
                 document.getElementById('menu-bar-placeholder').innerHTML = data;
             });
 
+        // Fetch and insert alphabet scrollbar
+        fetch('../alphablet_scrollbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('alphabet-scrollbar-placeholder').innerHTML = data;
+            });
+
         // Fetch and insert footer
         fetch('../footer.html')
             .then(response => response.text())
@@ -97,7 +105,7 @@
 
                 let html = '';
                 sortedLetters.forEach(letter => {
-                    html += `<h3>${letter}</h3><ul>`;
+                    html += `<h3 id="${letter.toLowerCase()}list">${letter}</h3><ul>`;
                     songsByLetter[letter].forEach(song => {
                         html += `<li><a href="../Songs/${song.fileName}" target="_blank">${song.title}</a></li>`;
                     });
