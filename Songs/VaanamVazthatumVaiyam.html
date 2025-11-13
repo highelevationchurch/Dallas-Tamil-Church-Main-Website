@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <!-- Everything is self-dependent except for the CSS. Copy this example html file into Songs folder to view CSS. -->
+    <link href="css/fontStyle.css" rel="stylesheet" type="text/css" />
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "Video",
+              "url": "https://youtu.be/GbTNEmFG6Jg?si=ZXL1oa4GFMAkUaMy"
+            },
+            {
+              "title": "Chords",
+              "url": "https://docs.google.com/example"
+            },
+            {
+              "title": "PPT",
+              "url": "ExampleAalamanaAaliyilumPPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+ஆழமான ஆழியிலும் ஆழமான அன்பு
+உயர்ந்த மலைகளிலும் உயரமான அன்பு
+அளந்து பார்க்க முடியாத அளவில்லாத அன்பு
+விவரிக்க முடியாத அற்புத அன்பு - 2
+
+இயேசுவின் அன்பு இது ஒப்பில்லாத அன்
+புறம்பே தள்ளாத பூரண அன்பு - 2
+
+இது ஒப்பில்லாத அன்பு.. பூரண அன்பு (2) - இயேசுவின்
+
+1. குழியில் விழுந்தோரை குனிந்து தூக்கும் அன்பு
+குப்பையில் இருப்போரை எடுத்து நிறுத்தும் அன்பு - 2
+ஒடுக்கப்பட்டோரை உயிர்த்திடும் அன்பு
+எந்தக் காலத்திலும் மாறாத அன்பு - 2
+- இது ஒப்பில்லாத
+
+2. மனிதர்கள் மாறினாலும் மாறிடாத அன்பு
+மகனாய் ஏற்றுக்கொண்ட மஹா பெரிய அன்பு - 2
+என்னை மீட்பதற்காய் உலகத்திலே வந்து
+தன்னையே தந்துவிட்ட தகப்பனின் அன்பு - 2
+- இது ஒப்பில்லாத
+`,
+            "english": `
+Aazhamaana Aazhiyilum Aazhamaana Anbu
+Uyarntha Malaikalilum Uyaramaana Anbu
+Alanthu Parka Mudiyaatha Alavillaatha Anbu
+Vivarikka Mudiyaatha Arputha Anbu - 2
+
+Yesuvin Anbu Ithu Oppillaatha Anbu
+Purambe Thallaatha Poorana Anbu - 2
+
+Ithu Oppillaatha Anbu Poorana Anbu (2) - Yesuvin
+
+1. Kuzhiyil Vizhunthorai Kuninthu Thookkum Anbu
+Kuppaiyil Irupporai Eduththu Niruththum Anbu - 2
+Odukkappattorai Uyarththidum Anbu
+Enthak Kaalaththilum Maaraatha Anbu - 2
+- Ithu Oppillaatha
+
+2. Manithargal Maarinaalum Maridaatha Anbu
+Maganaai Yettrukkonda Mahaa Periya Anbu - 2
+Ennai Meetpatharkkaai Ulagaththile Vanthu
+Thannaiye Thanthuvitta Thagappanin Anbu - 2
+- Ithu Oppillaatha
+`
+          }
+        };
+    </script>
+</head>
+
+<body>
+    <script>
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            document.getElementById('song-title').textContent = pageTitle;
+            
+            const linkContainer = document.querySelector('.linkWrapper');
+            // Clear any fallback content
+            linkContainer.innerHTML = ''; 
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                linkContainer.appendChild(linkDiv);
+            });
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+    <div class="contentWrapper">
+        <div class="linkWrapper">
+            <!-- Links will be dynamically inserted here by the script -->
+        </div>
+        <div>
+            <center><h3 id="song-title" class="songTitle"></h3></center>
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
