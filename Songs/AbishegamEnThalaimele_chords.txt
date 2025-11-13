@@ -1,60 +1,0 @@
-******************************************
-Key: Dm
-Style: Dance/p2/Electropop
-Tempo:  Time Signature: 4/4
-*****************************************
-Begin Var A
-Dm  Gm
-அபிஷேகம் என் தலைமேலே
-C  Dm 
-ஆவியானவர் எனக்குள்ளே -2
-Dm  F 
-முழங்கிடுவேன் சுவிசேஷம்
-G  Bb 
-சிறுமைப்பட்ட அனைவருக்கும் -2
-
-Chorus Var C
-Dm  F  Bb  Dm
-அபிஷேகம் என்மேலே
-Dm  F  Bb  Dm 
-ஆவியானவர் எனக்குள்ளே -2
-
-
-Stanza Var A
-Dm  C
-இதயங்கள் நொறுக்கப்பட்டோர்
-Gm  Dm
-ஏராளம் ஏராளம் -2
-F  C
-காயம் கட்டுவேன் தேசமெங்கும்
-Gm  A
-இயேசுவின் நாமத்தினால் -2
-
-
-Begin Var A
-Dm  Gm
-Abhisegham en thalaimaelae
-C  Dm 
-Aaviyanavar enakullae -2
-Dm  F 
-Mulangiduvaen suvisesham
-G  Bb 
-Sirumaipatha anaivarukkum -2
-
-Chorus Var C
-Dm  F  Bb  Dm
-Abhisegam enmaelae
-Dm  F  Bb  Dm 
-Aaviyanavar enakullae -2
-
-
-Stanza Var A
-Dm  C
-Ithayangal norukapathor
-Gm  Dm
-Yeralam yeralam -2
-F  C
-Kaayam kathuvaen desamengum
-Gm  A
-Yesuvin namathinaal -2
-

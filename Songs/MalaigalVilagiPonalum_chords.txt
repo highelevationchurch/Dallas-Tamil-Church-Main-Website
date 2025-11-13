@@ -1,44 +1,0 @@
-*****************************************
-Key: A
-Style:usb1/p1/6-8biola
-Tempo:130 Time Signature:.6/8
-*****************************************
-Begin Var A
-A  Bm
-மலைகள் விலகிப்போனாலும்
-  E  A
-பர்வதங்கள்  பெயர்ந்துபோனாலும்
-  D  C#m  F#m
-அவர் கிருபை அவர் இரக்கம்
-Bm  E  	A
-மாறாது எந்தன் வாழ்விலே
-
-Stanza Var A
-A  Bm
-என்னை விட்டு விலகாத ஆண்டவர்
-  D  A
-என்னை ஒருபோதும் கைவிடாத சிநேகிதர்
-F#m  Bm
-எனக்காக ஜீவன் தந்த இரட்சகர்
-  E  A
-என் வாழ்வில் என்றும் போதுமானவர்
-
-
-
-
-Begin Var A
-A  Bm
-Malaikal vilakipponaalum
-  E  A parvathangal peyarnthuponaalum -2
-D  C#m  F#m avar kirupai avar irakkam
-Bm  E  A maaraathu enthan vaalvilae -2
-
-Stanza Var A
-A  Bm
-ennai vittu vilakaatha aanndavar
-  D  A ennai orupothum kaividaatha sinaekithar -2
-F#m  Bm
-enakkaaka jeevan thantha iratchakar
-  E  A
-en vaalvil entum pothumaanavar -2
-

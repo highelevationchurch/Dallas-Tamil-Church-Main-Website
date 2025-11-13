@@ -1,45 +1,0 @@
-**************************************
-Key: Cm
-Style: Dance/p2/ChartEDM  
-Tempo: 98 Time Signature: 4/4. 
-*****************************************
-Begin (Var B) 
-Cm  Bb லீலிமலர் போல் மலர்ந்திடுவேன்
-Fm  Bb  Gm  Cm லீபனோன் மரம் போல் படர்ந்திடுவேன்
-Cm  Ddim  G கர்த்தரின் சமூகம் பனித்துளி போல்
-Ab  Fm  Bb  Eb காலமெல்லாம் என் இதயத்திலே
-
-Chorus (Var C) 
-Cm  Bb  Ab  Bb 
-மலர்ந்திடுவேன், படர்ந்திடுவேன், 
-Fm  Gbdim  G  Cm 
-நறுமணமாய்ப் பரவிடுவேன்
-
-Stanza (Var B) 
-Cm  Fm  G
-மனதார இயேசு சிநேகிக்கின்றார்
-Cm  Fm  G மன்னித்தாரே என் மீறுதல்கள்
-Bb  F/A கோபமோ நீங்கியது
-Fm  Fm/D  EbM தயவோ வாழ்நாளெல்லாம் 
-
-
-
-Begin (Var B) 
-Cm  Bb Lilymalar pol malanthiduvaen
-Fm  Bb  Gm  Cm Leebanon maram pol padarnthiduvaen
-Cm  Ddim  G Kartharin samugam panithuli pol
-Ab  Fm  Bb  Eb Kaalamellam en ithayathilae
-
-Chorus (Var C) 
-Cm  Bb  Ab  Bb 
-Malarnthiduvaen, padarnthiduvaen
-Fm  Gbdim  G  Cm 
-Narumanamaai paraviduvaen
-
-Stanza (Var B) 
-Cm  Fm  G
-Manathaara yesu snegikindraar
-Cm  Fm  G Manithaarae en meeruthalgal
-Bb  F/A Kobamo neenkiyathu
-Fm  Fm/D  EbM Thayavo vazhnazhellam
-

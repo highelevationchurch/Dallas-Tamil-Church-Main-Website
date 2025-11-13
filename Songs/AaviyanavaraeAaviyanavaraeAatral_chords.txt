@@ -1,29 +1,0 @@
-**************************************
-Key: D
-Style: R&B /p2/6-8  
-Tempo: 45 Time Signature: 3/4. 
-**************************************
-Begin Var B  
-D  A  
-ஆவியானவரே ஆவியானவரே
-G  A ஆற்றல் உள்ள ஆவியானவரே
-G  A  D பரிசுத்த ஆவியானவரே
-
-Stanza Var C  D  G  தேற்ற வரும் ஆவியானவரே
- G  D புத்தி சொல்லும் ஆவியானவரே
-Em  A நினைப்பூட்டும் ஆவியானவரே
-  G  A  D நிலைத்திருக்கும் ஆவியானவரே
-
-
- Begin Var B  
-D  A 
-Aaviyanavarae aaviyaanavarae
-G  A Aathral ulla aaviyanavarae
-G  A  D
-Parisutha aaviyaanavarae
-
-Stanza Var C  D  G  Thethra varum aaviyaanavarae
- G  D Puthi sollum aaviyaanavarae
-Em  A Ninaipoothum aaviyaanavarae
-  G  A  D Nilaithirukum aaviyaanavarae 
-
