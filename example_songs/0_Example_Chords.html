@@ -135,33 +135,29 @@ Entha kaalathilum maratha anbu
         }
 
         /**
-         * Converts the raw text content to formatted HTML.
+         * Converts the raw text content to formatted HTML by processing each line individually,
+         * preserving the original newline characters to ensure exact rendering.
          * @param {string} content The raw string content.
          * @returns {string} The formatted HTML markup.
          */
         function generateChordMarkup(content) {
-            const lines = content.split(/\r\n?|\n/);
-            const processedLines = [];
             const sectionKeywords = /begin|stanza|chorus|verse|bridge|intro/i; // case-insensitive
 
-            for (const line of lines) {
+            // Use .replace with a multiline regex to process each line without
+            // altering the newline characters, which avoids rendering issues.
+            return content.replace(/^(.*)$/gm, line => {
                 const trimmedLine = line.trim();
-                let processedLineHtml;
                 
                 if (trimmedLine === '') {
-                    // Use &nbsp; for empty lines to maintain spacing with 'white-space: pre'.
-                    processedLineHtml = '&nbsp;';
-                } else {
-                    if (sectionKeywords.test(trimmedLine)) {
-                        processedLineHtml = `<span style="color: blue">${line}</span>`;
-                    } else {
-                        processedLineHtml = formatChordsInLine(line);
-                    }
-                }
-                processedLines.push(`<div>${processedLineHtml}</div>`);
-            }
-            
-            return processedLines.join('\n');
+                    return line; // Keep empty lines as they are.
+                } 
+                
+                if (sectionKeywords.test(trimmedLine)) {
+                    return `<span style="color: blue">${line}</span>`;
+                } 
+                
+                return formatChordsInLine(line);
+            });
         }
 
         // Run the script after the DOM is loaded.
