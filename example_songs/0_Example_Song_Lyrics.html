@@ -4,24 +4,26 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
-    <!-- Everything is self-dependent except for the CSS. Copy this example html file into Songs folder to view CSS. -->
-    <link href="css/fontStyle.css" rel="stylesheet" type="text/css" />
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
 
     <script>
         // Note: The song title is derived automatically from this HTML file name with the script below.
         const songData = {
           "links": [
             {
-              "title": "Video",
+              "title": "View Video",
               "url": "https://youtu.be/example"
             },
             {
-              "title": "Chords",
-              "url": "https://docs.google.com/example"
+              "title": "View Chords",
+              "url": "https://docs.google.com"
             },
             {
-              "title": "PPT",
-              "url": "ExampleAalamanaAaliyilumPPT.pptx"
+              "title": "Placeholder",
+              "url": "example_name.ppt"
             }
           ],
           "lyrics": {
@@ -47,11 +49,7 @@ Purambe Thallaatha Poorana Anbu - 2
 `
           }
         };
-    </script>
-</head>
 
-<body>
-    <script>
         // This script uses the 'songData' object to populate the page content.
         document.addEventListener('DOMContentLoaded', () => {
             // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
@@ -63,11 +61,8 @@ Purambe Thallaatha Poorana Anbu - 2
                 .replace(/([a-z])([A-Z])/g, '$1 $2');
             
             document.title = pageTitle;
-            document.getElementById('song-title').textContent = pageTitle;
             
-            const linkContainer = document.querySelector('.linkWrapper');
-            // Clear any fallback content
-            linkContainer.innerHTML = ''; 
+            const headerContainer = document.getElementById('header-container');
 
             // Dynamically create links from the songData array
             songData.links.forEach(linkInfo => {
@@ -84,20 +79,29 @@ Purambe Thallaatha Poorana Anbu - 2
                 }
 
                 linkDiv.appendChild(linkElement);
-                linkContainer.appendChild(linkDiv);
+                headerContainer.appendChild(linkDiv);
             });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
             
             // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
             document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
             document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
         });
     </script>
+</head>
+
+<body>
     <div class="contentWrapper">
-        <div class="linkWrapper">
-            <!-- Links will be dynamically inserted here by the script -->
-        </div>
-        <div>
-            <center><h3 id="song-title" class="songTitle"></h3></center>
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
         </div>
         <div>
             <p id="tamil-lyrics" class="contentTamil"></p>
