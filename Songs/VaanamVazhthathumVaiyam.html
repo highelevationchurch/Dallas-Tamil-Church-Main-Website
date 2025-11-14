@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=GbTNEmFG6Jg"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com/document/d/1R441FHADq7-mSmKOdY4AIuS2S4l5PbwEMM-JdSSz6KU/edit?tab=t.0"
+            },
+            {
+              "title": "Placeholder",
+              "url": "example_name.ppt"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+வானம் வாழ்த்தட்டும்
+  வையம் போற்றட்டும்
+பூமி மகிழட்டும்
+ தூதர்கள் பணியட்டும்
+பாடுங்கள் பாடுங்கள் 
+ பாலன் இயேசு இன்று பிறந்தார். 
+
+Merry Merry Merry Merry 
+Christmas...
+
+Merry Merry Merry Merry 
+Christmas -- 2
+
+1) வானம் சிந்தும் கானம்
+ தாலாட்டு பாடிடுதே. 
+  மேகம் சிந்தும் 
+   தூவானம் 
+   தேனாக மாறிடுதே
+
+     குளிரும் பனியும் வாட்டிட 
+ குடிலில் கோமகன் தூங்கிட
+ விண்மீன்கள் கூட்டமே ஒளிருங்கள் 
+   விண்பாலனோடு விளையாடவே
+
+வா வா வா
+ வானத்து வெண்ணிலவே 
+
+     -- வானம் வாழ்த்தட்டும் 
+
+2) ஏதேன் தந்த பாவம்
+    சாபங்கள் நீக்கிடவே 
+  ஏழைக் கோலம் கொண்டார் 
+  இயேசு பாலன் இன்றே
+ அன்னை மரியின் மடியிலே 
+ அன்பின் ரூபம் ஆனாரே
+  என்னை மீட்க வந்த தேவ மைந்தனே
+  என்னைப் பாட வைத்த இயேசு பாலனே
+
+வா வா வா
+வாழ்த்துப் பாடுகிறேன்
+
+   - வானம் வாழ்த்தட்டும்
+
+`,
+            "english": `
+Vaanam vazhthathum
+Vaiyam potrathahum
+Boomi magizhathum
+Thoothargal paniyathum
+Paadungal paadungal
+Balan yesu indru piranthaar
+
+Merry Merry Merry Merry
+Christmas...
+
+Merry Merry Merry Merry
+Christmas -- 2
+
+1) Vaanam sindhum kaanam
+Thaalathu paadiduthae
+Megam sindhum
+Thoovaanam
+Thaenaaga maariduthae
+
+Kulirum paniyum vaatida
+Kudilil komagan thoongida
+Vinmeengal kootamae olirungal
+Vinbalanodu vilayaadavae
+
+Va va va
+Vaanathu  vennilavae
+     -- Vaanam vazhthathum
+
+2) Yaethaen thantha paavam
+Saabangal neekidavae
+Yelai kolam kondaar
+Yesu balan indrae
+Annai mariyin madiyilae
+Anbin roopam aanaarae
+Ennai meetka vantha deva mainthanae
+Ennai paada vaitha yesu balanae
+
+Va va va
+Vaalthu paadugiraen
+     -- Vaanam vazhthathum
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+</head>
+
+<body>
+    <div class="contentWrapper">
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
