@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=oZSGD7DPL5c"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com"
+            },
+            {
+              "title": "Placeholder",
+              "url": "YehovahDevaneYehovahKartharePPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+யேகோவா தேவனே யேகோவா கர்த்தரே
+யேகோவா மீட்பரே யேகோவா ராஜனே
+
+எல்ஷடை எல்ஷடை எல்லாம் வல்லவரே
+எல்ரோகி எல்ரோகி என்னை காண்பவரே
+எபினேசர் எபினேசர் இதுவரை உதவிநீர்
+
+`,
+            "english": `
+Yaekovaa thaevanae yaekovaa karththarae
+Yaekovaa meetparae yaekovaa raajanae
+
+Elshatai elshatai ellaam vallavarae
+Elroki elroki ennai kaannpavarae
+Epinaesar epinaesar ithuvarai uthavineer
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+</head>
+
+<body>
+    <div class="contentWrapper">
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
