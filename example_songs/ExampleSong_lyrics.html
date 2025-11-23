@@ -6,6 +6,7 @@
     <title></title>
     
     <style>
+        body { font-weight: bold; }
         .header-container { display: flex; justify-content: space-between; align-items: center;}
     </style>
 
@@ -55,10 +56,13 @@ Purambe Thallaatha Poorana Anbu - 2
             // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
             const path = window.location.pathname;
             const filename = path.substring(path.lastIndexOf('/') + 1);
-            // Format the title: remove .html, replace underscores, and split camelCase.
+            // Format the title: remove .html, replace underscores, split camelCase, and remove "lyric" or "lyrics".
             const pageTitle = decodeURIComponent(filename.replace('.html', ''))
                 .replace(/_/g, ' ')
-                .replace(/([a-z])([A-Z])/g, '$1 $2');
+                .replace(/([a-z])([A-Z])/g, '$1 $2')
+                .replace(/lyrics?/gi, '')
+                .replace(/\s+/g, ' ')
+                .trim();
             
             document.title = pageTitle;
             
