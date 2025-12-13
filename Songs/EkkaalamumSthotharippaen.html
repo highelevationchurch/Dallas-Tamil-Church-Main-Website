@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=xd92aDQ9Ia4"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com/document/d/1k9988-zTCd7mHWgH3_QtxZky-G73GN3k9Q2Bi4-5PYs/edit?tab=t.0"
+            },
+            {
+              "title": "Placeholder",
+              "url": "EkkaalamumSthotharippaenPPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+எக்காலமும் ஸ்தோத்தரிப்பேன்
+எந்நேரமும் துதித்திடுவேன்
+என்னை தாழ்த்தி பணிந்திடுவேன்
+உம் நாமம் உயர்த்துவேன்
+உம்மை பாடி மகிழுவேன் - 2
+
+நீர் செய்ததை மறக்க கூடுமோ?
+இந்த வாழ்க்கை நீர் தந்ததே - 2
+உம்மை ருசித்தே நல்லவர் என்று
+இன்னும் துதிப்பேன் நன்றியோடு - 2
+
+1.காலங்கள் கடந்து போனதே
+உம் கிருபை என்னை நிறுத்துதே - 2
+இக்கட்டுக்கெல்லாம் விலக்கி
+உந்தன் மறைவில் வைத்தீரே - 2 - நீர் செய்ததை
+
+2.தேவைகள் என்னை சூழ்ந்ததே
+உம் கரங்கள் எல்லாம் தந்ததே - 2
+எட்டாததை என் கையில்
+எடுத்து தந்தீர் இயேசுவே - 2 - நீர் செய்ததை
+
+`,
+            "english": `
+Ekkaalamum Sthotharippaen
+Enneramum Thuthithiduvaen
+Ennai Thaazhthi Paninthiduvaen
+Um Naamam Uyarthuvaen 
+Ummai Paadi Magizhuvaen - 2
+
+Neer Seithathai Marakka Koodumo
+Intha Vaazhkai Neer Thanthathae - 2
+Ummai Rusithaen Nallavarentru 
+Innum Thuthippaen Nantriyodu - 2
+
+1. Kaalangal Kadanthu Ponathae 
+Um Kirubai Ennai Niruthuthae - 2
+Ikkattukkellaam Vilakki 
+Unthan Maraivil Vaitheerae - 2 - Neer Seithathai
+
+2. Thevaigal Ennai Soozhnthathae 
+Um Karangal Ellaam Thanthathae - 2
+Ettaathathai En Kaiyil
+Eduthu Thantheer Yesuvae - 2 - Neer Seithathai
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+</head>
+
+<body>
+    <div class="contentWrapper">
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
