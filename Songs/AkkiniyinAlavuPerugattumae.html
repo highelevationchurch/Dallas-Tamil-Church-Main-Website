@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=E5p6tkX2G8w"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com"
+            },
+            {
+              "title": "Placeholder",
+              "url": "AkkiniyinAlavuPerugattumaePPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+அக்கினியின் அளவு பெருகட்டுமே
+பெருகட்டுமே என்னில்️ பெருகட்டுமே -2
+எழுப்புதல்️ அக்கினியை ஊற்றுமையா
+சபையை எழுப்புதலாய் மாற்றுமையா -2
+
+1. பரலோகம் எதிர்ப்பார்க்கும் ஆராதனை செய்ய
+அக்கினியை ஊற்றிடுமே -2
+எங்கள் பலிபீடங்களும் ஆராதனைகளும்
+நெருப்பாய் மாறட்டுமே -2
+
+2. பூமியின் மேல்️ உம் அக்கினியை
+பொழிந்திட வந்தவரே -2
+அது இப்போதே எங்கள் மத்தியிலே (உள்ளத்திலே)
+பற்றி எரியட்டுமே -2
+
+3. சிலுவையின் மரணத்தால்️ சாத்தானை ஜெயித்த
+இயேசுவின் நாமத்தினால்️ (இரத்தத்தினால்️) -2
+எங்கள் தேசத்தின் பொல்️லாத ஆவிகள் எல்️லாம்
+அக்கினியால்️ எரியட்டுமே (அழியட்டுமே) -2
+
+`,
+            "english": `
+Akkiniyin alavu perugattumae
+Perugattumae Ennil perugattume – 2
+Ezhupputhal akkiniyai ootrumaiya
+Sapaiyai ezhupputhalai matrumaiya – 2 – Akkini
+
+1. Paralogam ethirpparkkum aarathanai seiya
+Akkiniyai otridume – 2
+Engal palipeedaangalum arathanaigalum
+Neruppai marattume – 2 – Akkini
+
+2. Boomiyin mel um akkiniyai
+Pozhinthida vanthavare – 2
+Athu ippothe engal maththiyile (Ullaththile)
+Patri eriyattume – 2 – Akkini
+
+3. Siluvaiyin maranaththal saththnai jeyiththa
+Yesuvin namaththinal (Iraththinal) – 2
+Engal thesaththin pollatha aavigal ellam
+Akkiniyal eriyattume (Azhiyattume) – 2 – Akkini
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+</head>
+
+<body>
+    <div class="contentWrapper">
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
