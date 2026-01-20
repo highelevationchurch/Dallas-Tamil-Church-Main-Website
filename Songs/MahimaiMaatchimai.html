@@ -3,61 +3,173 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahimai Maatchimai Nirainthiavarae</title>
-    <link href="css/fontStyle.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=nHu1TM9s168"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com/document/d/1Zbm-ttxD-CXIhC-ejxfMbeGenIXUm3X1OEDWoncwlIc/edit?tab=t.0"
+            },
+            {
+              "title": "Placeholder",
+              "url": "MahimaiMaatchimaiPPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+மகிமை மாட்சிமை நிறைந்தவரே!
+மகிழ்வுடன் தொழுதிடுவோம்
+பரிசுத்த தேவனாம் இயேசுவை
+பணிந்தே தொழுகுவோம்
+
+1. உன்னத தேவன் நீரே!
+ஞானம் நிறைந்தவரே
+முழங்கால் யாவுமே
+பாரில் மடங்கிடுதே
+உயர்ந்தவரே சிறந்தவரே!
+என்றும் தொழுதிடுவோம் – மகிமை
+
+2. ஒருவரும் சேரா ஒளியில்
+வாசம் செய்பவரே!
+ஒளியினை தந்ததுமே
+இதயத்தில் வாசம் செய்யும்
+ஒளிநிறைவே அருள் நிறைவே!
+என்றும் தொழுதிடுவோம் – மகிமை
+
+3. பரிசுத்த தேவன் நீரே!
+பாதம் பணிந்திடுவோம்
+கழுவியே நிறுத்தினீரே
+சத்திய தேவன் நீரே!
+கனம் மகிமை செலுத்தியே நாம்
+என்றும் தொழுதிடுவோம் – மகிமை
+
+4. நித்திய தேவன் நீரே!
+நீதி நிறைந்தவரே!
+அடைக்கலமானவரே!
+அன்பு நிறைந்தவரே!
+நல்லவரே வல்லவரே!
+என்றும் தொழுதிடுவோம் – மகிமை
+
+5. அற்புதம் தேவன் நீரே!
+ஆசீர் அளிப்பவரே!
+அகமதில் மகிழ்ந்துமே
+துதியினில் புகழ்ந்துமே
+ஆவியோடும் உண்மையோடும்
+என்றும் தொழுதிடுவோம் – மகிமை
+
+`,
+            "english": `
+Magimai Matchimai Nirainthavare
+Magilvudan tholuthiduvom
+Parisuththa devanaam yesuvai
+Paninthe tholuvom
+
+1. Unnatha devan neere
+Niyaanam nirainthavare
+Mulangaal yaavume
+Paaril madangiduthe
+Uyarnthavare siranthavare
+Endrum tholuthiduvom – Magimai
+
+2. Oruvarum seeraa oliyil
+Vaasam seibavare
+Oliyinai thanthathume
+Ithayathil vaasam seiyum
+Oliniraive arul niraive
+Endrum tholuthiduvom – Magimai
+
+3. Parisuththa devan neere
+Paatham paninthiduvom
+Kaluviye niruththineere
+Sathiyaa devane neere
+Kanam magimai seluththiye
+Naam endrum tholuthiduvom – Magimai
+
+4. Niththiyaa devan neere
+Neethi nirainthavare
+Adaikkalamaanavare
+Anbu nirainthavare
+Nallavare vallavare
+Endrum tholuthiduvom – Magimai
+
+5. Arputham devan neere
+Aaseer alippavare
+Agamathil magilnthume
+Thuthiyinil pugalnthume
+Aaviyodum Unmaiyodum
+Endrum tholuthiduvom – Magimai
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
 </head>
 
 <body>
     <div class="contentWrapper">
-        <div class="linkWrapper">
-            <div class="viewSong">
-                <a href="https://www.youtube.com/watch?v=nHu1TM9s168" target="_blank" class="downloadPptSong">View Video</a>
-            </div>
-			<div class="viewChords">
-                <a href="https://docs.google.com/document/d/1Zbm-ttxD-CXIhC-ejxfMbeGenIXUm3X1OEDWoncwlIc/edit?tab=t.0" target="_blank" class="downloadPptSong">View Chords</a>
-            </div>
-            <div class="downloadSong">
-                <a href="MahimaiMaatchimaiPPT.pptx" class="downloadPptSong">Download PPT</a>
-            </div>
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
         </div>
         <div>
-            <center><h3 class="songTitle">Mahimai Maatchimai Nirainthiavarae</h3></center>
-        </div>
-        <div>
-            <p class="contentTamil">
-மகிமை மாட்சிமை நிறைந்தவரே<br>
-மகிழ்வுடன் தொழுதிடுவோம்<br>
-பரிசுத்த தேவனாம் இயேசுவை<br>
-பணிந்தே தொழுகுவோம்<br>
-<br>
-உன்னத தேவன் நீரே<br>
-ஞானம் நிறைந்தவரே<br>
-முழங்கால் யாவுமே பாரில் மடங்கிடுதே<br>
-உயர்ந்தவரே சிறந்தவரே<br>
-என்றும் தொழுதிடுவோம்<br>
-<br>
-ஒருவரும் சேராஒளியில் வாசம் செய்பவரே<br>
-ஒளியினை தந்துமே இதயத்தில்<br>
-வாசம் செய்யும்<br>
-ஒளி நிறைவே அருள்நிறைவே<br>
-என்றும் தொழுதிடுவோம்<br>
-<br>
-பரிசுத்த தேவன் நீரே பாதம் பணிந்திடுவோம்<br>
-கழுவியே நிறுத்தினீரே<br>
-சந்திய நிறுத்தினீரே<br>
-கனம் மகிமை செலுத்தியே நாம்<br>
-என்றும் தொழுதிடுவோம்<br>
-<br>
-
-
-            </p>
-			<!-- <hr>
-            <p class="contentEnglish">
-&nbsp;
-
-<br>
-		 
-            </p> -->
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
         </div>
     </div>
 </body>
