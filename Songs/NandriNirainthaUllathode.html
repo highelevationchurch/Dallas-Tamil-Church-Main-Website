@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <style>
+        .header-container { display: flex; justify-content: space-between; align-items: center;}
+    </style>
+
+    <script>
+        // Note: The song title is derived automatically from this HTML file name with the script below.
+        const songData = {
+          "links": [
+            {
+              "title": "View Video",
+              "url": "https://www.youtube.com/watch?v=0FSIVX2-_SM&list=RD0FSIVX2-_SM&start_radio=1"
+            },
+            {
+              "title": "View Chords",
+              "url": "https://docs.google.com"
+            },
+            {
+              "title": "Placeholder",
+              "url": "NandriNirainthaUllathodePPT.pptx"
+            }
+          ],
+          "lyrics": {
+            "tamil": `
+நன்றி நிறைந்த உள்ளத்தோடே
+பாடி துதித்திடுவேன்
+பரவசம் ஆகிடுவேன்
+பாடி துதிப்பேன் இயேசுவை
+
+(1) நீர் செய்த நன்மைகள் ஏராளம்
+அதை எண்ணவே முடியாதப்பா
+ஒவ்வொரு நாட்களிலும்
+வலக்கரம் பிடித்தென்னை
+தாங்கி நடத்தி வந்தீர்
+
+(2) சோர்வான நேரத்தில் என்னை
+அழைத்து மார்போடு அணைத்தீரையா
+கலங்காதே திகையாதே
+நான் உன் தேவன் என்று
+தைரியப்படுத்தினீரே
+
+`,
+            "english": `
+Nandri niraintha ullaththotae
+Paadi thuthiththiduvaen
+Paravasam aakiduvaen
+Paadi thuthippaen Yesuvai
+
+(1) Neer seytha nanmaikal yeraalam
+Athai ennnavae mutiyaathappaa
+Ovvaru naatkalilum
+Valakkaram pitiththennai
+Thaangi nadaththi vantheer
+
+(2) Sorvaana naeraththil ennai
+Alaiththu maarpodu annaiththeeraiyaa
+Kalangaathae thikaiyaathae
+Naan un thaevan endru
+Thairiyappaduththineerae
+
+`
+          }
+        };
+
+        // This script uses the 'songData' object to populate the page content.
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set page title and heading from the filename (e.g., "MySong.html" -> "My Song")
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            // Format the title: remove .html, replace underscores, and split camelCase.
+            const pageTitle = decodeURIComponent(filename.replace('.html', ''))
+                .replace(/_/g, ' ')
+                .replace(/([a-z])([A-Z])/g, '$1 $2');
+            
+            document.title = pageTitle;
+            
+            const headerContainer = document.getElementById('header-container');
+
+            // Dynamically create links from the songData array
+            songData.links.forEach(linkInfo => {
+                const linkDiv = document.createElement('div');
+
+                const linkElement = document.createElement('a');
+                linkElement.href = linkInfo.url;
+                linkElement.textContent = linkInfo.title;
+                linkElement.className = 'downloadPptSong';
+
+                // Open external links in a new tab
+                if (linkInfo.url.startsWith('http')) {
+                    linkElement.target = '_blank';
+                }
+
+                linkDiv.appendChild(linkElement);
+                headerContainer.appendChild(linkDiv);
+            });
+            
+            const titleElement = document.createElement('h3');
+            titleElement.id = 'song-title';
+            titleElement.className = 'songTitle';
+            titleElement.textContent = pageTitle;
+
+            const centerWrapper = document.createElement('center');
+            centerWrapper.appendChild(titleElement);
+            headerContainer.after(centerWrapper);
+            
+            // Using template literals allows for multiline strings. We replace the newline characters with <br> tags for HTML rendering.
+            document.getElementById('tamil-lyrics').innerHTML = songData.lyrics.tamil.replace(/\n/g, '<br>');
+            document.getElementById('english-lyrics').innerHTML = songData.lyrics.english.replace(/\n/g, '<br>');
+        });
+    </script>
+</head>
+
+<body>
+    <div class="contentWrapper">
+        <div id="header-container" class="header-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+        <div>
+            <p id="tamil-lyrics" class="contentTamil"></p>
+            <p id="english-lyrics" class="contentEnglish"></p>
+        </div>
+    </div>
+</body>
+</html>
